@@ -1,0 +1,52 @@
+
+beijing [2025/11/2 17:33:58][sync] to do: ltsot_create
+[version] api:0.5.0m, lib:0.9.6
+[create] configure parameters: sot_dtc_run_timegap: 250ms, switch_to_tk1_threshold:400ms,detector_simu_cost_time:0ms, detector thread num: 1, log_image_interval: 0, ltsot_process_simu_cost_time: 0
+[create] frame writer ... OK
+[create] tracker ... OK
+[create] fusion ... OK
+ltsot_create not support create cnn model now, please use ltsot_add_model interface
+[create] proposer num_lost_kill_track:3
+... OK
+ltsot_create not support create cnn model now, please use ltsot_add_model interface
+[create] tk out list ... OK
+[create] det frame list ... OK
+[sync] ltsot_create done
+[WARNING} ltsot_create_model_type interface is not support now
+
+beijing [2025/11/2 17:33:58]ltsot_add_model: To add and load new model:6... OK!
+exist_models_.size=1
+
+beijing [2025/11/2 17:33:58]ltsot_add_model: To add and load new model:7... OK!
+exist_models_.size=2
+
+beijing [2025/11/2 17:33:58]ltsot_set_scene: Set ltsot to scene:2, camera_type: 2, frame_rotate: 0
+Switch detector to person_detector_horizontal
+because only person detector exists now, scene_type is not used
+LOW_FRAME_RATE: set frame_type = ML_ROTATE_0
+
+beijing [2025/11/2 17:47:1][sync] to do: ltsot_create
+[version] api:0.5.0m, lib:0.9.6
+[create] configure parameters: sot_dtc_run_timegap: 250ms, switch_to_tk1_threshold:400ms,detector_simu_cost_time:0ms, detector thread num: 1, log_image_interval: 0, ltsot_process_simu_cost_time: 0
+[create] frame writer ... OK
+[create] tracker ... OK
+[create] fusion ... OK
+ltsot_create not support create cnn model now, please use ltsot_add_model interface
+[create] proposer num_lost_kill_track:3
+... OK
+ltsot_create not support create cnn model now, please use ltsot_add_model interface
+[create] tk out list ... OK
+[create] det frame list ... OK
+[sync] ltsot_create done
+[WARNING} ltsot_create_model_type interface is not support now
+
+beijing [2025/11/2 17:47:1]ltsot_add_model: To add and load new model:6... OK!
+exist_models_.size=1
+
+beijing [2025/11/2 17:47:1]ltsot_add_model: To add and load new model:7... OK!
+exist_models_.size=2
+
+beijing [2025/11/2 17:47:1]ltsot_set_scene: Set ltsot to scene:2, camera_type: 2, frame_rotate: 0
+Switch detector to person_detector_horizontal
+because only person detector exists now, scene_type is not used
+LOW_FRAME_RATE: set frame_type = ML_ROTATE_0

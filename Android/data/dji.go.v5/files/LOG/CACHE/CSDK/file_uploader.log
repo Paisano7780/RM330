@@ -1,0 +1,1288 @@
+[2025-05-15 13:44:27.183] [DJIFileUploaderSDK] [info] [thread 2207] DJIFileUploaderSDK start init
+[2025-05-15 13:44:27.183] [DJIFileUploaderSDK] [info] [thread 2207] Will init AWS SDK
+[2025-05-15 13:44:27.203] [DJIFileUploaderSDK] [info] [thread 2207] Did init AWS SDK
+[2025-05-15 13:44:27.204] [DJIFileUploaderSDK] [info] [thread 2207] Will init OSS SDK
+[2025-05-15 13:44:27.204] [DJIFileUploaderSDK] [info] [thread 2207] Did init OSS SDK
+[2025-05-15 13:44:27.204] [DJIFileUploaderSDK] [info] [thread 2207] Will init option
+[2025-05-15 13:44:27.204] [DJIFileUploaderSDK] [info] [thread 2207] Did init option
+[2025-05-15 13:44:27.204] [DJIFileUploaderSDK] [info] [thread 2207] Finish SDK init, set log level to 2
+[2025-05-15 14:42:46.358] [DJIFileUploaderSDK] [info] [thread 2204] DJIFileUploaderSDK start init
+[2025-05-15 14:42:46.358] [DJIFileUploaderSDK] [info] [thread 2204] Will init AWS SDK
+[2025-05-15 14:42:46.379] [DJIFileUploaderSDK] [info] [thread 2204] Did init AWS SDK
+[2025-05-15 14:42:46.379] [DJIFileUploaderSDK] [info] [thread 2204] Will init OSS SDK
+[2025-05-15 14:42:46.380] [DJIFileUploaderSDK] [info] [thread 2204] Did init OSS SDK
+[2025-05-15 14:42:46.380] [DJIFileUploaderSDK] [info] [thread 2204] Will init option
+[2025-05-15 14:42:46.380] [DJIFileUploaderSDK] [info] [thread 2204] Did init option
+[2025-05-15 14:42:46.380] [DJIFileUploaderSDK] [info] [thread 2204] Finish SDK init, set log level to 2
+[2025-05-21 11:51:25.175] [DJIFileUploaderSDK] [info] [thread 2225] DJIFileUploaderSDK start init
+[2025-05-21 11:51:25.175] [DJIFileUploaderSDK] [info] [thread 2225] Will init AWS SDK
+[2025-05-21 11:51:25.199] [DJIFileUploaderSDK] [info] [thread 2225] Did init AWS SDK
+[2025-05-21 11:51:25.199] [DJIFileUploaderSDK] [info] [thread 2225] Will init OSS SDK
+[2025-05-21 11:51:25.200] [DJIFileUploaderSDK] [info] [thread 2225] Did init OSS SDK
+[2025-05-21 11:51:25.200] [DJIFileUploaderSDK] [info] [thread 2225] Will init option
+[2025-05-21 11:51:25.200] [DJIFileUploaderSDK] [info] [thread 2225] Did init option
+[2025-05-21 11:51:25.200] [DJIFileUploaderSDK] [info] [thread 2225] Finish SDK init, set log level to 2
+[2025-05-21 12:33:33.588] [DJIFileUploaderSDK] [info] [thread 5250] DJIFileUploaderSDK start init
+[2025-05-21 12:33:33.592] [DJIFileUploaderSDK] [info] [thread 5250] Will init AWS SDK
+[2025-05-21 12:33:33.721] [DJIFileUploaderSDK] [info] [thread 5250] Did init AWS SDK
+[2025-05-21 12:33:33.721] [DJIFileUploaderSDK] [info] [thread 5250] Will init OSS SDK
+[2025-05-21 12:33:33.722] [DJIFileUploaderSDK] [info] [thread 5250] Did init OSS SDK
+[2025-05-21 12:33:33.722] [DJIFileUploaderSDK] [info] [thread 5250] Will init option
+[2025-05-21 12:33:33.722] [DJIFileUploaderSDK] [info] [thread 5250] Did init option
+[2025-05-21 12:33:33.722] [DJIFileUploaderSDK] [info] [thread 5250] Finish SDK init, set log level to 2
+[2025-05-21 12:49:31.821] [DJIFileUploaderSDK] [info] [thread 2221] DJIFileUploaderSDK start init
+[2025-05-21 12:49:31.821] [DJIFileUploaderSDK] [info] [thread 2221] Will init AWS SDK
+[2025-05-21 12:49:31.848] [DJIFileUploaderSDK] [info] [thread 2221] Did init AWS SDK
+[2025-05-21 12:49:31.848] [DJIFileUploaderSDK] [info] [thread 2221] Will init OSS SDK
+[2025-05-21 12:49:31.849] [DJIFileUploaderSDK] [info] [thread 2221] Did init OSS SDK
+[2025-05-21 12:49:31.849] [DJIFileUploaderSDK] [info] [thread 2221] Will init option
+[2025-05-21 12:49:31.849] [DJIFileUploaderSDK] [info] [thread 2221] Did init option
+[2025-05-21 12:49:31.849] [DJIFileUploaderSDK] [info] [thread 2221] Finish SDK init, set log level to 2
+[2025-05-21 13:14:26.546] [DJIFileUploaderSDK] [info] [thread 2178] DJIFileUploaderSDK start init
+[2025-05-21 13:14:26.546] [DJIFileUploaderSDK] [info] [thread 2178] Will init AWS SDK
+[2025-05-21 13:14:26.577] [DJIFileUploaderSDK] [info] [thread 2178] Did init AWS SDK
+[2025-05-21 13:14:26.577] [DJIFileUploaderSDK] [info] [thread 2178] Will init OSS SDK
+[2025-05-21 13:14:26.578] [DJIFileUploaderSDK] [info] [thread 2178] Did init OSS SDK
+[2025-05-21 13:14:26.578] [DJIFileUploaderSDK] [info] [thread 2178] Will init option
+[2025-05-21 13:14:26.578] [DJIFileUploaderSDK] [info] [thread 2178] Did init option
+[2025-05-21 13:14:26.578] [DJIFileUploaderSDK] [info] [thread 2178] Finish SDK init, set log level to 2
+[2025-05-21 14:09:47.616] [DJIFileUploaderSDK] [info] [thread 2179] DJIFileUploaderSDK start init
+[2025-05-21 14:09:47.617] [DJIFileUploaderSDK] [info] [thread 2179] Will init AWS SDK
+[2025-05-21 14:09:47.641] [DJIFileUploaderSDK] [info] [thread 2179] Did init AWS SDK
+[2025-05-21 14:09:47.641] [DJIFileUploaderSDK] [info] [thread 2179] Will init OSS SDK
+[2025-05-21 14:09:47.642] [DJIFileUploaderSDK] [info] [thread 2179] Did init OSS SDK
+[2025-05-21 14:09:47.642] [DJIFileUploaderSDK] [info] [thread 2179] Will init option
+[2025-05-21 14:09:47.642] [DJIFileUploaderSDK] [info] [thread 2179] Did init option
+[2025-05-21 14:09:47.642] [DJIFileUploaderSDK] [info] [thread 2179] Finish SDK init, set log level to 2
+[2025-05-21 14:23:26.482] [DJIFileUploaderSDK] [info] [thread 2175] DJIFileUploaderSDK start init
+[2025-05-21 14:23:26.482] [DJIFileUploaderSDK] [info] [thread 2175] Will init AWS SDK
+[2025-05-21 14:23:26.509] [DJIFileUploaderSDK] [info] [thread 2175] Did init AWS SDK
+[2025-05-21 14:23:26.509] [DJIFileUploaderSDK] [info] [thread 2175] Will init OSS SDK
+[2025-05-21 14:23:26.510] [DJIFileUploaderSDK] [info] [thread 2175] Did init OSS SDK
+[2025-05-21 14:23:26.510] [DJIFileUploaderSDK] [info] [thread 2175] Will init option
+[2025-05-21 14:23:26.510] [DJIFileUploaderSDK] [info] [thread 2175] Did init option
+[2025-05-21 14:23:26.510] [DJIFileUploaderSDK] [info] [thread 2175] Finish SDK init, set log level to 2
+[2025-05-21 16:06:48.501] [DJIFileUploaderSDK] [info] [thread 2176] DJIFileUploaderSDK start init
+[2025-05-21 16:06:48.501] [DJIFileUploaderSDK] [info] [thread 2176] Will init AWS SDK
+[2025-05-21 16:06:48.532] [DJIFileUploaderSDK] [info] [thread 2176] Did init AWS SDK
+[2025-05-21 16:06:48.532] [DJIFileUploaderSDK] [info] [thread 2176] Will init OSS SDK
+[2025-05-21 16:06:48.533] [DJIFileUploaderSDK] [info] [thread 2176] Did init OSS SDK
+[2025-05-21 16:06:48.533] [DJIFileUploaderSDK] [info] [thread 2176] Will init option
+[2025-05-21 16:06:48.533] [DJIFileUploaderSDK] [info] [thread 2176] Did init option
+[2025-05-21 16:06:48.533] [DJIFileUploaderSDK] [info] [thread 2176] Finish SDK init, set log level to 2
+[2025-05-21 18:58:29.521] [DJIFileUploaderSDK] [info] [thread 2378] DJIFileUploaderSDK start init
+[2025-05-21 18:58:29.521] [DJIFileUploaderSDK] [info] [thread 2378] Will init AWS SDK
+[2025-05-21 18:58:29.564] [DJIFileUploaderSDK] [info] [thread 2378] Did init AWS SDK
+[2025-05-21 18:58:29.564] [DJIFileUploaderSDK] [info] [thread 2378] Will init OSS SDK
+[2025-05-21 18:58:29.565] [DJIFileUploaderSDK] [info] [thread 2378] Did init OSS SDK
+[2025-05-21 18:58:29.565] [DJIFileUploaderSDK] [info] [thread 2378] Will init option
+[2025-05-21 18:58:29.565] [DJIFileUploaderSDK] [info] [thread 2378] Did init option
+[2025-05-21 18:58:29.565] [DJIFileUploaderSDK] [info] [thread 2378] Finish SDK init, set log level to 2
+[2025-05-24 16:00:26.781] [DJIFileUploaderSDK] [info] [thread 2656] DJIFileUploaderSDK start init
+[2025-05-24 16:00:26.782] [DJIFileUploaderSDK] [info] [thread 2656] Will init AWS SDK
+[2025-05-24 16:00:26.842] [DJIFileUploaderSDK] [info] [thread 2656] Did init AWS SDK
+[2025-05-24 16:00:26.842] [DJIFileUploaderSDK] [info] [thread 2656] Will init OSS SDK
+[2025-05-24 16:00:26.843] [DJIFileUploaderSDK] [info] [thread 2656] Did init OSS SDK
+[2025-05-24 16:00:26.843] [DJIFileUploaderSDK] [info] [thread 2656] Will init option
+[2025-05-24 16:00:26.843] [DJIFileUploaderSDK] [info] [thread 2656] Did init option
+[2025-05-24 16:00:26.843] [DJIFileUploaderSDK] [info] [thread 2656] Finish SDK init, set log level to 2
+[2025-05-24 16:53:17.704] [DJIFileUploaderSDK] [info] [thread 2173] DJIFileUploaderSDK start init
+[2025-05-24 16:53:17.704] [DJIFileUploaderSDK] [info] [thread 2173] Will init AWS SDK
+[2025-05-24 16:53:17.726] [DJIFileUploaderSDK] [info] [thread 2173] Did init AWS SDK
+[2025-05-24 16:53:17.726] [DJIFileUploaderSDK] [info] [thread 2173] Will init OSS SDK
+[2025-05-24 16:53:17.727] [DJIFileUploaderSDK] [info] [thread 2173] Did init OSS SDK
+[2025-05-24 16:53:17.727] [DJIFileUploaderSDK] [info] [thread 2173] Will init option
+[2025-05-24 16:53:17.727] [DJIFileUploaderSDK] [info] [thread 2173] Did init option
+[2025-05-24 16:53:17.727] [DJIFileUploaderSDK] [info] [thread 2173] Finish SDK init, set log level to 2
+[2025-05-24 17:01:14.747] [DJIFileUploaderSDK] [info] [thread 5068] DJIFileUploaderSDK start init
+[2025-05-24 17:01:14.748] [DJIFileUploaderSDK] [info] [thread 5068] Will init AWS SDK
+[2025-05-24 17:01:14.868] [DJIFileUploaderSDK] [info] [thread 5068] Did init AWS SDK
+[2025-05-24 17:01:14.869] [DJIFileUploaderSDK] [info] [thread 5068] Will init OSS SDK
+[2025-05-24 17:01:14.869] [DJIFileUploaderSDK] [info] [thread 5068] Did init OSS SDK
+[2025-05-24 17:01:14.869] [DJIFileUploaderSDK] [info] [thread 5068] Will init option
+[2025-05-24 17:01:14.869] [DJIFileUploaderSDK] [info] [thread 5068] Did init option
+[2025-05-24 17:01:14.869] [DJIFileUploaderSDK] [info] [thread 5068] Finish SDK init, set log level to 2
+[2025-05-24 17:04:41.472] [DJIFileUploaderSDK] [info] [thread 2361] DJIFileUploaderSDK start init
+[2025-05-24 17:04:41.473] [DJIFileUploaderSDK] [info] [thread 2361] Will init AWS SDK
+[2025-05-24 17:04:41.520] [DJIFileUploaderSDK] [info] [thread 2361] Did init AWS SDK
+[2025-05-24 17:04:41.520] [DJIFileUploaderSDK] [info] [thread 2361] Will init OSS SDK
+[2025-05-24 17:04:41.521] [DJIFileUploaderSDK] [info] [thread 2361] Did init OSS SDK
+[2025-05-24 17:04:41.521] [DJIFileUploaderSDK] [info] [thread 2361] Will init option
+[2025-05-24 17:04:41.521] [DJIFileUploaderSDK] [info] [thread 2361] Did init option
+[2025-05-24 17:04:41.521] [DJIFileUploaderSDK] [info] [thread 2361] Finish SDK init, set log level to 2
+[2025-05-26 15:18:30.592] [DJIFileUploaderSDK] [info] [thread 2378] DJIFileUploaderSDK start init
+[2025-05-26 15:18:30.593] [DJIFileUploaderSDK] [info] [thread 2378] Will init AWS SDK
+[2025-05-26 15:18:30.646] [DJIFileUploaderSDK] [info] [thread 2378] Did init AWS SDK
+[2025-05-26 15:18:30.646] [DJIFileUploaderSDK] [info] [thread 2378] Will init OSS SDK
+[2025-05-26 15:18:30.647] [DJIFileUploaderSDK] [info] [thread 2378] Did init OSS SDK
+[2025-05-26 15:18:30.647] [DJIFileUploaderSDK] [info] [thread 2378] Will init option
+[2025-05-26 15:18:30.647] [DJIFileUploaderSDK] [info] [thread 2378] Did init option
+[2025-05-26 15:18:30.647] [DJIFileUploaderSDK] [info] [thread 2378] Finish SDK init, set log level to 2
+[2025-05-24 19:01:59.459] [DJIFileUploaderSDK] [info] [thread 2369] DJIFileUploaderSDK start init
+[2025-05-24 19:01:59.463] [DJIFileUploaderSDK] [info] [thread 2369] Will init AWS SDK
+[2025-05-24 19:01:59.491] [DJIFileUploaderSDK] [info] [thread 2369] Did init AWS SDK
+[2025-05-24 19:01:59.491] [DJIFileUploaderSDK] [info] [thread 2369] Will init OSS SDK
+[2025-05-24 19:01:59.491] [DJIFileUploaderSDK] [info] [thread 2369] Did init OSS SDK
+[2025-05-24 19:01:59.491] [DJIFileUploaderSDK] [info] [thread 2369] Will init option
+[2025-05-24 19:01:59.492] [DJIFileUploaderSDK] [info] [thread 2369] Did init option
+[2025-05-24 19:01:59.492] [DJIFileUploaderSDK] [info] [thread 2369] Finish SDK init, set log level to 2
+[2025-05-27 11:35:40.612] [DJIFileUploaderSDK] [info] [thread 2361] DJIFileUploaderSDK start init
+[2025-05-27 11:35:40.613] [DJIFileUploaderSDK] [info] [thread 2361] Will init AWS SDK
+[2025-05-27 11:35:40.670] [DJIFileUploaderSDK] [info] [thread 2361] Did init AWS SDK
+[2025-05-27 11:35:40.670] [DJIFileUploaderSDK] [info] [thread 2361] Will init OSS SDK
+[2025-05-27 11:35:40.672] [DJIFileUploaderSDK] [info] [thread 2361] Did init OSS SDK
+[2025-05-27 11:35:40.672] [DJIFileUploaderSDK] [info] [thread 2361] Will init option
+[2025-05-27 11:35:40.672] [DJIFileUploaderSDK] [info] [thread 2361] Did init option
+[2025-05-27 11:35:40.672] [DJIFileUploaderSDK] [info] [thread 2361] Finish SDK init, set log level to 2
+[2025-05-28 09:49:15.545] [DJIFileUploaderSDK] [info] [thread 2369] DJIFileUploaderSDK start init
+[2025-05-28 09:49:15.546] [DJIFileUploaderSDK] [info] [thread 2369] Will init AWS SDK
+[2025-05-28 09:49:15.607] [DJIFileUploaderSDK] [info] [thread 2369] Did init AWS SDK
+[2025-05-28 09:49:15.607] [DJIFileUploaderSDK] [info] [thread 2369] Will init OSS SDK
+[2025-05-28 09:49:15.608] [DJIFileUploaderSDK] [info] [thread 2369] Did init OSS SDK
+[2025-05-28 09:49:15.608] [DJIFileUploaderSDK] [info] [thread 2369] Will init option
+[2025-05-28 09:49:15.608] [DJIFileUploaderSDK] [info] [thread 2369] Did init option
+[2025-05-28 09:49:15.608] [DJIFileUploaderSDK] [info] [thread 2369] Finish SDK init, set log level to 2
+[2025-05-28 10:16:03.805] [DJIFileUploaderSDK] [info] [thread 2374] DJIFileUploaderSDK start init
+[2025-05-28 10:16:03.805] [DJIFileUploaderSDK] [info] [thread 2374] Will init AWS SDK
+[2025-05-28 10:16:03.859] [DJIFileUploaderSDK] [info] [thread 2374] Did init AWS SDK
+[2025-05-28 10:16:03.859] [DJIFileUploaderSDK] [info] [thread 2374] Will init OSS SDK
+[2025-05-28 10:16:03.860] [DJIFileUploaderSDK] [info] [thread 2374] Did init OSS SDK
+[2025-05-28 10:16:03.860] [DJIFileUploaderSDK] [info] [thread 2374] Will init option
+[2025-05-28 10:16:03.860] [DJIFileUploaderSDK] [info] [thread 2374] Did init option
+[2025-05-28 10:16:03.860] [DJIFileUploaderSDK] [info] [thread 2374] Finish SDK init, set log level to 2
+[2025-05-28 10:31:10.009] [DJIFileUploaderSDK] [info] [thread 2381] DJIFileUploaderSDK start init
+[2025-05-28 10:31:10.012] [DJIFileUploaderSDK] [info] [thread 2381] Will init AWS SDK
+[2025-05-28 10:31:10.069] [DJIFileUploaderSDK] [info] [thread 2381] Did init AWS SDK
+[2025-05-28 10:31:10.069] [DJIFileUploaderSDK] [info] [thread 2381] Will init OSS SDK
+[2025-05-28 10:31:10.070] [DJIFileUploaderSDK] [info] [thread 2381] Did init OSS SDK
+[2025-05-28 10:31:10.070] [DJIFileUploaderSDK] [info] [thread 2381] Will init option
+[2025-05-28 10:31:10.070] [DJIFileUploaderSDK] [info] [thread 2381] Did init option
+[2025-05-28 10:31:10.070] [DJIFileUploaderSDK] [info] [thread 2381] Finish SDK init, set log level to 2
+[2025-05-28 10:59:44.990] [DJIFileUploaderSDK] [info] [thread 2372] DJIFileUploaderSDK start init
+[2025-05-28 10:59:44.990] [DJIFileUploaderSDK] [info] [thread 2372] Will init AWS SDK
+[2025-05-28 10:59:45.033] [DJIFileUploaderSDK] [info] [thread 2372] Did init AWS SDK
+[2025-05-28 10:59:45.034] [DJIFileUploaderSDK] [info] [thread 2372] Will init OSS SDK
+[2025-05-28 10:59:45.034] [DJIFileUploaderSDK] [info] [thread 2372] Did init OSS SDK
+[2025-05-28 10:59:45.034] [DJIFileUploaderSDK] [info] [thread 2372] Will init option
+[2025-05-28 10:59:45.034] [DJIFileUploaderSDK] [info] [thread 2372] Did init option
+[2025-05-28 10:59:45.034] [DJIFileUploaderSDK] [info] [thread 2372] Finish SDK init, set log level to 2
+[2025-05-28 11:23:15.448] [DJIFileUploaderSDK] [info] [thread 2162] DJIFileUploaderSDK start init
+[2025-05-28 11:23:15.448] [DJIFileUploaderSDK] [info] [thread 2162] Will init AWS SDK
+[2025-05-28 11:23:15.479] [DJIFileUploaderSDK] [info] [thread 2162] Did init AWS SDK
+[2025-05-28 11:23:15.479] [DJIFileUploaderSDK] [info] [thread 2162] Will init OSS SDK
+[2025-05-28 11:23:15.480] [DJIFileUploaderSDK] [info] [thread 2162] Did init OSS SDK
+[2025-05-28 11:23:15.480] [DJIFileUploaderSDK] [info] [thread 2162] Will init option
+[2025-05-28 11:23:15.480] [DJIFileUploaderSDK] [info] [thread 2162] Did init option
+[2025-05-28 11:23:15.480] [DJIFileUploaderSDK] [info] [thread 2162] Finish SDK init, set log level to 2
+[2025-05-28 12:03:16.556] [DJIFileUploaderSDK] [info] [thread 2173] DJIFileUploaderSDK start init
+[2025-05-28 12:03:16.556] [DJIFileUploaderSDK] [info] [thread 2173] Will init AWS SDK
+[2025-05-28 12:03:16.585] [DJIFileUploaderSDK] [info] [thread 2173] Did init AWS SDK
+[2025-05-28 12:03:16.585] [DJIFileUploaderSDK] [info] [thread 2173] Will init OSS SDK
+[2025-05-28 12:03:16.586] [DJIFileUploaderSDK] [info] [thread 2173] Did init OSS SDK
+[2025-05-28 12:03:16.586] [DJIFileUploaderSDK] [info] [thread 2173] Will init option
+[2025-05-28 12:03:16.586] [DJIFileUploaderSDK] [info] [thread 2173] Did init option
+[2025-05-28 12:03:16.586] [DJIFileUploaderSDK] [info] [thread 2173] Finish SDK init, set log level to 2
+[2025-05-28 14:04:11.612] [DJIFileUploaderSDK] [info] [thread 2163] DJIFileUploaderSDK start init
+[2025-05-28 14:04:11.612] [DJIFileUploaderSDK] [info] [thread 2163] Will init AWS SDK
+[2025-05-28 14:04:11.634] [DJIFileUploaderSDK] [info] [thread 2163] Did init AWS SDK
+[2025-05-28 14:04:11.634] [DJIFileUploaderSDK] [info] [thread 2163] Will init OSS SDK
+[2025-05-28 14:04:11.635] [DJIFileUploaderSDK] [info] [thread 2163] Did init OSS SDK
+[2025-05-28 14:04:11.635] [DJIFileUploaderSDK] [info] [thread 2163] Will init option
+[2025-05-28 14:04:11.635] [DJIFileUploaderSDK] [info] [thread 2163] Did init option
+[2025-05-28 14:04:11.635] [DJIFileUploaderSDK] [info] [thread 2163] Finish SDK init, set log level to 2
+[2025-05-28 14:32:34.587] [DJIFileUploaderSDK] [info] [thread 2170] DJIFileUploaderSDK start init
+[2025-05-28 14:32:34.588] [DJIFileUploaderSDK] [info] [thread 2170] Will init AWS SDK
+[2025-05-28 14:32:34.615] [DJIFileUploaderSDK] [info] [thread 2170] Did init AWS SDK
+[2025-05-28 14:32:34.615] [DJIFileUploaderSDK] [info] [thread 2170] Will init OSS SDK
+[2025-05-28 14:32:34.615] [DJIFileUploaderSDK] [info] [thread 2170] Did init OSS SDK
+[2025-05-28 14:32:34.616] [DJIFileUploaderSDK] [info] [thread 2170] Will init option
+[2025-05-28 14:32:34.616] [DJIFileUploaderSDK] [info] [thread 2170] Did init option
+[2025-05-28 14:32:34.616] [DJIFileUploaderSDK] [info] [thread 2170] Finish SDK init, set log level to 2
+[2025-05-28 15:07:53.286] [DJIFileUploaderSDK] [info] [thread 2160] DJIFileUploaderSDK start init
+[2025-05-28 15:07:53.286] [DJIFileUploaderSDK] [info] [thread 2160] Will init AWS SDK
+[2025-05-28 15:07:53.308] [DJIFileUploaderSDK] [info] [thread 2160] Did init AWS SDK
+[2025-05-28 15:07:53.308] [DJIFileUploaderSDK] [info] [thread 2160] Will init OSS SDK
+[2025-05-28 15:07:53.309] [DJIFileUploaderSDK] [info] [thread 2160] Did init OSS SDK
+[2025-05-28 15:07:53.309] [DJIFileUploaderSDK] [info] [thread 2160] Will init option
+[2025-05-28 15:07:53.309] [DJIFileUploaderSDK] [info] [thread 2160] Did init option
+[2025-05-28 15:07:53.309] [DJIFileUploaderSDK] [info] [thread 2160] Finish SDK init, set log level to 2
+[2025-05-28 15:37:30.803] [DJIFileUploaderSDK] [info] [thread 2175] DJIFileUploaderSDK start init
+[2025-05-28 15:37:30.804] [DJIFileUploaderSDK] [info] [thread 2175] Will init AWS SDK
+[2025-05-28 15:37:30.830] [DJIFileUploaderSDK] [info] [thread 2175] Did init AWS SDK
+[2025-05-28 15:37:30.830] [DJIFileUploaderSDK] [info] [thread 2175] Will init OSS SDK
+[2025-05-28 15:37:30.831] [DJIFileUploaderSDK] [info] [thread 2175] Did init OSS SDK
+[2025-05-28 15:37:30.831] [DJIFileUploaderSDK] [info] [thread 2175] Will init option
+[2025-05-28 15:37:30.831] [DJIFileUploaderSDK] [info] [thread 2175] Did init option
+[2025-05-28 15:37:30.831] [DJIFileUploaderSDK] [info] [thread 2175] Finish SDK init, set log level to 2
+[2025-05-28 15:45:46.456] [DJIFileUploaderSDK] [info] [thread 2168] DJIFileUploaderSDK start init
+[2025-05-28 15:45:46.457] [DJIFileUploaderSDK] [info] [thread 2168] Will init AWS SDK
+[2025-05-28 15:45:46.484] [DJIFileUploaderSDK] [info] [thread 2168] Did init AWS SDK
+[2025-05-28 15:45:46.484] [DJIFileUploaderSDK] [info] [thread 2168] Will init OSS SDK
+[2025-05-28 15:45:46.485] [DJIFileUploaderSDK] [info] [thread 2168] Did init OSS SDK
+[2025-05-28 15:45:46.485] [DJIFileUploaderSDK] [info] [thread 2168] Will init option
+[2025-05-28 15:45:46.485] [DJIFileUploaderSDK] [info] [thread 2168] Did init option
+[2025-05-28 15:45:46.485] [DJIFileUploaderSDK] [info] [thread 2168] Finish SDK init, set log level to 2
+[2025-05-28 15:51:52.455] [DJIFileUploaderSDK] [info] [thread 2170] DJIFileUploaderSDK start init
+[2025-05-28 15:51:52.455] [DJIFileUploaderSDK] [info] [thread 2170] Will init AWS SDK
+[2025-05-28 15:51:52.483] [DJIFileUploaderSDK] [info] [thread 2170] Did init AWS SDK
+[2025-05-28 15:51:52.483] [DJIFileUploaderSDK] [info] [thread 2170] Will init OSS SDK
+[2025-05-28 15:51:52.484] [DJIFileUploaderSDK] [info] [thread 2170] Did init OSS SDK
+[2025-05-28 15:51:52.484] [DJIFileUploaderSDK] [info] [thread 2170] Will init option
+[2025-05-28 15:51:52.484] [DJIFileUploaderSDK] [info] [thread 2170] Did init option
+[2025-05-28 15:51:52.484] [DJIFileUploaderSDK] [info] [thread 2170] Finish SDK init, set log level to 2
+[2025-05-28 17:05:43.371] [DJIFileUploaderSDK] [info] [thread 2175] DJIFileUploaderSDK start init
+[2025-05-28 17:05:43.372] [DJIFileUploaderSDK] [info] [thread 2175] Will init AWS SDK
+[2025-05-28 17:05:43.399] [DJIFileUploaderSDK] [info] [thread 2175] Did init AWS SDK
+[2025-05-28 17:05:43.399] [DJIFileUploaderSDK] [info] [thread 2175] Will init OSS SDK
+[2025-05-28 17:05:43.399] [DJIFileUploaderSDK] [info] [thread 2175] Did init OSS SDK
+[2025-05-28 17:05:43.399] [DJIFileUploaderSDK] [info] [thread 2175] Will init option
+[2025-05-28 17:05:43.399] [DJIFileUploaderSDK] [info] [thread 2175] Did init option
+[2025-05-28 17:05:43.399] [DJIFileUploaderSDK] [info] [thread 2175] Finish SDK init, set log level to 2
+[2025-05-29 12:47:27.574] [DJIFileUploaderSDK] [info] [thread 2166] DJIFileUploaderSDK start init
+[2025-05-29 12:47:27.574] [DJIFileUploaderSDK] [info] [thread 2166] Will init AWS SDK
+[2025-05-29 12:47:27.596] [DJIFileUploaderSDK] [info] [thread 2166] Did init AWS SDK
+[2025-05-29 12:47:27.596] [DJIFileUploaderSDK] [info] [thread 2166] Will init OSS SDK
+[2025-05-29 12:47:27.597] [DJIFileUploaderSDK] [info] [thread 2166] Did init OSS SDK
+[2025-05-29 12:47:27.597] [DJIFileUploaderSDK] [info] [thread 2166] Will init option
+[2025-05-29 12:47:27.597] [DJIFileUploaderSDK] [info] [thread 2166] Did init option
+[2025-05-29 12:47:27.597] [DJIFileUploaderSDK] [info] [thread 2166] Finish SDK init, set log level to 2
+[2025-06-01 13:56:33.459] [DJIFileUploaderSDK] [info] [thread 2165] DJIFileUploaderSDK start init
+[2025-06-01 13:56:33.459] [DJIFileUploaderSDK] [info] [thread 2165] Will init AWS SDK
+[2025-06-01 13:56:33.487] [DJIFileUploaderSDK] [info] [thread 2165] Did init AWS SDK
+[2025-06-01 13:56:33.487] [DJIFileUploaderSDK] [info] [thread 2165] Will init OSS SDK
+[2025-06-01 13:56:33.488] [DJIFileUploaderSDK] [info] [thread 2165] Did init OSS SDK
+[2025-06-01 13:56:33.488] [DJIFileUploaderSDK] [info] [thread 2165] Will init option
+[2025-06-01 13:56:33.488] [DJIFileUploaderSDK] [info] [thread 2165] Did init option
+[2025-06-01 13:56:33.488] [DJIFileUploaderSDK] [info] [thread 2165] Finish SDK init, set log level to 2
+[2025-06-01 15:04:41.378] [DJIFileUploaderSDK] [info] [thread 2166] DJIFileUploaderSDK start init
+[2025-06-01 15:04:41.379] [DJIFileUploaderSDK] [info] [thread 2166] Will init AWS SDK
+[2025-06-01 15:04:41.406] [DJIFileUploaderSDK] [info] [thread 2166] Did init AWS SDK
+[2025-06-01 15:04:41.406] [DJIFileUploaderSDK] [info] [thread 2166] Will init OSS SDK
+[2025-06-01 15:04:41.407] [DJIFileUploaderSDK] [info] [thread 2166] Did init OSS SDK
+[2025-06-01 15:04:41.407] [DJIFileUploaderSDK] [info] [thread 2166] Will init option
+[2025-06-01 15:04:41.407] [DJIFileUploaderSDK] [info] [thread 2166] Did init option
+[2025-06-01 15:04:41.407] [DJIFileUploaderSDK] [info] [thread 2166] Finish SDK init, set log level to 2
+[2025-06-02 17:33:21.504] [DJIFileUploaderSDK] [info] [thread 2173] DJIFileUploaderSDK start init
+[2025-06-02 17:33:21.504] [DJIFileUploaderSDK] [info] [thread 2173] Will init AWS SDK
+[2025-06-02 17:33:21.532] [DJIFileUploaderSDK] [info] [thread 2173] Did init AWS SDK
+[2025-06-02 17:33:21.533] [DJIFileUploaderSDK] [info] [thread 2173] Will init OSS SDK
+[2025-06-02 17:33:21.533] [DJIFileUploaderSDK] [info] [thread 2173] Did init OSS SDK
+[2025-06-02 17:33:21.533] [DJIFileUploaderSDK] [info] [thread 2173] Will init option
+[2025-06-02 17:33:21.533] [DJIFileUploaderSDK] [info] [thread 2173] Did init option
+[2025-06-02 17:33:21.533] [DJIFileUploaderSDK] [info] [thread 2173] Finish SDK init, set log level to 2
+[2025-06-02 17:37:34.396] [DJIFileUploaderSDK] [info] [thread 2430] DJIFileUploaderSDK start init
+[2025-06-02 17:37:34.396] [DJIFileUploaderSDK] [info] [thread 2430] Will init AWS SDK
+[2025-06-02 17:37:34.422] [DJIFileUploaderSDK] [info] [thread 2430] Did init AWS SDK
+[2025-06-02 17:37:34.422] [DJIFileUploaderSDK] [info] [thread 2430] Will init OSS SDK
+[2025-06-02 17:37:34.423] [DJIFileUploaderSDK] [info] [thread 2430] Did init OSS SDK
+[2025-06-02 17:37:34.423] [DJIFileUploaderSDK] [info] [thread 2430] Will init option
+[2025-06-02 17:37:34.423] [DJIFileUploaderSDK] [info] [thread 2430] Did init option
+[2025-06-02 17:37:34.423] [DJIFileUploaderSDK] [info] [thread 2430] Finish SDK init, set log level to 2
+[2025-06-03 15:21:12.500] [DJIFileUploaderSDK] [info] [thread 2164] DJIFileUploaderSDK start init
+[2025-06-03 15:21:12.500] [DJIFileUploaderSDK] [info] [thread 2164] Will init AWS SDK
+[2025-06-03 15:21:12.528] [DJIFileUploaderSDK] [info] [thread 2164] Did init AWS SDK
+[2025-06-03 15:21:12.529] [DJIFileUploaderSDK] [info] [thread 2164] Will init OSS SDK
+[2025-06-03 15:21:12.529] [DJIFileUploaderSDK] [info] [thread 2164] Did init OSS SDK
+[2025-06-03 15:21:12.529] [DJIFileUploaderSDK] [info] [thread 2164] Will init option
+[2025-06-03 15:21:12.529] [DJIFileUploaderSDK] [info] [thread 2164] Did init option
+[2025-06-03 15:21:12.529] [DJIFileUploaderSDK] [info] [thread 2164] Finish SDK init, set log level to 2
+[2025-06-03 17:33:47.874] [DJIFileUploaderSDK] [info] [thread 2393] DJIFileUploaderSDK start init
+[2025-06-03 17:33:47.875] [DJIFileUploaderSDK] [info] [thread 2393] Will init AWS SDK
+[2025-06-03 17:33:47.920] [DJIFileUploaderSDK] [info] [thread 2393] Did init AWS SDK
+[2025-06-03 17:33:47.920] [DJIFileUploaderSDK] [info] [thread 2393] Will init OSS SDK
+[2025-06-03 17:33:47.920] [DJIFileUploaderSDK] [info] [thread 2393] Did init OSS SDK
+[2025-06-03 17:33:47.921] [DJIFileUploaderSDK] [info] [thread 2393] Will init option
+[2025-06-03 17:33:47.921] [DJIFileUploaderSDK] [info] [thread 2393] Did init option
+[2025-06-03 17:33:47.921] [DJIFileUploaderSDK] [info] [thread 2393] Finish SDK init, set log level to 2
+[2025-06-06 11:31:08.788] [DJIFileUploaderSDK] [info] [thread 2374] DJIFileUploaderSDK start init
+[2025-06-06 11:31:08.789] [DJIFileUploaderSDK] [info] [thread 2374] Will init AWS SDK
+[2025-06-06 11:31:08.833] [DJIFileUploaderSDK] [info] [thread 2374] Did init AWS SDK
+[2025-06-06 11:31:08.833] [DJIFileUploaderSDK] [info] [thread 2374] Will init OSS SDK
+[2025-06-06 11:31:08.834] [DJIFileUploaderSDK] [info] [thread 2374] Did init OSS SDK
+[2025-06-06 11:31:08.834] [DJIFileUploaderSDK] [info] [thread 2374] Will init option
+[2025-06-06 11:31:08.834] [DJIFileUploaderSDK] [info] [thread 2374] Did init option
+[2025-06-06 11:31:08.834] [DJIFileUploaderSDK] [info] [thread 2374] Finish SDK init, set log level to 2
+[2025-06-06 11:38:17.655] [DJIFileUploaderSDK] [info] [thread 2368] DJIFileUploaderSDK start init
+[2025-06-06 11:38:17.656] [DJIFileUploaderSDK] [info] [thread 2368] Will init AWS SDK
+[2025-06-06 11:38:17.696] [DJIFileUploaderSDK] [info] [thread 2368] Did init AWS SDK
+[2025-06-06 11:38:17.696] [DJIFileUploaderSDK] [info] [thread 2368] Will init OSS SDK
+[2025-06-06 11:38:17.697] [DJIFileUploaderSDK] [info] [thread 2368] Did init OSS SDK
+[2025-06-06 11:38:17.697] [DJIFileUploaderSDK] [info] [thread 2368] Will init option
+[2025-06-06 11:38:17.697] [DJIFileUploaderSDK] [info] [thread 2368] Did init option
+[2025-06-06 11:38:17.697] [DJIFileUploaderSDK] [info] [thread 2368] Finish SDK init, set log level to 2
+[2025-06-06 12:08:55.969] [DJIFileUploaderSDK] [info] [thread 2377] DJIFileUploaderSDK start init
+[2025-06-06 12:08:55.970] [DJIFileUploaderSDK] [info] [thread 2377] Will init AWS SDK
+[2025-06-06 12:08:56.023] [DJIFileUploaderSDK] [info] [thread 2377] Did init AWS SDK
+[2025-06-06 12:08:56.023] [DJIFileUploaderSDK] [info] [thread 2377] Will init OSS SDK
+[2025-06-06 12:08:56.024] [DJIFileUploaderSDK] [info] [thread 2377] Did init OSS SDK
+[2025-06-06 12:08:56.024] [DJIFileUploaderSDK] [info] [thread 2377] Will init option
+[2025-06-06 12:08:56.024] [DJIFileUploaderSDK] [info] [thread 2377] Did init option
+[2025-06-06 12:08:56.024] [DJIFileUploaderSDK] [info] [thread 2377] Finish SDK init, set log level to 2
+[2025-06-06 13:07:43.630] [DJIFileUploaderSDK] [info] [thread 2176] DJIFileUploaderSDK start init
+[2025-06-06 13:07:43.631] [DJIFileUploaderSDK] [info] [thread 2176] Will init AWS SDK
+[2025-06-06 13:07:43.665] [DJIFileUploaderSDK] [info] [thread 2176] Did init AWS SDK
+[2025-06-06 13:07:43.665] [DJIFileUploaderSDK] [info] [thread 2176] Will init OSS SDK
+[2025-06-06 13:07:43.666] [DJIFileUploaderSDK] [info] [thread 2176] Did init OSS SDK
+[2025-06-06 13:07:43.666] [DJIFileUploaderSDK] [info] [thread 2176] Will init option
+[2025-06-06 13:07:43.666] [DJIFileUploaderSDK] [info] [thread 2176] Did init option
+[2025-06-06 13:07:43.666] [DJIFileUploaderSDK] [info] [thread 2176] Finish SDK init, set log level to 2
+[2025-06-06 18:17:03.754] [DJIFileUploaderSDK] [info] [thread 2181] DJIFileUploaderSDK start init
+[2025-06-06 18:17:03.755] [DJIFileUploaderSDK] [info] [thread 2181] Will init AWS SDK
+[2025-06-06 18:17:03.788] [DJIFileUploaderSDK] [info] [thread 2181] Did init AWS SDK
+[2025-06-06 18:17:03.788] [DJIFileUploaderSDK] [info] [thread 2181] Will init OSS SDK
+[2025-06-06 18:17:03.789] [DJIFileUploaderSDK] [info] [thread 2181] Did init OSS SDK
+[2025-06-06 18:17:03.789] [DJIFileUploaderSDK] [info] [thread 2181] Will init option
+[2025-06-06 18:17:03.789] [DJIFileUploaderSDK] [info] [thread 2181] Did init option
+[2025-06-06 18:17:03.789] [DJIFileUploaderSDK] [info] [thread 2181] Finish SDK init, set log level to 2
+[2025-06-10 13:47:49.803] [DJIFileUploaderSDK] [info] [thread 2173] DJIFileUploaderSDK start init
+[2025-06-10 13:47:49.803] [DJIFileUploaderSDK] [info] [thread 2173] Will init AWS SDK
+[2025-06-10 13:47:49.848] [DJIFileUploaderSDK] [info] [thread 2173] Did init AWS SDK
+[2025-06-10 13:47:49.848] [DJIFileUploaderSDK] [info] [thread 2173] Will init OSS SDK
+[2025-06-10 13:47:49.849] [DJIFileUploaderSDK] [info] [thread 2173] Did init OSS SDK
+[2025-06-10 13:47:49.849] [DJIFileUploaderSDK] [info] [thread 2173] Will init option
+[2025-06-10 13:47:49.849] [DJIFileUploaderSDK] [info] [thread 2173] Did init option
+[2025-06-10 13:47:49.849] [DJIFileUploaderSDK] [info] [thread 2173] Finish SDK init, set log level to 2
+[2025-06-10 13:51:45.488] [DJIFileUploaderSDK] [info] [thread 2169] DJIFileUploaderSDK start init
+[2025-06-10 13:51:45.489] [DJIFileUploaderSDK] [info] [thread 2169] Will init AWS SDK
+[2025-06-10 13:51:45.512] [DJIFileUploaderSDK] [info] [thread 2169] Did init AWS SDK
+[2025-06-10 13:51:45.512] [DJIFileUploaderSDK] [info] [thread 2169] Will init OSS SDK
+[2025-06-10 13:51:45.513] [DJIFileUploaderSDK] [info] [thread 2169] Did init OSS SDK
+[2025-06-10 13:51:45.513] [DJIFileUploaderSDK] [info] [thread 2169] Will init option
+[2025-06-10 13:51:45.513] [DJIFileUploaderSDK] [info] [thread 2169] Did init option
+[2025-06-10 13:51:45.513] [DJIFileUploaderSDK] [info] [thread 2169] Finish SDK init, set log level to 2
+[2025-06-10 16:47:16.483] [DJIFileUploaderSDK] [info] [thread 2171] DJIFileUploaderSDK start init
+[2025-06-10 16:47:16.483] [DJIFileUploaderSDK] [info] [thread 2171] Will init AWS SDK
+[2025-06-10 16:47:16.505] [DJIFileUploaderSDK] [info] [thread 2171] Did init AWS SDK
+[2025-06-10 16:47:16.505] [DJIFileUploaderSDK] [info] [thread 2171] Will init OSS SDK
+[2025-06-10 16:47:16.506] [DJIFileUploaderSDK] [info] [thread 2171] Did init OSS SDK
+[2025-06-10 16:47:16.506] [DJIFileUploaderSDK] [info] [thread 2171] Will init option
+[2025-06-10 16:47:16.506] [DJIFileUploaderSDK] [info] [thread 2171] Did init option
+[2025-06-10 16:47:16.506] [DJIFileUploaderSDK] [info] [thread 2171] Finish SDK init, set log level to 2
+[2025-06-11 16:39:13.512] [DJIFileUploaderSDK] [info] [thread 2168] DJIFileUploaderSDK start init
+[2025-06-11 16:39:13.513] [DJIFileUploaderSDK] [info] [thread 2168] Will init AWS SDK
+[2025-06-11 16:39:13.541] [DJIFileUploaderSDK] [info] [thread 2168] Did init AWS SDK
+[2025-06-11 16:39:13.541] [DJIFileUploaderSDK] [info] [thread 2168] Will init OSS SDK
+[2025-06-11 16:39:13.542] [DJIFileUploaderSDK] [info] [thread 2168] Did init OSS SDK
+[2025-06-11 16:39:13.542] [DJIFileUploaderSDK] [info] [thread 2168] Will init option
+[2025-06-11 16:39:13.542] [DJIFileUploaderSDK] [info] [thread 2168] Did init option
+[2025-06-11 16:39:13.542] [DJIFileUploaderSDK] [info] [thread 2168] Finish SDK init, set log level to 2
+[2025-06-19 21:58:59.976] [DJIFileUploaderSDK] [info] [thread 2181] DJIFileUploaderSDK start init
+[2025-06-19 21:58:59.977] [DJIFileUploaderSDK] [info] [thread 2181] Will init AWS SDK
+[2025-06-19 21:59:00.019] [DJIFileUploaderSDK] [info] [thread 2181] Did init AWS SDK
+[2025-06-19 21:59:00.019] [DJIFileUploaderSDK] [info] [thread 2181] Will init OSS SDK
+[2025-06-19 21:59:00.020] [DJIFileUploaderSDK] [info] [thread 2181] Did init OSS SDK
+[2025-06-19 21:59:00.020] [DJIFileUploaderSDK] [info] [thread 2181] Will init option
+[2025-06-19 21:59:00.020] [DJIFileUploaderSDK] [info] [thread 2181] Did init option
+[2025-06-19 21:59:00.020] [DJIFileUploaderSDK] [info] [thread 2181] Finish SDK init, set log level to 2
+[2025-06-20 00:18:48.637] [DJIFileUploaderSDK] [info] [thread 2379] DJIFileUploaderSDK start init
+[2025-06-20 00:18:48.637] [DJIFileUploaderSDK] [info] [thread 2379] Will init AWS SDK
+[2025-06-20 00:18:48.668] [DJIFileUploaderSDK] [info] [thread 2379] Did init AWS SDK
+[2025-06-20 00:18:48.668] [DJIFileUploaderSDK] [info] [thread 2379] Will init OSS SDK
+[2025-06-20 00:18:48.669] [DJIFileUploaderSDK] [info] [thread 2379] Did init OSS SDK
+[2025-06-20 00:18:48.669] [DJIFileUploaderSDK] [info] [thread 2379] Will init option
+[2025-06-20 00:18:48.669] [DJIFileUploaderSDK] [info] [thread 2379] Did init option
+[2025-06-20 00:18:48.669] [DJIFileUploaderSDK] [info] [thread 2379] Finish SDK init, set log level to 2
+[2025-06-20 01:36:09.990] [DJIFileUploaderSDK] [info] [thread 2377] DJIFileUploaderSDK start init
+[2025-06-20 01:36:09.991] [DJIFileUploaderSDK] [info] [thread 2377] Will init AWS SDK
+[2025-06-20 01:36:10.044] [DJIFileUploaderSDK] [info] [thread 2377] Did init AWS SDK
+[2025-06-20 01:36:10.044] [DJIFileUploaderSDK] [info] [thread 2377] Will init OSS SDK
+[2025-06-20 01:36:10.045] [DJIFileUploaderSDK] [info] [thread 2377] Did init OSS SDK
+[2025-06-20 01:36:10.045] [DJIFileUploaderSDK] [info] [thread 2377] Will init option
+[2025-06-20 01:36:10.045] [DJIFileUploaderSDK] [info] [thread 2377] Did init option
+[2025-06-20 01:36:10.045] [DJIFileUploaderSDK] [info] [thread 2377] Finish SDK init, set log level to 2
+[2025-06-21 13:15:55.516] [DJIFileUploaderSDK] [info] [thread 2384] DJIFileUploaderSDK start init
+[2025-06-21 13:15:55.517] [DJIFileUploaderSDK] [info] [thread 2384] Will init AWS SDK
+[2025-06-21 13:15:55.566] [DJIFileUploaderSDK] [info] [thread 2384] Did init AWS SDK
+[2025-06-21 13:15:55.566] [DJIFileUploaderSDK] [info] [thread 2384] Will init OSS SDK
+[2025-06-21 13:15:55.567] [DJIFileUploaderSDK] [info] [thread 2384] Did init OSS SDK
+[2025-06-21 13:15:55.567] [DJIFileUploaderSDK] [info] [thread 2384] Will init option
+[2025-06-21 13:15:55.567] [DJIFileUploaderSDK] [info] [thread 2384] Did init option
+[2025-06-21 13:15:55.567] [DJIFileUploaderSDK] [info] [thread 2384] Finish SDK init, set log level to 2
+[2025-06-21 16:09:26.478] [DJIFileUploaderSDK] [info] [thread 2181] DJIFileUploaderSDK start init
+[2025-06-21 16:09:26.478] [DJIFileUploaderSDK] [info] [thread 2181] Will init AWS SDK
+[2025-06-21 16:09:26.500] [DJIFileUploaderSDK] [info] [thread 2181] Did init AWS SDK
+[2025-06-21 16:09:26.500] [DJIFileUploaderSDK] [info] [thread 2181] Will init OSS SDK
+[2025-06-21 16:09:26.501] [DJIFileUploaderSDK] [info] [thread 2181] Did init OSS SDK
+[2025-06-21 16:09:26.501] [DJIFileUploaderSDK] [info] [thread 2181] Will init option
+[2025-06-21 16:09:26.501] [DJIFileUploaderSDK] [info] [thread 2181] Did init option
+[2025-06-21 16:09:26.501] [DJIFileUploaderSDK] [info] [thread 2181] Finish SDK init, set log level to 2
+[2025-06-21 16:49:18.688] [DJIFileUploaderSDK] [info] [thread 2185] DJIFileUploaderSDK start init
+[2025-06-21 16:49:18.688] [DJIFileUploaderSDK] [info] [thread 2185] Will init AWS SDK
+[2025-06-21 16:49:18.722] [DJIFileUploaderSDK] [info] [thread 2185] Did init AWS SDK
+[2025-06-21 16:49:18.722] [DJIFileUploaderSDK] [info] [thread 2185] Will init OSS SDK
+[2025-06-21 16:49:18.723] [DJIFileUploaderSDK] [info] [thread 2185] Did init OSS SDK
+[2025-06-21 16:49:18.723] [DJIFileUploaderSDK] [info] [thread 2185] Will init option
+[2025-06-21 16:49:18.723] [DJIFileUploaderSDK] [info] [thread 2185] Did init option
+[2025-06-21 16:49:18.723] [DJIFileUploaderSDK] [info] [thread 2185] Finish SDK init, set log level to 2
+[2025-06-21 17:17:22.377] [DJIFileUploaderSDK] [info] [thread 2173] DJIFileUploaderSDK start init
+[2025-06-21 17:17:22.377] [DJIFileUploaderSDK] [info] [thread 2173] Will init AWS SDK
+[2025-06-21 17:17:22.404] [DJIFileUploaderSDK] [info] [thread 2173] Did init AWS SDK
+[2025-06-21 17:17:22.404] [DJIFileUploaderSDK] [info] [thread 2173] Will init OSS SDK
+[2025-06-21 17:17:22.405] [DJIFileUploaderSDK] [info] [thread 2173] Did init OSS SDK
+[2025-06-21 17:17:22.405] [DJIFileUploaderSDK] [info] [thread 2173] Will init option
+[2025-06-21 17:17:22.405] [DJIFileUploaderSDK] [info] [thread 2173] Did init option
+[2025-06-21 17:17:22.405] [DJIFileUploaderSDK] [info] [thread 2173] Finish SDK init, set log level to 2
+[2025-06-23 12:42:57.275] [DJIFileUploaderSDK] [info] [thread 2174] DJIFileUploaderSDK start init
+[2025-06-23 12:42:57.275] [DJIFileUploaderSDK] [info] [thread 2174] Will init AWS SDK
+[2025-06-23 12:42:57.303] [DJIFileUploaderSDK] [info] [thread 2174] Did init AWS SDK
+[2025-06-23 12:42:57.304] [DJIFileUploaderSDK] [info] [thread 2174] Will init OSS SDK
+[2025-06-23 12:42:57.304] [DJIFileUploaderSDK] [info] [thread 2174] Did init OSS SDK
+[2025-06-23 12:42:57.304] [DJIFileUploaderSDK] [info] [thread 2174] Will init option
+[2025-06-23 12:42:57.304] [DJIFileUploaderSDK] [info] [thread 2174] Did init option
+[2025-06-23 12:42:57.304] [DJIFileUploaderSDK] [info] [thread 2174] Finish SDK init, set log level to 2
+[2025-06-23 23:18:37.587] [DJIFileUploaderSDK] [info] [thread 2367] DJIFileUploaderSDK start init
+[2025-06-23 23:18:37.588] [DJIFileUploaderSDK] [info] [thread 2367] Will init AWS SDK
+[2025-06-23 23:18:37.629] [DJIFileUploaderSDK] [info] [thread 2367] Did init AWS SDK
+[2025-06-23 23:18:37.629] [DJIFileUploaderSDK] [info] [thread 2367] Will init OSS SDK
+[2025-06-23 23:18:37.630] [DJIFileUploaderSDK] [info] [thread 2367] Did init OSS SDK
+[2025-06-23 23:18:37.630] [DJIFileUploaderSDK] [info] [thread 2367] Will init option
+[2025-06-23 23:18:37.630] [DJIFileUploaderSDK] [info] [thread 2367] Did init option
+[2025-06-23 23:18:37.630] [DJIFileUploaderSDK] [info] [thread 2367] Finish SDK init, set log level to 2
+[2025-06-26 00:15:15.535] [DJIFileUploaderSDK] [info] [thread 2383] DJIFileUploaderSDK start init
+[2025-06-26 00:15:15.536] [DJIFileUploaderSDK] [info] [thread 2383] Will init AWS SDK
+[2025-06-26 00:15:15.578] [DJIFileUploaderSDK] [info] [thread 2383] Did init AWS SDK
+[2025-06-26 00:15:15.578] [DJIFileUploaderSDK] [info] [thread 2383] Will init OSS SDK
+[2025-06-26 00:15:15.579] [DJIFileUploaderSDK] [info] [thread 2383] Did init OSS SDK
+[2025-06-26 00:15:15.579] [DJIFileUploaderSDK] [info] [thread 2383] Will init option
+[2025-06-26 00:15:15.579] [DJIFileUploaderSDK] [info] [thread 2383] Did init option
+[2025-06-26 00:15:15.579] [DJIFileUploaderSDK] [info] [thread 2383] Finish SDK init, set log level to 2
+[2025-06-26 20:56:54.995] [DJIFileUploaderSDK] [info] [thread 2384] DJIFileUploaderSDK start init
+[2025-06-26 20:56:54.996] [DJIFileUploaderSDK] [info] [thread 2384] Will init AWS SDK
+[2025-06-26 20:56:55.044] [DJIFileUploaderSDK] [info] [thread 2384] Did init AWS SDK
+[2025-06-26 20:56:55.044] [DJIFileUploaderSDK] [info] [thread 2384] Will init OSS SDK
+[2025-06-26 20:56:55.045] [DJIFileUploaderSDK] [info] [thread 2384] Did init OSS SDK
+[2025-06-26 20:56:55.045] [DJIFileUploaderSDK] [info] [thread 2384] Will init option
+[2025-06-26 20:56:55.045] [DJIFileUploaderSDK] [info] [thread 2384] Did init option
+[2025-06-26 20:56:55.045] [DJIFileUploaderSDK] [info] [thread 2384] Finish SDK init, set log level to 2
+[2025-06-26 21:38:11.793] [DJIFileUploaderSDK] [info] [thread 2388] DJIFileUploaderSDK start init
+[2025-06-26 21:38:11.794] [DJIFileUploaderSDK] [info] [thread 2388] Will init AWS SDK
+[2025-06-26 21:38:11.848] [DJIFileUploaderSDK] [info] [thread 2388] Did init AWS SDK
+[2025-06-26 21:38:11.848] [DJIFileUploaderSDK] [info] [thread 2388] Will init OSS SDK
+[2025-06-26 21:38:11.849] [DJIFileUploaderSDK] [info] [thread 2388] Did init OSS SDK
+[2025-06-26 21:38:11.849] [DJIFileUploaderSDK] [info] [thread 2388] Will init option
+[2025-06-26 21:38:11.849] [DJIFileUploaderSDK] [info] [thread 2388] Did init option
+[2025-06-26 21:38:11.849] [DJIFileUploaderSDK] [info] [thread 2388] Finish SDK init, set log level to 2
+[2025-06-26 21:42:50.052] [DJIFileUploaderSDK] [info] [thread 2383] DJIFileUploaderSDK start init
+[2025-06-26 21:42:50.053] [DJIFileUploaderSDK] [info] [thread 2383] Will init AWS SDK
+[2025-06-26 21:42:50.100] [DJIFileUploaderSDK] [info] [thread 2383] Did init AWS SDK
+[2025-06-26 21:42:50.101] [DJIFileUploaderSDK] [info] [thread 2383] Will init OSS SDK
+[2025-06-26 21:42:50.101] [DJIFileUploaderSDK] [info] [thread 2383] Did init OSS SDK
+[2025-06-26 21:42:50.101] [DJIFileUploaderSDK] [info] [thread 2383] Will init option
+[2025-06-26 21:42:50.101] [DJIFileUploaderSDK] [info] [thread 2383] Did init option
+[2025-06-26 21:42:50.101] [DJIFileUploaderSDK] [info] [thread 2383] Finish SDK init, set log level to 2
+[2025-06-26 22:05:10.984] [DJIFileUploaderSDK] [info] [thread 2376] DJIFileUploaderSDK start init
+[2025-06-26 22:05:10.984] [DJIFileUploaderSDK] [info] [thread 2376] Will init AWS SDK
+[2025-06-26 22:05:11.072] [DJIFileUploaderSDK] [info] [thread 2376] Did init AWS SDK
+[2025-06-26 22:05:11.072] [DJIFileUploaderSDK] [info] [thread 2376] Will init OSS SDK
+[2025-06-26 22:05:11.072] [DJIFileUploaderSDK] [info] [thread 2376] Did init OSS SDK
+[2025-06-26 22:05:11.072] [DJIFileUploaderSDK] [info] [thread 2376] Will init option
+[2025-06-26 22:05:11.072] [DJIFileUploaderSDK] [info] [thread 2376] Did init option
+[2025-06-26 22:05:11.073] [DJIFileUploaderSDK] [info] [thread 2376] Finish SDK init, set log level to 2
+[2025-06-30 14:41:38.740] [DJIFileUploaderSDK] [info] [thread 2381] DJIFileUploaderSDK start init
+[2025-06-30 14:41:38.741] [DJIFileUploaderSDK] [info] [thread 2381] Will init AWS SDK
+[2025-06-30 14:41:38.787] [DJIFileUploaderSDK] [info] [thread 2381] Did init AWS SDK
+[2025-06-30 14:41:38.787] [DJIFileUploaderSDK] [info] [thread 2381] Will init OSS SDK
+[2025-06-30 14:41:38.788] [DJIFileUploaderSDK] [info] [thread 2381] Did init OSS SDK
+[2025-06-30 14:41:38.788] [DJIFileUploaderSDK] [info] [thread 2381] Will init option
+[2025-06-30 14:41:38.788] [DJIFileUploaderSDK] [info] [thread 2381] Did init option
+[2025-06-30 14:41:38.788] [DJIFileUploaderSDK] [info] [thread 2381] Finish SDK init, set log level to 2
+[2025-06-30 14:50:41.802] [DJIFileUploaderSDK] [info] [thread 2378] DJIFileUploaderSDK start init
+[2025-06-30 14:50:41.803] [DJIFileUploaderSDK] [info] [thread 2378] Will init AWS SDK
+[2025-06-30 14:50:41.857] [DJIFileUploaderSDK] [info] [thread 2378] Did init AWS SDK
+[2025-06-30 14:50:41.857] [DJIFileUploaderSDK] [info] [thread 2378] Will init OSS SDK
+[2025-06-30 14:50:41.858] [DJIFileUploaderSDK] [info] [thread 2378] Did init OSS SDK
+[2025-06-30 14:50:41.858] [DJIFileUploaderSDK] [info] [thread 2378] Will init option
+[2025-06-30 14:50:41.858] [DJIFileUploaderSDK] [info] [thread 2378] Did init option
+[2025-06-30 14:50:41.858] [DJIFileUploaderSDK] [info] [thread 2378] Finish SDK init, set log level to 2
+[2025-06-30 15:36:30.230] [DJIFileUploaderSDK] [info] [thread 2383] DJIFileUploaderSDK start init
+[2025-06-30 15:36:30.230] [DJIFileUploaderSDK] [info] [thread 2383] Will init AWS SDK
+[2025-06-30 15:36:30.268] [DJIFileUploaderSDK] [info] [thread 2383] Did init AWS SDK
+[2025-06-30 15:36:30.268] [DJIFileUploaderSDK] [info] [thread 2383] Will init OSS SDK
+[2025-06-30 15:36:30.268] [DJIFileUploaderSDK] [info] [thread 2383] Did init OSS SDK
+[2025-06-30 15:36:30.268] [DJIFileUploaderSDK] [info] [thread 2383] Will init option
+[2025-06-30 15:36:30.268] [DJIFileUploaderSDK] [info] [thread 2383] Did init option
+[2025-06-30 15:36:30.269] [DJIFileUploaderSDK] [info] [thread 2383] Finish SDK init, set log level to 2
+[2025-06-30 16:15:24.889] [DJIFileUploaderSDK] [info] [thread 2386] DJIFileUploaderSDK start init
+[2025-06-30 16:15:24.890] [DJIFileUploaderSDK] [info] [thread 2386] Will init AWS SDK
+[2025-06-30 16:15:24.934] [DJIFileUploaderSDK] [info] [thread 2386] Did init AWS SDK
+[2025-06-30 16:15:24.934] [DJIFileUploaderSDK] [info] [thread 2386] Will init OSS SDK
+[2025-06-30 16:15:24.934] [DJIFileUploaderSDK] [info] [thread 2386] Did init OSS SDK
+[2025-06-30 16:15:24.934] [DJIFileUploaderSDK] [info] [thread 2386] Will init option
+[2025-06-30 16:15:24.934] [DJIFileUploaderSDK] [info] [thread 2386] Did init option
+[2025-06-30 16:15:24.934] [DJIFileUploaderSDK] [info] [thread 2386] Finish SDK init, set log level to 2
+[2025-06-30 16:19:22.078] [DJIFileUploaderSDK] [info] [thread 2427] DJIFileUploaderSDK start init
+[2025-06-30 16:19:22.083] [DJIFileUploaderSDK] [info] [thread 2427] Will init AWS SDK
+[2025-06-30 16:19:22.186] [DJIFileUploaderSDK] [info] [thread 2427] Did init AWS SDK
+[2025-06-30 16:19:22.186] [DJIFileUploaderSDK] [info] [thread 2427] Will init OSS SDK
+[2025-06-30 16:19:22.188] [DJIFileUploaderSDK] [info] [thread 2427] Did init OSS SDK
+[2025-06-30 16:19:22.188] [DJIFileUploaderSDK] [info] [thread 2427] Will init option
+[2025-06-30 16:19:22.188] [DJIFileUploaderSDK] [info] [thread 2427] Did init option
+[2025-06-30 16:19:22.188] [DJIFileUploaderSDK] [info] [thread 2427] Finish SDK init, set log level to 2
+[2025-06-30 16:20:28.062] [DJIFileUploaderSDK] [info] [thread 2379] DJIFileUploaderSDK start init
+[2025-06-30 16:20:28.063] [DJIFileUploaderSDK] [info] [thread 2379] Will init AWS SDK
+[2025-06-30 16:20:28.141] [DJIFileUploaderSDK] [info] [thread 2379] Did init AWS SDK
+[2025-06-30 16:20:28.141] [DJIFileUploaderSDK] [info] [thread 2379] Will init OSS SDK
+[2025-06-30 16:20:28.142] [DJIFileUploaderSDK] [info] [thread 2379] Did init OSS SDK
+[2025-06-30 16:20:28.142] [DJIFileUploaderSDK] [info] [thread 2379] Will init option
+[2025-06-30 16:20:28.142] [DJIFileUploaderSDK] [info] [thread 2379] Did init option
+[2025-06-30 16:20:28.142] [DJIFileUploaderSDK] [info] [thread 2379] Finish SDK init, set log level to 2
+[2025-06-30 16:26:51.117] [DJIFileUploaderSDK] [info] [thread 2385] DJIFileUploaderSDK start init
+[2025-06-30 16:26:51.119] [DJIFileUploaderSDK] [info] [thread 2385] Will init AWS SDK
+[2025-06-30 16:26:51.158] [DJIFileUploaderSDK] [info] [thread 2385] Did init AWS SDK
+[2025-06-30 16:26:51.158] [DJIFileUploaderSDK] [info] [thread 2385] Will init OSS SDK
+[2025-06-30 16:26:51.168] [DJIFileUploaderSDK] [info] [thread 2385] Did init OSS SDK
+[2025-06-30 16:26:51.169] [DJIFileUploaderSDK] [info] [thread 2385] Will init option
+[2025-06-30 16:26:51.169] [DJIFileUploaderSDK] [info] [thread 2385] Did init option
+[2025-06-30 16:26:51.169] [DJIFileUploaderSDK] [info] [thread 2385] Finish SDK init, set log level to 2
+[2025-06-30 17:30:39.214] [DJIFileUploaderSDK] [info] [thread 2418] DJIFileUploaderSDK start init
+[2025-06-30 17:30:39.215] [DJIFileUploaderSDK] [info] [thread 2418] Will init AWS SDK
+[2025-06-30 17:30:39.311] [DJIFileUploaderSDK] [info] [thread 2418] Did init AWS SDK
+[2025-06-30 17:30:39.311] [DJIFileUploaderSDK] [info] [thread 2418] Will init OSS SDK
+[2025-06-30 17:30:39.312] [DJIFileUploaderSDK] [info] [thread 2418] Did init OSS SDK
+[2025-06-30 17:30:39.312] [DJIFileUploaderSDK] [info] [thread 2418] Will init option
+[2025-06-30 17:30:39.312] [DJIFileUploaderSDK] [info] [thread 2418] Did init option
+[2025-06-30 17:30:39.312] [DJIFileUploaderSDK] [info] [thread 2418] Finish SDK init, set log level to 2
+[2025-06-30 17:30:53.619] [DJIFileUploaderSDK] [info] [thread 2393] DJIFileUploaderSDK start init
+[2025-06-30 17:30:53.621] [DJIFileUploaderSDK] [info] [thread 2393] Will init AWS SDK
+[2025-06-30 17:30:53.660] [DJIFileUploaderSDK] [info] [thread 2393] Did init AWS SDK
+[2025-06-30 17:30:53.660] [DJIFileUploaderSDK] [info] [thread 2393] Will init OSS SDK
+[2025-06-30 17:30:53.661] [DJIFileUploaderSDK] [info] [thread 2393] Did init OSS SDK
+[2025-06-30 17:30:53.661] [DJIFileUploaderSDK] [info] [thread 2393] Will init option
+[2025-06-30 17:30:53.661] [DJIFileUploaderSDK] [info] [thread 2393] Did init option
+[2025-06-30 17:30:53.661] [DJIFileUploaderSDK] [info] [thread 2393] Finish SDK init, set log level to 2
+[2025-07-13 15:21:42.707] [DJIFileUploaderSDK] [info] [thread 2385] DJIFileUploaderSDK start init
+[2025-07-13 15:21:42.708] [DJIFileUploaderSDK] [info] [thread 2385] Will init AWS SDK
+[2025-07-13 15:21:42.757] [DJIFileUploaderSDK] [info] [thread 2385] Did init AWS SDK
+[2025-07-13 15:21:42.757] [DJIFileUploaderSDK] [info] [thread 2385] Will init OSS SDK
+[2025-07-13 15:21:42.758] [DJIFileUploaderSDK] [info] [thread 2385] Did init OSS SDK
+[2025-07-13 15:21:42.758] [DJIFileUploaderSDK] [info] [thread 2385] Will init option
+[2025-07-13 15:21:42.758] [DJIFileUploaderSDK] [info] [thread 2385] Did init option
+[2025-07-13 15:21:42.758] [DJIFileUploaderSDK] [info] [thread 2385] Finish SDK init, set log level to 2
+[2025-07-18 14:41:56.327] [DJIFileUploaderSDK] [info] [thread 2168] DJIFileUploaderSDK start init
+[2025-07-18 14:41:56.327] [DJIFileUploaderSDK] [info] [thread 2168] Will init AWS SDK
+[2025-07-18 14:41:56.355] [DJIFileUploaderSDK] [info] [thread 2168] Did init AWS SDK
+[2025-07-18 14:41:56.355] [DJIFileUploaderSDK] [info] [thread 2168] Will init OSS SDK
+[2025-07-18 14:41:56.356] [DJIFileUploaderSDK] [info] [thread 2168] Did init OSS SDK
+[2025-07-18 14:41:56.356] [DJIFileUploaderSDK] [info] [thread 2168] Will init option
+[2025-07-18 14:41:56.356] [DJIFileUploaderSDK] [info] [thread 2168] Did init option
+[2025-07-18 14:41:56.356] [DJIFileUploaderSDK] [info] [thread 2168] Finish SDK init, set log level to 2
+[2025-07-22 16:00:42.464] [DJIFileUploaderSDK] [info] [thread 2223] DJIFileUploaderSDK start init
+[2025-07-22 16:00:42.465] [DJIFileUploaderSDK] [info] [thread 2223] Will init AWS SDK
+[2025-07-22 16:00:42.487] [DJIFileUploaderSDK] [info] [thread 2223] Did init AWS SDK
+[2025-07-22 16:00:42.487] [DJIFileUploaderSDK] [info] [thread 2223] Will init OSS SDK
+[2025-07-22 16:00:42.488] [DJIFileUploaderSDK] [info] [thread 2223] Did init OSS SDK
+[2025-07-22 16:00:42.488] [DJIFileUploaderSDK] [info] [thread 2223] Will init option
+[2025-07-22 16:00:42.488] [DJIFileUploaderSDK] [info] [thread 2223] Did init option
+[2025-07-22 16:00:42.488] [DJIFileUploaderSDK] [info] [thread 2223] Finish SDK init, set log level to 2
+[2025-07-22 16:36:35.773] [DJIFileUploaderSDK] [info] [thread 2192] DJIFileUploaderSDK start init
+[2025-07-22 16:36:35.774] [DJIFileUploaderSDK] [info] [thread 2192] Will init AWS SDK
+[2025-07-22 16:36:35.799] [DJIFileUploaderSDK] [info] [thread 2192] Did init AWS SDK
+[2025-07-22 16:36:35.799] [DJIFileUploaderSDK] [info] [thread 2192] Will init OSS SDK
+[2025-07-22 16:36:35.800] [DJIFileUploaderSDK] [info] [thread 2192] Did init OSS SDK
+[2025-07-22 16:36:35.800] [DJIFileUploaderSDK] [info] [thread 2192] Will init option
+[2025-07-22 16:36:35.800] [DJIFileUploaderSDK] [info] [thread 2192] Did init option
+[2025-07-22 16:36:35.800] [DJIFileUploaderSDK] [info] [thread 2192] Finish SDK init, set log level to 2
+[2025-07-25 16:35:13.483] [DJIFileUploaderSDK] [info] [thread 2167] DJIFileUploaderSDK start init
+[2025-07-25 16:35:13.483] [DJIFileUploaderSDK] [info] [thread 2167] Will init AWS SDK
+[2025-07-25 16:35:13.505] [DJIFileUploaderSDK] [info] [thread 2167] Did init AWS SDK
+[2025-07-25 16:35:13.505] [DJIFileUploaderSDK] [info] [thread 2167] Will init OSS SDK
+[2025-07-25 16:35:13.506] [DJIFileUploaderSDK] [info] [thread 2167] Did init OSS SDK
+[2025-07-25 16:35:13.506] [DJIFileUploaderSDK] [info] [thread 2167] Will init option
+[2025-07-25 16:35:13.506] [DJIFileUploaderSDK] [info] [thread 2167] Did init option
+[2025-07-25 16:35:13.506] [DJIFileUploaderSDK] [info] [thread 2167] Finish SDK init, set log level to 2
+[2025-07-25 16:38:20.919] [DJIFileUploaderSDK] [info] [thread 2484] DJIFileUploaderSDK start init
+[2025-07-25 16:38:20.920] [DJIFileUploaderSDK] [info] [thread 2484] Will init AWS SDK
+[2025-07-25 16:38:20.969] [DJIFileUploaderSDK] [info] [thread 2484] Did init AWS SDK
+[2025-07-25 16:38:20.969] [DJIFileUploaderSDK] [info] [thread 2484] Will init OSS SDK
+[2025-07-25 16:38:20.969] [DJIFileUploaderSDK] [info] [thread 2484] Did init OSS SDK
+[2025-07-25 16:38:20.969] [DJIFileUploaderSDK] [info] [thread 2484] Will init option
+[2025-07-25 16:38:20.969] [DJIFileUploaderSDK] [info] [thread 2484] Did init option
+[2025-07-25 16:38:20.969] [DJIFileUploaderSDK] [info] [thread 2484] Finish SDK init, set log level to 2
+[2025-08-03 13:02:07.724] [DJIFileUploaderSDK] [info] [thread 2446] DJIFileUploaderSDK start init
+[2025-08-03 13:02:07.725] [DJIFileUploaderSDK] [info] [thread 2446] Will init AWS SDK
+[2025-08-03 13:02:07.753] [DJIFileUploaderSDK] [info] [thread 2446] Did init AWS SDK
+[2025-08-03 13:02:07.753] [DJIFileUploaderSDK] [info] [thread 2446] Will init OSS SDK
+[2025-08-03 13:02:07.754] [DJIFileUploaderSDK] [info] [thread 2446] Did init OSS SDK
+[2025-08-03 13:02:07.754] [DJIFileUploaderSDK] [info] [thread 2446] Will init option
+[2025-08-03 13:02:07.754] [DJIFileUploaderSDK] [info] [thread 2446] Did init option
+[2025-08-03 13:02:07.754] [DJIFileUploaderSDK] [info] [thread 2446] Finish SDK init, set log level to 2
+[2025-08-05 14:34:10.676] [DJIFileUploaderSDK] [info] [thread 2179] DJIFileUploaderSDK start init
+[2025-08-05 14:34:10.676] [DJIFileUploaderSDK] [info] [thread 2179] Will init AWS SDK
+[2025-08-05 14:34:10.706] [DJIFileUploaderSDK] [info] [thread 2179] Did init AWS SDK
+[2025-08-05 14:34:10.706] [DJIFileUploaderSDK] [info] [thread 2179] Will init OSS SDK
+[2025-08-05 14:34:10.706] [DJIFileUploaderSDK] [info] [thread 2179] Did init OSS SDK
+[2025-08-05 14:34:10.706] [DJIFileUploaderSDK] [info] [thread 2179] Will init option
+[2025-08-05 14:34:10.706] [DJIFileUploaderSDK] [info] [thread 2179] Did init option
+[2025-08-05 14:34:10.706] [DJIFileUploaderSDK] [info] [thread 2179] Finish SDK init, set log level to 2
+[2025-08-05 14:37:18.160] [DJIFileUploaderSDK] [info] [thread 2187] DJIFileUploaderSDK start init
+[2025-08-05 14:37:18.160] [DJIFileUploaderSDK] [info] [thread 2187] Will init AWS SDK
+[2025-08-05 14:37:18.197] [DJIFileUploaderSDK] [info] [thread 2187] Did init AWS SDK
+[2025-08-05 14:37:18.197] [DJIFileUploaderSDK] [info] [thread 2187] Will init OSS SDK
+[2025-08-05 14:37:18.198] [DJIFileUploaderSDK] [info] [thread 2187] Did init OSS SDK
+[2025-08-05 14:37:18.198] [DJIFileUploaderSDK] [info] [thread 2187] Will init option
+[2025-08-05 14:37:18.198] [DJIFileUploaderSDK] [info] [thread 2187] Did init option
+[2025-08-05 14:37:18.198] [DJIFileUploaderSDK] [info] [thread 2187] Finish SDK init, set log level to 2
+[2025-08-06 00:03:27.583] [DJIFileUploaderSDK] [info] [thread 2166] DJIFileUploaderSDK start init
+[2025-08-06 00:03:27.583] [DJIFileUploaderSDK] [info] [thread 2166] Will init AWS SDK
+[2025-08-06 00:03:27.612] [DJIFileUploaderSDK] [info] [thread 2166] Did init AWS SDK
+[2025-08-06 00:03:27.612] [DJIFileUploaderSDK] [info] [thread 2166] Will init OSS SDK
+[2025-08-06 00:03:27.613] [DJIFileUploaderSDK] [info] [thread 2166] Did init OSS SDK
+[2025-08-06 00:03:27.613] [DJIFileUploaderSDK] [info] [thread 2166] Will init option
+[2025-08-06 00:03:27.613] [DJIFileUploaderSDK] [info] [thread 2166] Did init option
+[2025-08-06 00:03:27.613] [DJIFileUploaderSDK] [info] [thread 2166] Finish SDK init, set log level to 2
+[2025-08-06 00:54:34.680] [DJIFileUploaderSDK] [info] [thread 2172] DJIFileUploaderSDK start init
+[2025-08-06 00:54:34.681] [DJIFileUploaderSDK] [info] [thread 2172] Will init AWS SDK
+[2025-08-06 00:54:34.717] [DJIFileUploaderSDK] [info] [thread 2172] Did init AWS SDK
+[2025-08-06 00:54:34.717] [DJIFileUploaderSDK] [info] [thread 2172] Will init OSS SDK
+[2025-08-06 00:54:34.718] [DJIFileUploaderSDK] [info] [thread 2172] Did init OSS SDK
+[2025-08-06 00:54:34.718] [DJIFileUploaderSDK] [info] [thread 2172] Will init option
+[2025-08-06 00:54:34.718] [DJIFileUploaderSDK] [info] [thread 2172] Did init option
+[2025-08-06 00:54:34.718] [DJIFileUploaderSDK] [info] [thread 2172] Finish SDK init, set log level to 2
+[2025-08-06 01:08:00.450] [DJIFileUploaderSDK] [info] [thread 2174] DJIFileUploaderSDK start init
+[2025-08-06 01:08:00.451] [DJIFileUploaderSDK] [info] [thread 2174] Will init AWS SDK
+[2025-08-06 01:08:00.481] [DJIFileUploaderSDK] [info] [thread 2174] Did init AWS SDK
+[2025-08-06 01:08:00.481] [DJIFileUploaderSDK] [info] [thread 2174] Will init OSS SDK
+[2025-08-06 01:08:00.482] [DJIFileUploaderSDK] [info] [thread 2174] Did init OSS SDK
+[2025-08-06 01:08:00.482] [DJIFileUploaderSDK] [info] [thread 2174] Will init option
+[2025-08-06 01:08:00.482] [DJIFileUploaderSDK] [info] [thread 2174] Did init option
+[2025-08-06 01:08:00.482] [DJIFileUploaderSDK] [info] [thread 2174] Finish SDK init, set log level to 2
+[2025-08-06 01:15:07.626] [DJIFileUploaderSDK] [info] [thread 2169] DJIFileUploaderSDK start init
+[2025-08-06 01:15:07.626] [DJIFileUploaderSDK] [info] [thread 2169] Will init AWS SDK
+[2025-08-06 01:15:07.654] [DJIFileUploaderSDK] [info] [thread 2169] Did init AWS SDK
+[2025-08-06 01:15:07.655] [DJIFileUploaderSDK] [info] [thread 2169] Will init OSS SDK
+[2025-08-06 01:15:07.655] [DJIFileUploaderSDK] [info] [thread 2169] Did init OSS SDK
+[2025-08-06 01:15:07.655] [DJIFileUploaderSDK] [info] [thread 2169] Will init option
+[2025-08-06 01:15:07.655] [DJIFileUploaderSDK] [info] [thread 2169] Did init option
+[2025-08-06 01:15:07.655] [DJIFileUploaderSDK] [info] [thread 2169] Finish SDK init, set log level to 2
+[2025-08-06 01:44:07.754] [DJIFileUploaderSDK] [info] [thread 3458] DJIFileUploaderSDK start init
+[2025-08-06 01:44:07.755] [DJIFileUploaderSDK] [info] [thread 3458] Will init AWS SDK
+[2025-08-06 01:44:07.787] [DJIFileUploaderSDK] [info] [thread 3458] Did init AWS SDK
+[2025-08-06 01:44:07.787] [DJIFileUploaderSDK] [info] [thread 3458] Will init OSS SDK
+[2025-08-06 01:44:07.788] [DJIFileUploaderSDK] [info] [thread 3458] Did init OSS SDK
+[2025-08-06 01:44:07.788] [DJIFileUploaderSDK] [info] [thread 3458] Will init option
+[2025-08-06 01:44:07.788] [DJIFileUploaderSDK] [info] [thread 3458] Did init option
+[2025-08-06 01:44:07.788] [DJIFileUploaderSDK] [info] [thread 3458] Finish SDK init, set log level to 2
+[2025-08-09 15:45:52.526] [DJIFileUploaderSDK] [info] [thread 2189] DJIFileUploaderSDK start init
+[2025-08-09 15:45:52.526] [DJIFileUploaderSDK] [info] [thread 2189] Will init AWS SDK
+[2025-08-09 15:45:52.553] [DJIFileUploaderSDK] [info] [thread 2189] Did init AWS SDK
+[2025-08-09 15:45:52.553] [DJIFileUploaderSDK] [info] [thread 2189] Will init OSS SDK
+[2025-08-09 15:45:52.554] [DJIFileUploaderSDK] [info] [thread 2189] Did init OSS SDK
+[2025-08-09 15:45:52.554] [DJIFileUploaderSDK] [info] [thread 2189] Will init option
+[2025-08-09 15:45:52.554] [DJIFileUploaderSDK] [info] [thread 2189] Did init option
+[2025-08-09 15:45:52.554] [DJIFileUploaderSDK] [info] [thread 2189] Finish SDK init, set log level to 2
+[2025-08-09 15:58:50.681] [DJIFileUploaderSDK] [info] [thread 2180] DJIFileUploaderSDK start init
+[2025-08-09 15:58:50.682] [DJIFileUploaderSDK] [info] [thread 2180] Will init AWS SDK
+[2025-08-09 15:58:50.704] [DJIFileUploaderSDK] [info] [thread 2180] Did init AWS SDK
+[2025-08-09 15:58:50.704] [DJIFileUploaderSDK] [info] [thread 2180] Will init OSS SDK
+[2025-08-09 15:58:50.705] [DJIFileUploaderSDK] [info] [thread 2180] Did init OSS SDK
+[2025-08-09 15:58:50.705] [DJIFileUploaderSDK] [info] [thread 2180] Will init option
+[2025-08-09 15:58:50.705] [DJIFileUploaderSDK] [info] [thread 2180] Did init option
+[2025-08-09 15:58:50.705] [DJIFileUploaderSDK] [info] [thread 2180] Finish SDK init, set log level to 2
+[2025-08-09 16:13:28.599] [DJIFileUploaderSDK] [info] [thread 2184] DJIFileUploaderSDK start init
+[2025-08-09 16:13:28.600] [DJIFileUploaderSDK] [info] [thread 2184] Will init AWS SDK
+[2025-08-09 16:13:28.630] [DJIFileUploaderSDK] [info] [thread 2184] Did init AWS SDK
+[2025-08-09 16:13:28.630] [DJIFileUploaderSDK] [info] [thread 2184] Will init OSS SDK
+[2025-08-09 16:13:28.631] [DJIFileUploaderSDK] [info] [thread 2184] Did init OSS SDK
+[2025-08-09 16:13:28.631] [DJIFileUploaderSDK] [info] [thread 2184] Will init option
+[2025-08-09 16:13:28.631] [DJIFileUploaderSDK] [info] [thread 2184] Did init option
+[2025-08-09 16:13:28.631] [DJIFileUploaderSDK] [info] [thread 2184] Finish SDK init, set log level to 2
+[2025-08-09 16:51:23.928] [DJIFileUploaderSDK] [info] [thread 2176] DJIFileUploaderSDK start init
+[2025-08-09 16:51:23.928] [DJIFileUploaderSDK] [info] [thread 2176] Will init AWS SDK
+[2025-08-09 16:51:23.950] [DJIFileUploaderSDK] [info] [thread 2176] Did init AWS SDK
+[2025-08-09 16:51:23.950] [DJIFileUploaderSDK] [info] [thread 2176] Will init OSS SDK
+[2025-08-09 16:51:23.951] [DJIFileUploaderSDK] [info] [thread 2176] Did init OSS SDK
+[2025-08-09 16:51:23.951] [DJIFileUploaderSDK] [info] [thread 2176] Will init option
+[2025-08-09 16:51:23.951] [DJIFileUploaderSDK] [info] [thread 2176] Did init option
+[2025-08-09 16:51:23.951] [DJIFileUploaderSDK] [info] [thread 2176] Finish SDK init, set log level to 2
+[2025-08-15 10:54:55.392] [DJIFileUploaderSDK] [info] [thread 2177] DJIFileUploaderSDK start init
+[2025-08-15 10:54:55.392] [DJIFileUploaderSDK] [info] [thread 2177] Will init AWS SDK
+[2025-08-15 10:54:55.418] [DJIFileUploaderSDK] [info] [thread 2177] Did init AWS SDK
+[2025-08-15 10:54:55.419] [DJIFileUploaderSDK] [info] [thread 2177] Will init OSS SDK
+[2025-08-15 10:54:55.419] [DJIFileUploaderSDK] [info] [thread 2177] Did init OSS SDK
+[2025-08-15 10:54:55.419] [DJIFileUploaderSDK] [info] [thread 2177] Will init option
+[2025-08-15 10:54:55.419] [DJIFileUploaderSDK] [info] [thread 2177] Did init option
+[2025-08-15 10:54:55.419] [DJIFileUploaderSDK] [info] [thread 2177] Finish SDK init, set log level to 2
+[2025-08-15 11:46:07.412] [DJIFileUploaderSDK] [info] [thread 2176] DJIFileUploaderSDK start init
+[2025-08-15 11:46:07.412] [DJIFileUploaderSDK] [info] [thread 2176] Will init AWS SDK
+[2025-08-15 11:46:07.434] [DJIFileUploaderSDK] [info] [thread 2176] Did init AWS SDK
+[2025-08-15 11:46:07.434] [DJIFileUploaderSDK] [info] [thread 2176] Will init OSS SDK
+[2025-08-15 11:46:07.435] [DJIFileUploaderSDK] [info] [thread 2176] Did init OSS SDK
+[2025-08-15 11:46:07.435] [DJIFileUploaderSDK] [info] [thread 2176] Will init option
+[2025-08-15 11:46:07.435] [DJIFileUploaderSDK] [info] [thread 2176] Did init option
+[2025-08-15 11:46:07.435] [DJIFileUploaderSDK] [info] [thread 2176] Finish SDK init, set log level to 2
+[2025-08-15 14:08:04.566] [DJIFileUploaderSDK] [info] [thread 2172] DJIFileUploaderSDK start init
+[2025-08-15 14:08:04.567] [DJIFileUploaderSDK] [info] [thread 2172] Will init AWS SDK
+[2025-08-15 14:08:04.595] [DJIFileUploaderSDK] [info] [thread 2172] Did init AWS SDK
+[2025-08-15 14:08:04.595] [DJIFileUploaderSDK] [info] [thread 2172] Will init OSS SDK
+[2025-08-15 14:08:04.596] [DJIFileUploaderSDK] [info] [thread 2172] Did init OSS SDK
+[2025-08-15 14:08:04.596] [DJIFileUploaderSDK] [info] [thread 2172] Will init option
+[2025-08-15 14:08:04.596] [DJIFileUploaderSDK] [info] [thread 2172] Did init option
+[2025-08-15 14:08:04.596] [DJIFileUploaderSDK] [info] [thread 2172] Finish SDK init, set log level to 2
+[2025-08-15 16:53:33.421] [DJIFileUploaderSDK] [info] [thread 2180] DJIFileUploaderSDK start init
+[2025-08-15 16:53:33.422] [DJIFileUploaderSDK] [info] [thread 2180] Will init AWS SDK
+[2025-08-15 16:53:33.447] [DJIFileUploaderSDK] [info] [thread 2180] Did init AWS SDK
+[2025-08-15 16:53:33.448] [DJIFileUploaderSDK] [info] [thread 2180] Will init OSS SDK
+[2025-08-15 16:53:33.448] [DJIFileUploaderSDK] [info] [thread 2180] Did init OSS SDK
+[2025-08-15 16:53:33.448] [DJIFileUploaderSDK] [info] [thread 2180] Will init option
+[2025-08-15 16:53:33.448] [DJIFileUploaderSDK] [info] [thread 2180] Did init option
+[2025-08-15 16:53:33.448] [DJIFileUploaderSDK] [info] [thread 2180] Finish SDK init, set log level to 2
+[2025-08-15 17:31:26.713] [DJIFileUploaderSDK] [info] [thread 2182] DJIFileUploaderSDK start init
+[2025-08-15 17:31:26.714] [DJIFileUploaderSDK] [info] [thread 2182] Will init AWS SDK
+[2025-08-15 17:31:26.740] [DJIFileUploaderSDK] [info] [thread 2182] Did init AWS SDK
+[2025-08-15 17:31:26.740] [DJIFileUploaderSDK] [info] [thread 2182] Will init OSS SDK
+[2025-08-15 17:31:26.741] [DJIFileUploaderSDK] [info] [thread 2182] Did init OSS SDK
+[2025-08-15 17:31:26.741] [DJIFileUploaderSDK] [info] [thread 2182] Will init option
+[2025-08-15 17:31:26.741] [DJIFileUploaderSDK] [info] [thread 2182] Did init option
+[2025-08-15 17:31:26.741] [DJIFileUploaderSDK] [info] [thread 2182] Finish SDK init, set log level to 2
+[2025-08-15 17:48:03.335] [DJIFileUploaderSDK] [info] [thread 2284] DJIFileUploaderSDK start init
+[2025-08-15 17:48:03.336] [DJIFileUploaderSDK] [info] [thread 2284] Will init AWS SDK
+[2025-08-15 17:48:03.386] [DJIFileUploaderSDK] [info] [thread 2284] Did init AWS SDK
+[2025-08-15 17:48:03.386] [DJIFileUploaderSDK] [info] [thread 2284] Will init OSS SDK
+[2025-08-15 17:48:03.387] [DJIFileUploaderSDK] [info] [thread 2284] Did init OSS SDK
+[2025-08-15 17:48:03.387] [DJIFileUploaderSDK] [info] [thread 2284] Will init option
+[2025-08-15 17:48:03.387] [DJIFileUploaderSDK] [info] [thread 2284] Did init option
+[2025-08-15 17:48:03.387] [DJIFileUploaderSDK] [info] [thread 2284] Finish SDK init, set log level to 2
+[2025-08-15 17:52:14.914] [DJIFileUploaderSDK] [info] [thread 2196] DJIFileUploaderSDK start init
+[2025-08-15 17:52:14.918] [DJIFileUploaderSDK] [info] [thread 2196] Will init AWS SDK
+[2025-08-15 17:52:14.945] [DJIFileUploaderSDK] [info] [thread 2196] Did init AWS SDK
+[2025-08-15 17:52:14.946] [DJIFileUploaderSDK] [info] [thread 2196] Will init OSS SDK
+[2025-08-15 17:52:14.946] [DJIFileUploaderSDK] [info] [thread 2196] Did init OSS SDK
+[2025-08-15 17:52:14.946] [DJIFileUploaderSDK] [info] [thread 2196] Will init option
+[2025-08-15 17:52:14.946] [DJIFileUploaderSDK] [info] [thread 2196] Did init option
+[2025-08-15 17:52:14.946] [DJIFileUploaderSDK] [info] [thread 2196] Finish SDK init, set log level to 2
+[2025-08-16 12:20:00.664] [DJIFileUploaderSDK] [info] [thread 2184] DJIFileUploaderSDK start init
+[2025-08-16 12:20:00.664] [DJIFileUploaderSDK] [info] [thread 2184] Will init AWS SDK
+[2025-08-16 12:20:00.689] [DJIFileUploaderSDK] [info] [thread 2184] Did init AWS SDK
+[2025-08-16 12:20:00.689] [DJIFileUploaderSDK] [info] [thread 2184] Will init OSS SDK
+[2025-08-16 12:20:00.690] [DJIFileUploaderSDK] [info] [thread 2184] Did init OSS SDK
+[2025-08-16 12:20:00.690] [DJIFileUploaderSDK] [info] [thread 2184] Will init option
+[2025-08-16 12:20:00.690] [DJIFileUploaderSDK] [info] [thread 2184] Did init option
+[2025-08-16 12:20:00.690] [DJIFileUploaderSDK] [info] [thread 2184] Finish SDK init, set log level to 2
+[2025-08-16 15:06:07.583] [DJIFileUploaderSDK] [info] [thread 2173] DJIFileUploaderSDK start init
+[2025-08-16 15:06:07.583] [DJIFileUploaderSDK] [info] [thread 2173] Will init AWS SDK
+[2025-08-16 15:06:07.606] [DJIFileUploaderSDK] [info] [thread 2173] Did init AWS SDK
+[2025-08-16 15:06:07.606] [DJIFileUploaderSDK] [info] [thread 2173] Will init OSS SDK
+[2025-08-16 15:06:07.607] [DJIFileUploaderSDK] [info] [thread 2173] Did init OSS SDK
+[2025-08-16 15:06:07.607] [DJIFileUploaderSDK] [info] [thread 2173] Will init option
+[2025-08-16 15:06:07.607] [DJIFileUploaderSDK] [info] [thread 2173] Did init option
+[2025-08-16 15:06:07.607] [DJIFileUploaderSDK] [info] [thread 2173] Finish SDK init, set log level to 2
+[2025-08-16 16:21:52.407] [DJIFileUploaderSDK] [info] [thread 2176] DJIFileUploaderSDK start init
+[2025-08-16 16:21:52.407] [DJIFileUploaderSDK] [info] [thread 2176] Will init AWS SDK
+[2025-08-16 16:21:52.438] [DJIFileUploaderSDK] [info] [thread 2176] Did init AWS SDK
+[2025-08-16 16:21:52.438] [DJIFileUploaderSDK] [info] [thread 2176] Will init OSS SDK
+[2025-08-16 16:21:52.439] [DJIFileUploaderSDK] [info] [thread 2176] Did init OSS SDK
+[2025-08-16 16:21:52.439] [DJIFileUploaderSDK] [info] [thread 2176] Will init option
+[2025-08-16 16:21:52.439] [DJIFileUploaderSDK] [info] [thread 2176] Did init option
+[2025-08-16 16:21:52.439] [DJIFileUploaderSDK] [info] [thread 2176] Finish SDK init, set log level to 2
+[2025-08-17 10:56:49.598] [DJIFileUploaderSDK] [info] [thread 2180] DJIFileUploaderSDK start init
+[2025-08-17 10:56:49.599] [DJIFileUploaderSDK] [info] [thread 2180] Will init AWS SDK
+[2025-08-17 10:56:49.621] [DJIFileUploaderSDK] [info] [thread 2180] Did init AWS SDK
+[2025-08-17 10:56:49.621] [DJIFileUploaderSDK] [info] [thread 2180] Will init OSS SDK
+[2025-08-17 10:56:49.622] [DJIFileUploaderSDK] [info] [thread 2180] Did init OSS SDK
+[2025-08-17 10:56:49.622] [DJIFileUploaderSDK] [info] [thread 2180] Will init option
+[2025-08-17 10:56:49.622] [DJIFileUploaderSDK] [info] [thread 2180] Did init option
+[2025-08-17 10:56:49.622] [DJIFileUploaderSDK] [info] [thread 2180] Finish SDK init, set log level to 2
+[2025-08-17 11:08:08.989] [DJIFileUploaderSDK] [info] [thread 2188] DJIFileUploaderSDK start init
+[2025-08-17 11:08:08.990] [DJIFileUploaderSDK] [info] [thread 2188] Will init AWS SDK
+[2025-08-17 11:08:09.020] [DJIFileUploaderSDK] [info] [thread 2188] Did init AWS SDK
+[2025-08-17 11:08:09.020] [DJIFileUploaderSDK] [info] [thread 2188] Will init OSS SDK
+[2025-08-17 11:08:09.021] [DJIFileUploaderSDK] [info] [thread 2188] Did init OSS SDK
+[2025-08-17 11:08:09.021] [DJIFileUploaderSDK] [info] [thread 2188] Will init option
+[2025-08-17 11:08:09.021] [DJIFileUploaderSDK] [info] [thread 2188] Did init option
+[2025-08-17 11:08:09.021] [DJIFileUploaderSDK] [info] [thread 2188] Finish SDK init, set log level to 2
+[2025-08-17 11:20:40.749] [DJIFileUploaderSDK] [info] [thread 2177] DJIFileUploaderSDK start init
+[2025-08-17 11:20:40.750] [DJIFileUploaderSDK] [info] [thread 2177] Will init AWS SDK
+[2025-08-17 11:20:40.776] [DJIFileUploaderSDK] [info] [thread 2177] Did init AWS SDK
+[2025-08-17 11:20:40.776] [DJIFileUploaderSDK] [info] [thread 2177] Will init OSS SDK
+[2025-08-17 11:20:40.777] [DJIFileUploaderSDK] [info] [thread 2177] Did init OSS SDK
+[2025-08-17 11:20:40.777] [DJIFileUploaderSDK] [info] [thread 2177] Will init option
+[2025-08-17 11:20:40.777] [DJIFileUploaderSDK] [info] [thread 2177] Did init option
+[2025-08-17 11:20:40.777] [DJIFileUploaderSDK] [info] [thread 2177] Finish SDK init, set log level to 2
+[2025-08-17 11:29:02.481] [DJIFileUploaderSDK] [info] [thread 2178] DJIFileUploaderSDK start init
+[2025-08-17 11:29:02.482] [DJIFileUploaderSDK] [info] [thread 2178] Will init AWS SDK
+[2025-08-17 11:29:02.505] [DJIFileUploaderSDK] [info] [thread 2178] Did init AWS SDK
+[2025-08-17 11:29:02.505] [DJIFileUploaderSDK] [info] [thread 2178] Will init OSS SDK
+[2025-08-17 11:29:02.506] [DJIFileUploaderSDK] [info] [thread 2178] Did init OSS SDK
+[2025-08-17 11:29:02.506] [DJIFileUploaderSDK] [info] [thread 2178] Will init option
+[2025-08-17 11:29:02.506] [DJIFileUploaderSDK] [info] [thread 2178] Did init option
+[2025-08-17 11:29:02.506] [DJIFileUploaderSDK] [info] [thread 2178] Finish SDK init, set log level to 2
+[2025-08-17 11:42:38.442] [DJIFileUploaderSDK] [info] [thread 2176] DJIFileUploaderSDK start init
+[2025-08-17 11:42:38.443] [DJIFileUploaderSDK] [info] [thread 2176] Will init AWS SDK
+[2025-08-17 11:42:38.471] [DJIFileUploaderSDK] [info] [thread 2176] Did init AWS SDK
+[2025-08-17 11:42:38.471] [DJIFileUploaderSDK] [info] [thread 2176] Will init OSS SDK
+[2025-08-17 11:42:38.472] [DJIFileUploaderSDK] [info] [thread 2176] Did init OSS SDK
+[2025-08-17 11:42:38.472] [DJIFileUploaderSDK] [info] [thread 2176] Will init option
+[2025-08-17 11:42:38.472] [DJIFileUploaderSDK] [info] [thread 2176] Did init option
+[2025-08-17 11:42:38.472] [DJIFileUploaderSDK] [info] [thread 2176] Finish SDK init, set log level to 2
+[2025-08-23 20:12:38.669] [DJIFileUploaderSDK] [info] [thread 2187] DJIFileUploaderSDK start init
+[2025-08-23 20:12:38.670] [DJIFileUploaderSDK] [info] [thread 2187] Will init AWS SDK
+[2025-08-23 20:12:38.698] [DJIFileUploaderSDK] [info] [thread 2187] Did init AWS SDK
+[2025-08-23 20:12:38.698] [DJIFileUploaderSDK] [info] [thread 2187] Will init OSS SDK
+[2025-08-23 20:12:38.698] [DJIFileUploaderSDK] [info] [thread 2187] Did init OSS SDK
+[2025-08-23 20:12:38.698] [DJIFileUploaderSDK] [info] [thread 2187] Will init option
+[2025-08-23 20:12:38.698] [DJIFileUploaderSDK] [info] [thread 2187] Did init option
+[2025-08-23 20:12:38.698] [DJIFileUploaderSDK] [info] [thread 2187] Finish SDK init, set log level to 2
+[2025-08-23 20:31:10.896] [DJIFileUploaderSDK] [info] [thread 2182] DJIFileUploaderSDK start init
+[2025-08-23 20:31:10.897] [DJIFileUploaderSDK] [info] [thread 2182] Will init AWS SDK
+[2025-08-23 20:31:10.933] [DJIFileUploaderSDK] [info] [thread 2182] Did init AWS SDK
+[2025-08-23 20:31:10.933] [DJIFileUploaderSDK] [info] [thread 2182] Will init OSS SDK
+[2025-08-23 20:31:10.934] [DJIFileUploaderSDK] [info] [thread 2182] Did init OSS SDK
+[2025-08-23 20:31:10.934] [DJIFileUploaderSDK] [info] [thread 2182] Will init option
+[2025-08-23 20:31:10.934] [DJIFileUploaderSDK] [info] [thread 2182] Did init option
+[2025-08-23 20:31:10.934] [DJIFileUploaderSDK] [info] [thread 2182] Finish SDK init, set log level to 2
+[2025-08-23 21:34:06.432] [DJIFileUploaderSDK] [info] [thread 4680] DJIFileUploaderSDK start init
+[2025-08-23 21:34:06.432] [DJIFileUploaderSDK] [info] [thread 4680] Will init AWS SDK
+[2025-08-23 21:34:06.486] [DJIFileUploaderSDK] [info] [thread 4680] Did init AWS SDK
+[2025-08-23 21:34:06.486] [DJIFileUploaderSDK] [info] [thread 4680] Will init OSS SDK
+[2025-08-23 21:34:06.487] [DJIFileUploaderSDK] [info] [thread 4680] Did init OSS SDK
+[2025-08-23 21:34:06.487] [DJIFileUploaderSDK] [info] [thread 4680] Will init option
+[2025-08-23 21:34:06.487] [DJIFileUploaderSDK] [info] [thread 4680] Did init option
+[2025-08-23 21:34:06.487] [DJIFileUploaderSDK] [info] [thread 4680] Finish SDK init, set log level to 2
+[2025-08-23 22:42:40.788] [DJIFileUploaderSDK] [info] [thread 2378] DJIFileUploaderSDK start init
+[2025-08-23 22:42:40.789] [DJIFileUploaderSDK] [info] [thread 2378] Will init AWS SDK
+[2025-08-23 22:42:40.829] [DJIFileUploaderSDK] [info] [thread 2378] Did init AWS SDK
+[2025-08-23 22:42:40.829] [DJIFileUploaderSDK] [info] [thread 2378] Will init OSS SDK
+[2025-08-23 22:42:40.830] [DJIFileUploaderSDK] [info] [thread 2378] Did init OSS SDK
+[2025-08-23 22:42:40.830] [DJIFileUploaderSDK] [info] [thread 2378] Will init option
+[2025-08-23 22:42:40.830] [DJIFileUploaderSDK] [info] [thread 2378] Did init option
+[2025-08-23 22:42:40.830] [DJIFileUploaderSDK] [info] [thread 2378] Finish SDK init, set log level to 2
+[2025-08-23 23:25:54.905] [DJIFileUploaderSDK] [info] [thread 2381] DJIFileUploaderSDK start init
+[2025-08-23 23:25:54.907] [DJIFileUploaderSDK] [info] [thread 2381] Will init AWS SDK
+[2025-08-23 23:25:54.950] [DJIFileUploaderSDK] [info] [thread 2381] Did init AWS SDK
+[2025-08-23 23:25:54.950] [DJIFileUploaderSDK] [info] [thread 2381] Will init OSS SDK
+[2025-08-23 23:25:54.951] [DJIFileUploaderSDK] [info] [thread 2381] Did init OSS SDK
+[2025-08-23 23:25:54.951] [DJIFileUploaderSDK] [info] [thread 2381] Will init option
+[2025-08-23 23:25:54.951] [DJIFileUploaderSDK] [info] [thread 2381] Did init option
+[2025-08-23 23:25:54.951] [DJIFileUploaderSDK] [info] [thread 2381] Finish SDK init, set log level to 2
+[2025-08-23 23:42:54.059] [DJIFileUploaderSDK] [info] [thread 2385] DJIFileUploaderSDK start init
+[2025-08-23 23:42:54.060] [DJIFileUploaderSDK] [info] [thread 2385] Will init AWS SDK
+[2025-08-23 23:42:54.106] [DJIFileUploaderSDK] [info] [thread 2385] Did init AWS SDK
+[2025-08-23 23:42:54.106] [DJIFileUploaderSDK] [info] [thread 2385] Will init OSS SDK
+[2025-08-23 23:42:54.107] [DJIFileUploaderSDK] [info] [thread 2385] Did init OSS SDK
+[2025-08-23 23:42:54.107] [DJIFileUploaderSDK] [info] [thread 2385] Will init option
+[2025-08-23 23:42:54.107] [DJIFileUploaderSDK] [info] [thread 2385] Did init option
+[2025-08-23 23:42:54.108] [DJIFileUploaderSDK] [info] [thread 2385] Finish SDK init, set log level to 2
+[2025-08-23 23:59:31.917] [DJIFileUploaderSDK] [info] [thread 2434] DJIFileUploaderSDK start init
+[2025-08-23 23:59:31.918] [DJIFileUploaderSDK] [info] [thread 2434] Will init AWS SDK
+[2025-08-23 23:59:31.948] [DJIFileUploaderSDK] [info] [thread 2434] Did init AWS SDK
+[2025-08-23 23:59:31.948] [DJIFileUploaderSDK] [info] [thread 2434] Will init OSS SDK
+[2025-08-23 23:59:31.948] [DJIFileUploaderSDK] [info] [thread 2434] Did init OSS SDK
+[2025-08-23 23:59:31.948] [DJIFileUploaderSDK] [info] [thread 2434] Will init option
+[2025-08-23 23:59:31.948] [DJIFileUploaderSDK] [info] [thread 2434] Did init option
+[2025-08-23 23:59:31.948] [DJIFileUploaderSDK] [info] [thread 2434] Finish SDK init, set log level to 2
+[2025-08-24 00:12:09.873] [DJIFileUploaderSDK] [info] [thread 2393] DJIFileUploaderSDK start init
+[2025-08-24 00:12:09.874] [DJIFileUploaderSDK] [info] [thread 2393] Will init AWS SDK
+[2025-08-24 00:12:09.922] [DJIFileUploaderSDK] [info] [thread 2393] Did init AWS SDK
+[2025-08-24 00:12:09.922] [DJIFileUploaderSDK] [info] [thread 2393] Will init OSS SDK
+[2025-08-24 00:12:09.923] [DJIFileUploaderSDK] [info] [thread 2393] Did init OSS SDK
+[2025-08-24 00:12:09.923] [DJIFileUploaderSDK] [info] [thread 2393] Will init option
+[2025-08-24 00:12:09.923] [DJIFileUploaderSDK] [info] [thread 2393] Did init option
+[2025-08-24 00:12:09.923] [DJIFileUploaderSDK] [info] [thread 2393] Finish SDK init, set log level to 2
+[2025-08-24 03:54:43.774] [DJIFileUploaderSDK] [info] [thread 2369] DJIFileUploaderSDK start init
+[2025-08-24 03:54:43.774] [DJIFileUploaderSDK] [info] [thread 2369] Will init AWS SDK
+[2025-08-24 03:54:43.810] [DJIFileUploaderSDK] [info] [thread 2369] Did init AWS SDK
+[2025-08-24 03:54:43.810] [DJIFileUploaderSDK] [info] [thread 2369] Will init OSS SDK
+[2025-08-24 03:54:43.812] [DJIFileUploaderSDK] [info] [thread 2369] Did init OSS SDK
+[2025-08-24 03:54:43.812] [DJIFileUploaderSDK] [info] [thread 2369] Will init option
+[2025-08-24 03:54:43.812] [DJIFileUploaderSDK] [info] [thread 2369] Did init option
+[2025-08-24 03:54:43.812] [DJIFileUploaderSDK] [info] [thread 2369] Finish SDK init, set log level to 2
+[2025-08-28 13:06:17.740] [DJIFileUploaderSDK] [info] [thread 2377] DJIFileUploaderSDK start init
+[2025-08-28 13:06:17.741] [DJIFileUploaderSDK] [info] [thread 2377] Will init AWS SDK
+[2025-08-28 13:06:17.784] [DJIFileUploaderSDK] [info] [thread 2377] Did init AWS SDK
+[2025-08-28 13:06:17.784] [DJIFileUploaderSDK] [info] [thread 2377] Will init OSS SDK
+[2025-08-28 13:06:17.785] [DJIFileUploaderSDK] [info] [thread 2377] Did init OSS SDK
+[2025-08-28 13:06:17.785] [DJIFileUploaderSDK] [info] [thread 2377] Will init option
+[2025-08-28 13:06:17.785] [DJIFileUploaderSDK] [info] [thread 2377] Did init option
+[2025-08-28 13:06:17.785] [DJIFileUploaderSDK] [info] [thread 2377] Finish SDK init, set log level to 2
+[2025-08-28 13:52:01.711] [DJIFileUploaderSDK] [info] [thread 2377] DJIFileUploaderSDK start init
+[2025-08-28 13:52:01.712] [DJIFileUploaderSDK] [info] [thread 2377] Will init AWS SDK
+[2025-08-28 13:52:01.751] [DJIFileUploaderSDK] [info] [thread 2377] Did init AWS SDK
+[2025-08-28 13:52:01.751] [DJIFileUploaderSDK] [info] [thread 2377] Will init OSS SDK
+[2025-08-28 13:52:01.752] [DJIFileUploaderSDK] [info] [thread 2377] Did init OSS SDK
+[2025-08-28 13:52:01.752] [DJIFileUploaderSDK] [info] [thread 2377] Will init option
+[2025-08-28 13:52:01.752] [DJIFileUploaderSDK] [info] [thread 2377] Did init option
+[2025-08-28 13:52:01.752] [DJIFileUploaderSDK] [info] [thread 2377] Finish SDK init, set log level to 2
+[2025-08-28 14:04:03.740] [DJIFileUploaderSDK] [info] [thread 2376] DJIFileUploaderSDK start init
+[2025-08-28 14:04:03.741] [DJIFileUploaderSDK] [info] [thread 2376] Will init AWS SDK
+[2025-08-28 14:04:03.788] [DJIFileUploaderSDK] [info] [thread 2376] Did init AWS SDK
+[2025-08-28 14:04:03.788] [DJIFileUploaderSDK] [info] [thread 2376] Will init OSS SDK
+[2025-08-28 14:04:03.788] [DJIFileUploaderSDK] [info] [thread 2376] Did init OSS SDK
+[2025-08-28 14:04:03.788] [DJIFileUploaderSDK] [info] [thread 2376] Will init option
+[2025-08-28 14:04:03.788] [DJIFileUploaderSDK] [info] [thread 2376] Did init option
+[2025-08-28 14:04:03.788] [DJIFileUploaderSDK] [info] [thread 2376] Finish SDK init, set log level to 2
+[2025-08-28 14:54:54.795] [DJIFileUploaderSDK] [info] [thread 2387] DJIFileUploaderSDK start init
+[2025-08-28 14:54:54.796] [DJIFileUploaderSDK] [info] [thread 2387] Will init AWS SDK
+[2025-08-28 14:54:54.840] [DJIFileUploaderSDK] [info] [thread 2387] Did init AWS SDK
+[2025-08-28 14:54:54.840] [DJIFileUploaderSDK] [info] [thread 2387] Will init OSS SDK
+[2025-08-28 14:54:54.841] [DJIFileUploaderSDK] [info] [thread 2387] Did init OSS SDK
+[2025-08-28 14:54:54.841] [DJIFileUploaderSDK] [info] [thread 2387] Will init option
+[2025-08-28 14:54:54.841] [DJIFileUploaderSDK] [info] [thread 2387] Did init option
+[2025-08-28 14:54:54.841] [DJIFileUploaderSDK] [info] [thread 2387] Finish SDK init, set log level to 2
+[2025-08-28 16:20:45.901] [DJIFileUploaderSDK] [info] [thread 2383] DJIFileUploaderSDK start init
+[2025-08-28 16:20:45.902] [DJIFileUploaderSDK] [info] [thread 2383] Will init AWS SDK
+[2025-08-28 16:20:45.937] [DJIFileUploaderSDK] [info] [thread 2383] Did init AWS SDK
+[2025-08-28 16:20:45.937] [DJIFileUploaderSDK] [info] [thread 2383] Will init OSS SDK
+[2025-08-28 16:20:45.937] [DJIFileUploaderSDK] [info] [thread 2383] Did init OSS SDK
+[2025-08-28 16:20:45.937] [DJIFileUploaderSDK] [info] [thread 2383] Will init option
+[2025-08-28 16:20:45.937] [DJIFileUploaderSDK] [info] [thread 2383] Did init option
+[2025-08-28 16:20:45.937] [DJIFileUploaderSDK] [info] [thread 2383] Finish SDK init, set log level to 2
+[2025-08-28 18:02:34.781] [DJIFileUploaderSDK] [info] [thread 2395] DJIFileUploaderSDK start init
+[2025-08-28 18:02:34.782] [DJIFileUploaderSDK] [info] [thread 2395] Will init AWS SDK
+[2025-08-28 18:02:34.840] [DJIFileUploaderSDK] [info] [thread 2395] Did init AWS SDK
+[2025-08-28 18:02:34.840] [DJIFileUploaderSDK] [info] [thread 2395] Will init OSS SDK
+[2025-08-28 18:02:34.841] [DJIFileUploaderSDK] [info] [thread 2395] Did init OSS SDK
+[2025-08-28 18:02:34.841] [DJIFileUploaderSDK] [info] [thread 2395] Will init option
+[2025-08-28 18:02:34.841] [DJIFileUploaderSDK] [info] [thread 2395] Did init option
+[2025-08-28 18:02:34.841] [DJIFileUploaderSDK] [info] [thread 2395] Finish SDK init, set log level to 2
+[2025-08-28 19:17:12.832] [DJIFileUploaderSDK] [info] [thread 2386] DJIFileUploaderSDK start init
+[2025-08-28 19:17:12.836] [DJIFileUploaderSDK] [info] [thread 2386] Will init AWS SDK
+[2025-08-28 19:17:12.887] [DJIFileUploaderSDK] [info] [thread 2386] Did init AWS SDK
+[2025-08-28 19:17:12.887] [DJIFileUploaderSDK] [info] [thread 2386] Will init OSS SDK
+[2025-08-28 19:17:12.888] [DJIFileUploaderSDK] [info] [thread 2386] Did init OSS SDK
+[2025-08-28 19:17:12.888] [DJIFileUploaderSDK] [info] [thread 2386] Will init option
+[2025-08-28 19:17:12.888] [DJIFileUploaderSDK] [info] [thread 2386] Did init option
+[2025-08-28 19:17:12.888] [DJIFileUploaderSDK] [info] [thread 2386] Finish SDK init, set log level to 2
+[2025-08-28 23:19:41.865] [DJIFileUploaderSDK] [info] [thread 2386] DJIFileUploaderSDK start init
+[2025-08-28 23:19:41.866] [DJIFileUploaderSDK] [info] [thread 2386] Will init AWS SDK
+[2025-08-28 23:19:41.921] [DJIFileUploaderSDK] [info] [thread 2386] Did init AWS SDK
+[2025-08-28 23:19:41.921] [DJIFileUploaderSDK] [info] [thread 2386] Will init OSS SDK
+[2025-08-28 23:19:41.922] [DJIFileUploaderSDK] [info] [thread 2386] Did init OSS SDK
+[2025-08-28 23:19:41.922] [DJIFileUploaderSDK] [info] [thread 2386] Will init option
+[2025-08-28 23:19:41.922] [DJIFileUploaderSDK] [info] [thread 2386] Did init option
+[2025-08-28 23:19:41.922] [DJIFileUploaderSDK] [info] [thread 2386] Finish SDK init, set log level to 2
+[2025-08-28 23:54:45.855] [DJIFileUploaderSDK] [info] [thread 2380] DJIFileUploaderSDK start init
+[2025-08-28 23:54:45.856] [DJIFileUploaderSDK] [info] [thread 2380] Will init AWS SDK
+[2025-08-28 23:54:45.914] [DJIFileUploaderSDK] [info] [thread 2380] Did init AWS SDK
+[2025-08-28 23:54:45.914] [DJIFileUploaderSDK] [info] [thread 2380] Will init OSS SDK
+[2025-08-28 23:54:45.915] [DJIFileUploaderSDK] [info] [thread 2380] Did init OSS SDK
+[2025-08-28 23:54:45.915] [DJIFileUploaderSDK] [info] [thread 2380] Will init option
+[2025-08-28 23:54:45.915] [DJIFileUploaderSDK] [info] [thread 2380] Did init option
+[2025-08-28 23:54:45.915] [DJIFileUploaderSDK] [info] [thread 2380] Finish SDK init, set log level to 2
+[2025-08-29 00:20:26.740] [DJIFileUploaderSDK] [info] [thread 2372] DJIFileUploaderSDK start init
+[2025-08-29 00:20:26.741] [DJIFileUploaderSDK] [info] [thread 2372] Will init AWS SDK
+[2025-08-29 00:20:26.780] [DJIFileUploaderSDK] [info] [thread 2372] Did init AWS SDK
+[2025-08-29 00:20:26.780] [DJIFileUploaderSDK] [info] [thread 2372] Will init OSS SDK
+[2025-08-29 00:20:26.781] [DJIFileUploaderSDK] [info] [thread 2372] Did init OSS SDK
+[2025-08-29 00:20:26.781] [DJIFileUploaderSDK] [info] [thread 2372] Will init option
+[2025-08-29 00:20:26.781] [DJIFileUploaderSDK] [info] [thread 2372] Did init option
+[2025-08-29 00:20:26.781] [DJIFileUploaderSDK] [info] [thread 2372] Finish SDK init, set log level to 2
+[2025-08-29 22:37:29.244] [DJIFileUploaderSDK] [info] [thread 2644] DJIFileUploaderSDK start init
+[2025-08-29 22:37:29.245] [DJIFileUploaderSDK] [info] [thread 2644] Will init AWS SDK
+[2025-08-29 22:37:29.304] [DJIFileUploaderSDK] [info] [thread 2644] Did init AWS SDK
+[2025-08-29 22:37:29.304] [DJIFileUploaderSDK] [info] [thread 2644] Will init OSS SDK
+[2025-08-29 22:37:29.305] [DJIFileUploaderSDK] [info] [thread 2644] Did init OSS SDK
+[2025-08-29 22:37:29.305] [DJIFileUploaderSDK] [info] [thread 2644] Will init option
+[2025-08-29 22:37:29.305] [DJIFileUploaderSDK] [info] [thread 2644] Did init option
+[2025-08-29 22:37:29.305] [DJIFileUploaderSDK] [info] [thread 2644] Finish SDK init, set log level to 2
+[2025-08-29 23:00:52.140] [DJIFileUploaderSDK] [info] [thread 2397] DJIFileUploaderSDK start init
+[2025-08-29 23:00:52.145] [DJIFileUploaderSDK] [info] [thread 2397] Will init AWS SDK
+[2025-08-29 23:00:52.192] [DJIFileUploaderSDK] [info] [thread 2397] Did init AWS SDK
+[2025-08-29 23:00:52.192] [DJIFileUploaderSDK] [info] [thread 2397] Will init OSS SDK
+[2025-08-29 23:00:52.193] [DJIFileUploaderSDK] [info] [thread 2397] Did init OSS SDK
+[2025-08-29 23:00:52.193] [DJIFileUploaderSDK] [info] [thread 2397] Will init option
+[2025-08-29 23:00:52.193] [DJIFileUploaderSDK] [info] [thread 2397] Did init option
+[2025-08-29 23:00:52.193] [DJIFileUploaderSDK] [info] [thread 2397] Finish SDK init, set log level to 2
+[2025-09-06 14:11:22.448] [DJIFileUploaderSDK] [info] [thread 2344] DJIFileUploaderSDK start init
+[2025-09-06 14:11:22.449] [DJIFileUploaderSDK] [info] [thread 2344] Will init AWS SDK
+[2025-09-06 14:11:22.478] [DJIFileUploaderSDK] [info] [thread 2344] Did init AWS SDK
+[2025-09-06 14:11:22.478] [DJIFileUploaderSDK] [info] [thread 2344] Will init OSS SDK
+[2025-09-06 14:11:22.479] [DJIFileUploaderSDK] [info] [thread 2344] Did init OSS SDK
+[2025-09-06 14:11:22.479] [DJIFileUploaderSDK] [info] [thread 2344] Will init option
+[2025-09-06 14:11:22.479] [DJIFileUploaderSDK] [info] [thread 2344] Did init option
+[2025-09-06 14:11:22.479] [DJIFileUploaderSDK] [info] [thread 2344] Finish SDK init, set log level to 2
+[2025-09-06 14:14:24.604] [DJIFileUploaderSDK] [info] [thread 2368] DJIFileUploaderSDK start init
+[2025-09-06 14:14:24.604] [DJIFileUploaderSDK] [info] [thread 2368] Will init AWS SDK
+[2025-09-06 14:14:24.633] [DJIFileUploaderSDK] [info] [thread 2368] Did init AWS SDK
+[2025-09-06 14:14:24.633] [DJIFileUploaderSDK] [info] [thread 2368] Will init OSS SDK
+[2025-09-06 14:14:24.633] [DJIFileUploaderSDK] [info] [thread 2368] Did init OSS SDK
+[2025-09-06 14:14:24.633] [DJIFileUploaderSDK] [info] [thread 2368] Will init option
+[2025-09-06 14:14:24.633] [DJIFileUploaderSDK] [info] [thread 2368] Did init option
+[2025-09-06 14:14:24.633] [DJIFileUploaderSDK] [info] [thread 2368] Finish SDK init, set log level to 2
+[2025-09-14 16:37:59.765] [DJIFileUploaderSDK] [info] [thread 2374] DJIFileUploaderSDK start init
+[2025-09-14 16:37:59.766] [DJIFileUploaderSDK] [info] [thread 2374] Will init AWS SDK
+[2025-09-14 16:37:59.816] [DJIFileUploaderSDK] [info] [thread 2374] Did init AWS SDK
+[2025-09-14 16:37:59.816] [DJIFileUploaderSDK] [info] [thread 2374] Will init OSS SDK
+[2025-09-14 16:37:59.816] [DJIFileUploaderSDK] [info] [thread 2374] Did init OSS SDK
+[2025-09-14 16:37:59.816] [DJIFileUploaderSDK] [info] [thread 2374] Will init option
+[2025-09-14 16:37:59.816] [DJIFileUploaderSDK] [info] [thread 2374] Did init option
+[2025-09-14 16:37:59.816] [DJIFileUploaderSDK] [info] [thread 2374] Finish SDK init, set log level to 2
+[2025-09-14 17:00:08.512] [DJIFileUploaderSDK] [info] [thread 2161] DJIFileUploaderSDK start init
+[2025-09-14 17:00:08.512] [DJIFileUploaderSDK] [info] [thread 2161] Will init AWS SDK
+[2025-09-14 17:00:08.541] [DJIFileUploaderSDK] [info] [thread 2161] Did init AWS SDK
+[2025-09-14 17:00:08.541] [DJIFileUploaderSDK] [info] [thread 2161] Will init OSS SDK
+[2025-09-14 17:00:08.542] [DJIFileUploaderSDK] [info] [thread 2161] Did init OSS SDK
+[2025-09-14 17:00:08.542] [DJIFileUploaderSDK] [info] [thread 2161] Will init option
+[2025-09-14 17:00:08.542] [DJIFileUploaderSDK] [info] [thread 2161] Did init option
+[2025-09-14 17:00:08.542] [DJIFileUploaderSDK] [info] [thread 2161] Finish SDK init, set log level to 2
+[2025-09-15 17:13:08.836] [DJIFileUploaderSDK] [info] [thread 2175] DJIFileUploaderSDK start init
+[2025-09-15 17:13:08.837] [DJIFileUploaderSDK] [info] [thread 2175] Will init AWS SDK
+[2025-09-15 17:13:08.864] [DJIFileUploaderSDK] [info] [thread 2175] Did init AWS SDK
+[2025-09-15 17:13:08.864] [DJIFileUploaderSDK] [info] [thread 2175] Will init OSS SDK
+[2025-09-15 17:13:08.865] [DJIFileUploaderSDK] [info] [thread 2175] Did init OSS SDK
+[2025-09-15 17:13:08.865] [DJIFileUploaderSDK] [info] [thread 2175] Will init option
+[2025-09-15 17:13:08.865] [DJIFileUploaderSDK] [info] [thread 2175] Did init option
+[2025-09-15 17:13:08.865] [DJIFileUploaderSDK] [info] [thread 2175] Finish SDK init, set log level to 2
+[2025-09-15 18:27:43.683] [DJIFileUploaderSDK] [info] [thread 2672] DJIFileUploaderSDK start init
+[2025-09-15 18:27:43.683] [DJIFileUploaderSDK] [info] [thread 2672] Will init AWS SDK
+[2025-09-15 18:27:43.715] [DJIFileUploaderSDK] [info] [thread 2672] Did init AWS SDK
+[2025-09-15 18:27:43.715] [DJIFileUploaderSDK] [info] [thread 2672] Will init OSS SDK
+[2025-09-15 18:27:43.715] [DJIFileUploaderSDK] [info] [thread 2672] Did init OSS SDK
+[2025-09-15 18:27:43.715] [DJIFileUploaderSDK] [info] [thread 2672] Will init option
+[2025-09-15 18:27:43.716] [DJIFileUploaderSDK] [info] [thread 2672] Did init option
+[2025-09-15 18:27:43.716] [DJIFileUploaderSDK] [info] [thread 2672] Finish SDK init, set log level to 2
+[2025-09-17 00:43:57.581] [DJIFileUploaderSDK] [info] [thread 2170] DJIFileUploaderSDK start init
+[2025-09-17 00:43:57.581] [DJIFileUploaderSDK] [info] [thread 2170] Will init AWS SDK
+[2025-09-17 00:43:57.606] [DJIFileUploaderSDK] [info] [thread 2170] Did init AWS SDK
+[2025-09-17 00:43:57.607] [DJIFileUploaderSDK] [info] [thread 2170] Will init OSS SDK
+[2025-09-17 00:43:57.607] [DJIFileUploaderSDK] [info] [thread 2170] Did init OSS SDK
+[2025-09-17 00:43:57.607] [DJIFileUploaderSDK] [info] [thread 2170] Will init option
+[2025-09-17 00:43:57.607] [DJIFileUploaderSDK] [info] [thread 2170] Did init option
+[2025-09-17 00:43:57.607] [DJIFileUploaderSDK] [info] [thread 2170] Finish SDK init, set log level to 2
+[2025-09-17 02:17:46.871] [DJIFileUploaderSDK] [info] [thread 2171] DJIFileUploaderSDK start init
+[2025-09-17 02:17:46.872] [DJIFileUploaderSDK] [info] [thread 2171] Will init AWS SDK
+[2025-09-17 02:17:46.895] [DJIFileUploaderSDK] [info] [thread 2171] Did init AWS SDK
+[2025-09-17 02:17:46.895] [DJIFileUploaderSDK] [info] [thread 2171] Will init OSS SDK
+[2025-09-17 02:17:46.896] [DJIFileUploaderSDK] [info] [thread 2171] Did init OSS SDK
+[2025-09-17 02:17:46.896] [DJIFileUploaderSDK] [info] [thread 2171] Will init option
+[2025-09-17 02:17:46.896] [DJIFileUploaderSDK] [info] [thread 2171] Did init option
+[2025-09-17 02:17:46.896] [DJIFileUploaderSDK] [info] [thread 2171] Finish SDK init, set log level to 2
+[2025-09-17 02:44:01.181] [DJIFileUploaderSDK] [info] [thread 2200] DJIFileUploaderSDK start init
+[2025-09-17 02:44:01.182] [DJIFileUploaderSDK] [info] [thread 2200] Will init AWS SDK
+[2025-09-17 02:44:01.208] [DJIFileUploaderSDK] [info] [thread 2200] Did init AWS SDK
+[2025-09-17 02:44:01.208] [DJIFileUploaderSDK] [info] [thread 2200] Will init OSS SDK
+[2025-09-17 02:44:01.209] [DJIFileUploaderSDK] [info] [thread 2200] Did init OSS SDK
+[2025-09-17 02:44:01.209] [DJIFileUploaderSDK] [info] [thread 2200] Will init option
+[2025-09-17 02:44:01.209] [DJIFileUploaderSDK] [info] [thread 2200] Did init option
+[2025-09-17 02:44:01.209] [DJIFileUploaderSDK] [info] [thread 2200] Finish SDK init, set log level to 2
+[2025-09-17 03:18:54.597] [DJIFileUploaderSDK] [info] [thread 2167] DJIFileUploaderSDK start init
+[2025-09-17 03:18:54.598] [DJIFileUploaderSDK] [info] [thread 2167] Will init AWS SDK
+[2025-09-17 03:18:54.627] [DJIFileUploaderSDK] [info] [thread 2167] Did init AWS SDK
+[2025-09-17 03:18:54.627] [DJIFileUploaderSDK] [info] [thread 2167] Will init OSS SDK
+[2025-09-17 03:18:54.628] [DJIFileUploaderSDK] [info] [thread 2167] Did init OSS SDK
+[2025-09-17 03:18:54.628] [DJIFileUploaderSDK] [info] [thread 2167] Will init option
+[2025-09-17 03:18:54.628] [DJIFileUploaderSDK] [info] [thread 2167] Did init option
+[2025-09-17 03:18:54.628] [DJIFileUploaderSDK] [info] [thread 2167] Finish SDK init, set log level to 2
+[2025-09-30 15:52:36.594] [DJIFileUploaderSDK] [info] [thread 2380] DJIFileUploaderSDK start init
+[2025-09-30 15:52:36.595] [DJIFileUploaderSDK] [info] [thread 2380] Will init AWS SDK
+[2025-09-30 15:52:36.638] [DJIFileUploaderSDK] [info] [thread 2380] Did init AWS SDK
+[2025-09-30 15:52:36.638] [DJIFileUploaderSDK] [info] [thread 2380] Will init OSS SDK
+[2025-09-30 15:52:36.639] [DJIFileUploaderSDK] [info] [thread 2380] Did init OSS SDK
+[2025-09-30 15:52:36.639] [DJIFileUploaderSDK] [info] [thread 2380] Will init option
+[2025-09-30 15:52:36.639] [DJIFileUploaderSDK] [info] [thread 2380] Did init option
+[2025-09-30 15:52:36.639] [DJIFileUploaderSDK] [info] [thread 2380] Finish SDK init, set log level to 2
+[2025-10-04 23:34:19.650] [DJIFileUploaderSDK] [info] [thread 2184] DJIFileUploaderSDK start init
+[2025-10-04 23:34:19.651] [DJIFileUploaderSDK] [info] [thread 2184] Will init AWS SDK
+[2025-10-04 23:34:19.676] [DJIFileUploaderSDK] [info] [thread 2184] Did init AWS SDK
+[2025-10-04 23:34:19.676] [DJIFileUploaderSDK] [info] [thread 2184] Will init OSS SDK
+[2025-10-04 23:34:19.677] [DJIFileUploaderSDK] [info] [thread 2184] Did init OSS SDK
+[2025-10-04 23:34:19.677] [DJIFileUploaderSDK] [info] [thread 2184] Will init option
+[2025-10-04 23:34:19.677] [DJIFileUploaderSDK] [info] [thread 2184] Did init option
+[2025-10-04 23:34:19.677] [DJIFileUploaderSDK] [info] [thread 2184] Finish SDK init, set log level to 2
+[2025-10-09 13:09:37.911] [DJIFileUploaderSDK] [info] [thread 2380] DJIFileUploaderSDK start init
+[2025-10-09 13:09:37.912] [DJIFileUploaderSDK] [info] [thread 2380] Will init AWS SDK
+[2025-10-09 13:09:37.983] [DJIFileUploaderSDK] [info] [thread 2380] Did init AWS SDK
+[2025-10-09 13:09:37.983] [DJIFileUploaderSDK] [info] [thread 2380] Will init OSS SDK
+[2025-10-09 13:09:37.983] [DJIFileUploaderSDK] [info] [thread 2380] Did init OSS SDK
+[2025-10-09 13:09:37.983] [DJIFileUploaderSDK] [info] [thread 2380] Will init option
+[2025-10-09 13:09:37.983] [DJIFileUploaderSDK] [info] [thread 2380] Did init option
+[2025-10-09 13:09:37.984] [DJIFileUploaderSDK] [info] [thread 2380] Finish SDK init, set log level to 2
+[2025-10-09 14:08:05.230] [DJIFileUploaderSDK] [info] [thread 2225] DJIFileUploaderSDK start init
+[2025-10-09 14:08:05.230] [DJIFileUploaderSDK] [info] [thread 2225] Will init AWS SDK
+[2025-10-09 14:08:05.256] [DJIFileUploaderSDK] [info] [thread 2225] Did init AWS SDK
+[2025-10-09 14:08:05.256] [DJIFileUploaderSDK] [info] [thread 2225] Will init OSS SDK
+[2025-10-09 14:08:05.257] [DJIFileUploaderSDK] [info] [thread 2225] Did init OSS SDK
+[2025-10-09 14:08:05.257] [DJIFileUploaderSDK] [info] [thread 2225] Will init option
+[2025-10-09 14:08:05.257] [DJIFileUploaderSDK] [info] [thread 2225] Did init option
+[2025-10-09 14:08:05.257] [DJIFileUploaderSDK] [info] [thread 2225] Finish SDK init, set log level to 2
+[2025-10-09 16:29:44.497] [DJIFileUploaderSDK] [info] [thread 2183] DJIFileUploaderSDK start init
+[2025-10-09 16:29:44.498] [DJIFileUploaderSDK] [info] [thread 2183] Will init AWS SDK
+[2025-10-09 16:29:44.522] [DJIFileUploaderSDK] [info] [thread 2183] Did init AWS SDK
+[2025-10-09 16:29:44.522] [DJIFileUploaderSDK] [info] [thread 2183] Will init OSS SDK
+[2025-10-09 16:29:44.523] [DJIFileUploaderSDK] [info] [thread 2183] Did init OSS SDK
+[2025-10-09 16:29:44.523] [DJIFileUploaderSDK] [info] [thread 2183] Will init option
+[2025-10-09 16:29:44.523] [DJIFileUploaderSDK] [info] [thread 2183] Did init option
+[2025-10-09 16:29:44.523] [DJIFileUploaderSDK] [info] [thread 2183] Finish SDK init, set log level to 2
+[2025-10-09 16:46:53.481] [DJIFileUploaderSDK] [info] [thread 2180] DJIFileUploaderSDK start init
+[2025-10-09 16:46:53.481] [DJIFileUploaderSDK] [info] [thread 2180] Will init AWS SDK
+[2025-10-09 16:46:53.502] [DJIFileUploaderSDK] [info] [thread 2180] Did init AWS SDK
+[2025-10-09 16:46:53.502] [DJIFileUploaderSDK] [info] [thread 2180] Will init OSS SDK
+[2025-10-09 16:46:53.503] [DJIFileUploaderSDK] [info] [thread 2180] Did init OSS SDK
+[2025-10-09 16:46:53.503] [DJIFileUploaderSDK] [info] [thread 2180] Will init option
+[2025-10-09 16:46:53.503] [DJIFileUploaderSDK] [info] [thread 2180] Did init option
+[2025-10-09 16:46:53.503] [DJIFileUploaderSDK] [info] [thread 2180] Finish SDK init, set log level to 2
+[2025-10-10 11:20:06.777] [DJIFileUploaderSDK] [info] [thread 2176] DJIFileUploaderSDK start init
+[2025-10-10 11:20:06.777] [DJIFileUploaderSDK] [info] [thread 2176] Will init AWS SDK
+[2025-10-10 11:20:06.804] [DJIFileUploaderSDK] [info] [thread 2176] Did init AWS SDK
+[2025-10-10 11:20:06.804] [DJIFileUploaderSDK] [info] [thread 2176] Will init OSS SDK
+[2025-10-10 11:20:06.805] [DJIFileUploaderSDK] [info] [thread 2176] Did init OSS SDK
+[2025-10-10 11:20:06.805] [DJIFileUploaderSDK] [info] [thread 2176] Will init option
+[2025-10-10 11:20:06.805] [DJIFileUploaderSDK] [info] [thread 2176] Did init option
+[2025-10-10 11:20:06.805] [DJIFileUploaderSDK] [info] [thread 2176] Finish SDK init, set log level to 2
+[2025-10-10 16:34:01.428] [DJIFileUploaderSDK] [info] [thread 2185] DJIFileUploaderSDK start init
+[2025-10-10 16:34:01.429] [DJIFileUploaderSDK] [info] [thread 2185] Will init AWS SDK
+[2025-10-10 16:34:01.456] [DJIFileUploaderSDK] [info] [thread 2185] Did init AWS SDK
+[2025-10-10 16:34:01.456] [DJIFileUploaderSDK] [info] [thread 2185] Will init OSS SDK
+[2025-10-10 16:34:01.457] [DJIFileUploaderSDK] [info] [thread 2185] Did init OSS SDK
+[2025-10-10 16:34:01.457] [DJIFileUploaderSDK] [info] [thread 2185] Will init option
+[2025-10-10 16:34:01.457] [DJIFileUploaderSDK] [info] [thread 2185] Did init option
+[2025-10-10 16:34:01.457] [DJIFileUploaderSDK] [info] [thread 2185] Finish SDK init, set log level to 2
+[2025-10-10 18:15:17.615] [DJIFileUploaderSDK] [info] [thread 2180] DJIFileUploaderSDK start init
+[2025-10-10 18:15:17.616] [DJIFileUploaderSDK] [info] [thread 2180] Will init AWS SDK
+[2025-10-10 18:15:17.644] [DJIFileUploaderSDK] [info] [thread 2180] Did init AWS SDK
+[2025-10-10 18:15:17.644] [DJIFileUploaderSDK] [info] [thread 2180] Will init OSS SDK
+[2025-10-10 18:15:17.645] [DJIFileUploaderSDK] [info] [thread 2180] Did init OSS SDK
+[2025-10-10 18:15:17.645] [DJIFileUploaderSDK] [info] [thread 2180] Will init option
+[2025-10-10 18:15:17.645] [DJIFileUploaderSDK] [info] [thread 2180] Did init option
+[2025-10-10 18:15:17.645] [DJIFileUploaderSDK] [info] [thread 2180] Finish SDK init, set log level to 2
+[2025-10-23 12:29:32.665] [DJIFileUploaderSDK] [info] [thread 2224] DJIFileUploaderSDK start init
+[2025-10-23 12:29:32.666] [DJIFileUploaderSDK] [info] [thread 2224] Will init AWS SDK
+[2025-10-23 12:29:32.699] [DJIFileUploaderSDK] [info] [thread 2224] Did init AWS SDK
+[2025-10-23 12:29:32.699] [DJIFileUploaderSDK] [info] [thread 2224] Will init OSS SDK
+[2025-10-23 12:29:32.700] [DJIFileUploaderSDK] [info] [thread 2224] Did init OSS SDK
+[2025-10-23 12:29:32.700] [DJIFileUploaderSDK] [info] [thread 2224] Will init option
+[2025-10-23 12:29:32.700] [DJIFileUploaderSDK] [info] [thread 2224] Did init option
+[2025-10-23 12:29:32.700] [DJIFileUploaderSDK] [info] [thread 2224] Finish SDK init, set log level to 2
+[2025-10-23 12:50:30.448] [DJIFileUploaderSDK] [info] [thread 2170] DJIFileUploaderSDK start init
+[2025-10-23 12:50:30.448] [DJIFileUploaderSDK] [info] [thread 2170] Will init AWS SDK
+[2025-10-23 12:50:30.478] [DJIFileUploaderSDK] [info] [thread 2170] Did init AWS SDK
+[2025-10-23 12:50:30.478] [DJIFileUploaderSDK] [info] [thread 2170] Will init OSS SDK
+[2025-10-23 12:50:30.479] [DJIFileUploaderSDK] [info] [thread 2170] Did init OSS SDK
+[2025-10-23 12:50:30.479] [DJIFileUploaderSDK] [info] [thread 2170] Will init option
+[2025-10-23 12:50:30.479] [DJIFileUploaderSDK] [info] [thread 2170] Did init option
+[2025-10-23 12:50:30.479] [DJIFileUploaderSDK] [info] [thread 2170] Finish SDK init, set log level to 2
+[2025-10-23 13:27:02.529] [DJIFileUploaderSDK] [info] [thread 2170] DJIFileUploaderSDK start init
+[2025-10-23 13:27:02.530] [DJIFileUploaderSDK] [info] [thread 2170] Will init AWS SDK
+[2025-10-23 13:27:02.557] [DJIFileUploaderSDK] [info] [thread 2170] Did init AWS SDK
+[2025-10-23 13:27:02.557] [DJIFileUploaderSDK] [info] [thread 2170] Will init OSS SDK
+[2025-10-23 13:27:02.558] [DJIFileUploaderSDK] [info] [thread 2170] Did init OSS SDK
+[2025-10-23 13:27:02.558] [DJIFileUploaderSDK] [info] [thread 2170] Will init option
+[2025-10-23 13:27:02.558] [DJIFileUploaderSDK] [info] [thread 2170] Did init option
+[2025-10-23 13:27:02.558] [DJIFileUploaderSDK] [info] [thread 2170] Finish SDK init, set log level to 2
+[2025-11-02 17:33:51.507] [DJIFileUploaderSDK] [info] [thread 2171] DJIFileUploaderSDK start init
+[2025-11-02 17:33:51.508] [DJIFileUploaderSDK] [info] [thread 2171] Will init AWS SDK
+[2025-11-02 17:33:51.537] [DJIFileUploaderSDK] [info] [thread 2171] Did init AWS SDK
+[2025-11-02 17:33:51.537] [DJIFileUploaderSDK] [info] [thread 2171] Will init OSS SDK
+[2025-11-02 17:33:51.537] [DJIFileUploaderSDK] [info] [thread 2171] Did init OSS SDK
+[2025-11-02 17:33:51.538] [DJIFileUploaderSDK] [info] [thread 2171] Will init option
+[2025-11-02 17:33:51.538] [DJIFileUploaderSDK] [info] [thread 2171] Did init option
+[2025-11-02 17:33:51.538] [DJIFileUploaderSDK] [info] [thread 2171] Finish SDK init, set log level to 2
+[2025-11-02 17:46:54.037] [DJIFileUploaderSDK] [info] [thread 2173] DJIFileUploaderSDK start init
+[2025-11-02 17:46:54.038] [DJIFileUploaderSDK] [info] [thread 2173] Will init AWS SDK
+[2025-11-02 17:46:54.062] [DJIFileUploaderSDK] [info] [thread 2173] Did init AWS SDK
+[2025-11-02 17:46:54.062] [DJIFileUploaderSDK] [info] [thread 2173] Will init OSS SDK
+[2025-11-02 17:46:54.063] [DJIFileUploaderSDK] [info] [thread 2173] Did init OSS SDK
+[2025-11-02 17:46:54.063] [DJIFileUploaderSDK] [info] [thread 2173] Will init option
+[2025-11-02 17:46:54.063] [DJIFileUploaderSDK] [info] [thread 2173] Did init option
+[2025-11-02 17:46:54.063] [DJIFileUploaderSDK] [info] [thread 2173] Finish SDK init, set log level to 2
+[2025-11-06 20:22:15.760] [DJIFileUploaderSDK] [info] [thread 2169] DJIFileUploaderSDK start init
+[2025-11-06 20:22:15.760] [DJIFileUploaderSDK] [info] [thread 2169] Will init AWS SDK
+[2025-11-06 20:22:15.781] [DJIFileUploaderSDK] [info] [thread 2169] Did init AWS SDK
+[2025-11-06 20:22:15.781] [DJIFileUploaderSDK] [info] [thread 2169] Will init OSS SDK
+[2025-11-06 20:22:15.782] [DJIFileUploaderSDK] [info] [thread 2169] Did init OSS SDK
+[2025-11-06 20:22:15.782] [DJIFileUploaderSDK] [info] [thread 2169] Will init option
+[2025-11-06 20:22:15.782] [DJIFileUploaderSDK] [info] [thread 2169] Did init option
+[2025-11-06 20:22:15.782] [DJIFileUploaderSDK] [info] [thread 2169] Finish SDK init, set log level to 2
+[2025-11-12 09:07:56.716] [DJIFileUploaderSDK] [info] [thread 2372] DJIFileUploaderSDK start init
+[2025-11-12 09:07:56.717] [DJIFileUploaderSDK] [info] [thread 2372] Will init AWS SDK
+[2025-11-12 09:07:56.753] [DJIFileUploaderSDK] [info] [thread 2372] Did init AWS SDK
+[2025-11-12 09:07:56.753] [DJIFileUploaderSDK] [info] [thread 2372] Will init OSS SDK
+[2025-11-12 09:07:56.754] [DJIFileUploaderSDK] [info] [thread 2372] Did init OSS SDK
+[2025-11-12 09:07:56.754] [DJIFileUploaderSDK] [info] [thread 2372] Will init option
+[2025-11-12 09:07:56.754] [DJIFileUploaderSDK] [info] [thread 2372] Did init option
+[2025-11-12 09:07:56.754] [DJIFileUploaderSDK] [info] [thread 2372] Finish SDK init, set log level to 2
+[2025-11-12 12:51:53.424] [DJIFileUploaderSDK] [info] [thread 2165] DJIFileUploaderSDK start init
+[2025-11-12 12:51:53.424] [DJIFileUploaderSDK] [info] [thread 2165] Will init AWS SDK
+[2025-11-12 12:51:53.453] [DJIFileUploaderSDK] [info] [thread 2165] Did init AWS SDK
+[2025-11-12 12:51:53.453] [DJIFileUploaderSDK] [info] [thread 2165] Will init OSS SDK
+[2025-11-12 12:51:53.454] [DJIFileUploaderSDK] [info] [thread 2165] Did init OSS SDK
+[2025-11-12 12:51:53.454] [DJIFileUploaderSDK] [info] [thread 2165] Will init option
+[2025-11-12 12:51:53.454] [DJIFileUploaderSDK] [info] [thread 2165] Did init option
+[2025-11-12 12:51:53.454] [DJIFileUploaderSDK] [info] [thread 2165] Finish SDK init, set log level to 2
+[2025-11-12 15:12:04.666] [DJIFileUploaderSDK] [info] [thread 2369] DJIFileUploaderSDK start init
+[2025-11-12 15:12:04.667] [DJIFileUploaderSDK] [info] [thread 2369] Will init AWS SDK
+[2025-11-12 15:12:04.707] [DJIFileUploaderSDK] [info] [thread 2369] Did init AWS SDK
+[2025-11-12 15:12:04.708] [DJIFileUploaderSDK] [info] [thread 2369] Will init OSS SDK
+[2025-11-12 15:12:04.708] [DJIFileUploaderSDK] [info] [thread 2369] Did init OSS SDK
+[2025-11-12 15:12:04.708] [DJIFileUploaderSDK] [info] [thread 2369] Will init option
+[2025-11-12 15:12:04.708] [DJIFileUploaderSDK] [info] [thread 2369] Did init option
+[2025-11-12 15:12:04.708] [DJIFileUploaderSDK] [info] [thread 2369] Finish SDK init, set log level to 2
+[2025-11-12 15:46:03.924] [DJIFileUploaderSDK] [info] [thread 2373] DJIFileUploaderSDK start init
+[2025-11-12 15:46:03.924] [DJIFileUploaderSDK] [info] [thread 2373] Will init AWS SDK
+[2025-11-12 15:46:03.975] [DJIFileUploaderSDK] [info] [thread 2373] Did init AWS SDK
+[2025-11-12 15:46:03.975] [DJIFileUploaderSDK] [info] [thread 2373] Will init OSS SDK
+[2025-11-12 15:46:03.992] [DJIFileUploaderSDK] [info] [thread 2373] Did init OSS SDK
+[2025-11-12 15:46:03.992] [DJIFileUploaderSDK] [info] [thread 2373] Will init option
+[2025-11-12 15:46:03.992] [DJIFileUploaderSDK] [info] [thread 2373] Did init option
+[2025-11-12 15:46:03.992] [DJIFileUploaderSDK] [info] [thread 2373] Finish SDK init, set log level to 2
+[2025-11-13 01:46:32.759] [DJIFileUploaderSDK] [info] [thread 2374] DJIFileUploaderSDK start init
+[2025-11-13 01:46:32.762] [DJIFileUploaderSDK] [info] [thread 2374] Will init AWS SDK
+[2025-11-13 01:46:32.798] [DJIFileUploaderSDK] [info] [thread 2374] Did init AWS SDK
+[2025-11-13 01:46:32.798] [DJIFileUploaderSDK] [info] [thread 2374] Will init OSS SDK
+[2025-11-13 01:46:32.799] [DJIFileUploaderSDK] [info] [thread 2374] Did init OSS SDK
+[2025-11-13 01:46:32.799] [DJIFileUploaderSDK] [info] [thread 2374] Will init option
+[2025-11-13 01:46:32.799] [DJIFileUploaderSDK] [info] [thread 2374] Did init option
+[2025-11-13 01:46:32.799] [DJIFileUploaderSDK] [info] [thread 2374] Finish SDK init, set log level to 2
+[2025-11-16 13:44:51.942] [DJIFileUploaderSDK] [info] [thread 2390] DJIFileUploaderSDK start init
+[2025-11-16 13:44:51.943] [DJIFileUploaderSDK] [info] [thread 2390] Will init AWS SDK
+[2025-11-16 13:44:51.980] [DJIFileUploaderSDK] [info] [thread 2390] Did init AWS SDK
+[2025-11-16 13:44:51.980] [DJIFileUploaderSDK] [info] [thread 2390] Will init OSS SDK
+[2025-11-16 13:44:51.981] [DJIFileUploaderSDK] [info] [thread 2390] Did init OSS SDK
+[2025-11-16 13:44:51.981] [DJIFileUploaderSDK] [info] [thread 2390] Will init option
+[2025-11-16 13:44:51.981] [DJIFileUploaderSDK] [info] [thread 2390] Did init option
+[2025-11-16 13:44:51.981] [DJIFileUploaderSDK] [info] [thread 2390] Finish SDK init, set log level to 2
+[2025-11-16 17:00:17.671] [DJIFileUploaderSDK] [info] [thread 2184] DJIFileUploaderSDK start init
+[2025-11-16 17:00:17.672] [DJIFileUploaderSDK] [info] [thread 2184] Will init AWS SDK
+[2025-11-16 17:00:17.701] [DJIFileUploaderSDK] [info] [thread 2184] Did init AWS SDK
+[2025-11-16 17:00:17.701] [DJIFileUploaderSDK] [info] [thread 2184] Will init OSS SDK
+[2025-11-16 17:00:17.701] [DJIFileUploaderSDK] [info] [thread 2184] Did init OSS SDK
+[2025-11-16 17:00:17.701] [DJIFileUploaderSDK] [info] [thread 2184] Will init option
+[2025-11-16 17:00:17.701] [DJIFileUploaderSDK] [info] [thread 2184] Did init option
+[2025-11-16 17:00:17.701] [DJIFileUploaderSDK] [info] [thread 2184] Finish SDK init, set log level to 2
+[2025-11-17 15:17:43.423] [DJIFileUploaderSDK] [info] [thread 2173] DJIFileUploaderSDK start init
+[2025-11-17 15:17:43.423] [DJIFileUploaderSDK] [info] [thread 2173] Will init AWS SDK
+[2025-11-17 15:17:43.450] [DJIFileUploaderSDK] [info] [thread 2173] Did init AWS SDK
+[2025-11-17 15:17:43.451] [DJIFileUploaderSDK] [info] [thread 2173] Will init OSS SDK
+[2025-11-17 15:17:43.451] [DJIFileUploaderSDK] [info] [thread 2173] Did init OSS SDK
+[2025-11-17 15:17:43.451] [DJIFileUploaderSDK] [info] [thread 2173] Will init option
+[2025-11-17 15:17:43.451] [DJIFileUploaderSDK] [info] [thread 2173] Did init option
+[2025-11-17 15:17:43.451] [DJIFileUploaderSDK] [info] [thread 2173] Finish SDK init, set log level to 2
+[2025-11-17 15:44:25.548] [DJIFileUploaderSDK] [info] [thread 2178] DJIFileUploaderSDK start init
+[2025-11-17 15:44:25.548] [DJIFileUploaderSDK] [info] [thread 2178] Will init AWS SDK
+[2025-11-17 15:44:25.575] [DJIFileUploaderSDK] [info] [thread 2178] Did init AWS SDK
+[2025-11-17 15:44:25.575] [DJIFileUploaderSDK] [info] [thread 2178] Will init OSS SDK
+[2025-11-17 15:44:25.576] [DJIFileUploaderSDK] [info] [thread 2178] Did init OSS SDK
+[2025-11-17 15:44:25.576] [DJIFileUploaderSDK] [info] [thread 2178] Will init option
+[2025-11-17 15:44:25.576] [DJIFileUploaderSDK] [info] [thread 2178] Did init option
+[2025-11-17 15:44:25.576] [DJIFileUploaderSDK] [info] [thread 2178] Finish SDK init, set log level to 2
+[2025-11-17 16:03:22.660] [DJIFileUploaderSDK] [info] [thread 2176] DJIFileUploaderSDK start init
+[2025-11-17 16:03:22.660] [DJIFileUploaderSDK] [info] [thread 2176] Will init AWS SDK
+[2025-11-17 16:03:22.693] [DJIFileUploaderSDK] [info] [thread 2176] Did init AWS SDK
+[2025-11-17 16:03:22.693] [DJIFileUploaderSDK] [info] [thread 2176] Will init OSS SDK
+[2025-11-17 16:03:22.693] [DJIFileUploaderSDK] [info] [thread 2176] Did init OSS SDK
+[2025-11-17 16:03:22.693] [DJIFileUploaderSDK] [info] [thread 2176] Will init option
+[2025-11-17 16:03:22.693] [DJIFileUploaderSDK] [info] [thread 2176] Did init option
+[2025-11-17 16:03:22.693] [DJIFileUploaderSDK] [info] [thread 2176] Finish SDK init, set log level to 2
+[2025-11-17 16:26:19.423] [DJIFileUploaderSDK] [info] [thread 2178] DJIFileUploaderSDK start init
+[2025-11-17 16:26:19.423] [DJIFileUploaderSDK] [info] [thread 2178] Will init AWS SDK
+[2025-11-17 16:26:19.451] [DJIFileUploaderSDK] [info] [thread 2178] Did init AWS SDK
+[2025-11-17 16:26:19.451] [DJIFileUploaderSDK] [info] [thread 2178] Will init OSS SDK
+[2025-11-17 16:26:19.452] [DJIFileUploaderSDK] [info] [thread 2178] Did init OSS SDK
+[2025-11-17 16:26:19.452] [DJIFileUploaderSDK] [info] [thread 2178] Will init option
+[2025-11-17 16:26:19.452] [DJIFileUploaderSDK] [info] [thread 2178] Did init option
+[2025-11-17 16:26:19.452] [DJIFileUploaderSDK] [info] [thread 2178] Finish SDK init, set log level to 2
+[2025-11-17 18:26:49.539] [DJIFileUploaderSDK] [info] [thread 2170] DJIFileUploaderSDK start init
+[2025-11-17 18:26:49.540] [DJIFileUploaderSDK] [info] [thread 2170] Will init AWS SDK
+[2025-11-17 18:26:49.567] [DJIFileUploaderSDK] [info] [thread 2170] Did init AWS SDK
+[2025-11-17 18:26:49.567] [DJIFileUploaderSDK] [info] [thread 2170] Will init OSS SDK
+[2025-11-17 18:26:49.568] [DJIFileUploaderSDK] [info] [thread 2170] Did init OSS SDK
+[2025-11-17 18:26:49.568] [DJIFileUploaderSDK] [info] [thread 2170] Will init option
+[2025-11-17 18:26:49.568] [DJIFileUploaderSDK] [info] [thread 2170] Did init option
+[2025-11-17 18:26:49.568] [DJIFileUploaderSDK] [info] [thread 2170] Finish SDK init, set log level to 2
+[2025-11-17 18:26:58.670] [DJIFileUploaderSDK] [info] [thread 2738] DJIFileUploaderSDK start init
+[2025-11-17 18:26:58.670] [DJIFileUploaderSDK] [info] [thread 2738] Will init AWS SDK
+[2025-11-17 18:26:58.699] [DJIFileUploaderSDK] [info] [thread 2738] Did init AWS SDK
+[2025-11-17 18:26:58.699] [DJIFileUploaderSDK] [info] [thread 2738] Will init OSS SDK
+[2025-11-17 18:26:58.699] [DJIFileUploaderSDK] [info] [thread 2738] Did init OSS SDK
+[2025-11-17 18:26:58.699] [DJIFileUploaderSDK] [info] [thread 2738] Will init option
+[2025-11-17 18:26:58.699] [DJIFileUploaderSDK] [info] [thread 2738] Did init option
+[2025-11-17 18:26:58.699] [DJIFileUploaderSDK] [info] [thread 2738] Finish SDK init, set log level to 2

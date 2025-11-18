@@ -1,0 +1,510 @@
+
+
+/******************** new excution ********************/
+pano_version: v5.1.4
+time stamp: 2025-8-9 15:56:28
+
+pano mode: wm163_3x3
+
+fov_hor:   68.443
+fov_ver:   54.0532
+
+out_path: /storage/emulated/0/Android/data/dji.go.v5/files/DCIM/OriginalFiles/PanoPhoto/Photo_6553686_DJI_86_pano_14430135_0_202589155446_photo_pano.jpg
+
+imu for pano internal('anti-3'shape):   
+gimbal_atti_t: yaw=26.52 pitch=-0 roll=-0
+gimbal_atti_t: yaw=26.41 pitch=24.96 roll=-0
+gimbal_atti_t: yaw=51.37 pitch=24.91 roll=-0
+gimbal_atti_t: yaw=51.51 pitch=0.12 roll=-0
+gimbal_atti_t: yaw=51.5146 pitch=-24.88 roll=-0.011023
+gimbal_atti_t: yaw=26.36 pitch=-24.89 roll=-0
+gimbal_atti_t: yaw=1.55 pitch=-24.89 roll=0
+gimbal_atti_t: yaw=1.39 pitch=0.05 roll=0
+gimbal_atti_t: yaw=1.39 pitch=25.05 roll=0
+
+========================================
+>>> pre_process bgn
+>>> projector_scale_layout:   1024
+>>> projector_scale_render:   3072
+>>> input images:
+>>> w: 375  h: 281
+>>> w: 375  h: 281
+>>> w: 375  h: 281
+>>> w: 375  h: 281
+>>> w: 375  h: 281
+>>> w: 375  h: 281
+>>> w: 375  h: 281
+>>> w: 375  h: 281
+>>> w: 375  h: 281
+>>> calib:
+>>> w: 375  h: 281
+  f: 275.675  px: 187.5  py: 140.5
+  fov_hor: 68.443  fov_ver: 54.0532
+>>> pre_process end
+----------------------------------------
+pre process time(s):   0.000217
+========================================
+>>> stage_registration_map bgn
+register:feature match:parallel_load time(s):   2e-06
+register:feature match:parallel_resize time(s):   1e-06
+register:feature match:parallel_mask time(s):   0.004195
+register:feature match:parallel_calORB time(s):   0.070987
+register:feature match:parallel_ORB-match&HOMO-verify time(s):   0.023988
+register:feature match time(s):   0.309379
+>>> match table:
+>>> from 7 to 0 inliers num: 67
+>>> from 8 to 1 inliers num: 23
+>>> from 0 to 3 inliers num: 128
+>>> from 6 to 5 inliers num: 57
+>>> from 8 to 7 inliers num: 17
+>>> from 5 to 4 inliers num: 44
+>>> from 1 to 0 inliers num: 25
+>>> from 2 to 3 inliers num: 39
+>>> from 3 to 4 inliers num: 33
+register:bundle adjust time(s):   0.01556
+>>> registration:
+>>>  0:  f: 248.86  y: 0  p: -5.33608e-08  r: 5.33608e-08
+>>>  1:  f: 248.337  y: -0.0815253  p: 26.8683  r: -0.0505958
+>>>  2:  f: 247.549  y: 26.4511  p: 26.6826  r: -0.287194
+>>>  3:  f: 248.436  y: 26.5007  p: -0.170167  r: 0.321493
+>>>  4:  f: 243.744  y: 25.6218  p: -26.8425  r: 1.91595
+>>>  5:  f: 243.237  y: -2.4224  p: -25.6393  r: 3.78602
+>>>  6:  f: 240.471  y: -29.5948  p: -23.8921  r: 4.91133
+>>>  7:  f: 249.942  y: -26.9587  p: 0.242857  r: 0.138902
+>>>  8:  f: 251.135  y: -26.9851  p: 26.7286  r: -0.273408
+register:normalize to center fov time(s):   0.000262
+>>> stage_registration_map end
+----------------------------------------
+>>> rst:   0
+register time(s):   0.326245
+========================================
+>>> stage_layout_general bgn
+layout:fragment warping:mask-padding time(s):   0.000837
+layout:fragment warping:inpaint-make-sphere-extender time(s):   0
+layout:fragment warping:inpaint-project-mask time(s):   0
+layout:fragment warping:inpaint-decompose time(s):   0
+layout:fragment warping:inpaint-generate-texture time(s):   0
+layout:fragment warping:detect-roi time(s):   0.000489
+layout:fragment warping:warp-mask time(s):   0.062357
+layout:fragment warping:warp-texture time(s):   0.111215
+layout:fragment warping:fragment-decompose time(s):   0.010525
+>>> fragments size:   9
+>>> do EC
+>>> fragments gain:
+>>> 1.03397 1.09622 1.06359 1.01496 0.775117 0.819002 0.778159 1.11749 1.04423
+>>> images gain:
+>>>
+layout:fragment warping:expo-compensate time(s):   0.084758
+layout:fragment warping time(s):   0.280376
+layout:inpaint time(s):   0.001091
+layout:find seams time(s):   0.828566
+>>> stage_layout_general end
+----------------------------------------
+>>> rst:   0
+layout time(s):   1.11102
+========================================
+>>> stage_render_general bgn
+>>> blender init:
+>>> num_bands:   7
+>>> grid_width:   12
+>>> grid_height:   9
+>>> dst_roi_final_w:   1446
+>>> dst_roi_final_h:   1122
+>>> dst_roi_final_x:   -723
+>>> dst_roi_final_y:   -561
+render:feed fragment:load time(s):   9e-06
+render:feed fragment:anti-aliasing-resize time(s):   3e-06
+render:feed fragment:warp time(s):   0.795268
+render:feed fragment:expo-compensate time(s):   0.234773
+render:feed fragment:feed time(s):   0.698804
+render:feed fragment time(s):   1.78741
+render:blend time(s):   0.172567
+>>> do crop:
+>>> crop roi w:   1445
+>>> crop roi h:   1121
+>>> crop roi x:   0
+>>> crop roi y:   0
+render:crop&write:crop time(s):   0.001816
+render:crop&write:write time(s):   0.13617
+render:crop&write time(s):   0.13803
+>>> stage_render_general end
+----------------------------------------
+>>> rst:   0
+render time(s):   2.09909
+========================================
+>>> calc done
+total loading time(s):   1.1e-05
+----------------------------------------
+total time(s):   3.54705
+========================================
+
+
+/******************** new excution ********************/
+pano_version: v5.1.4
+time stamp: 2025-8-9 16:20:35
+
+pano mode: wm163_sphere
+
+fov_hor:   68.443
+fov_ver:   54.0532
+
+out_path: /storage/emulated/0/Android/data/dji.go.v5/files/DCIM/OriginalFiles/PanoPhoto/Photo_6553687_DJI_87_pano_55484588_0_202589161520_photo_pano.jpg
+
+imu for pano internal:   
+gimbal_atti_t: yaw=98.01 pitch=10.07 roll=-0
+gimbal_atti_t: yaw=98.01 pitch=45.08 roll=-0
+gimbal_atti_t: yaw=98 pitch=65 roll=0
+gimbal_atti_t: yaw=98.01 pitch=-25.16 roll=-0
+gimbal_atti_t: yaw=98.01 pitch=-60.24 roll=0
+gimbal_atti_t: yaw=98.01 pitch=-89.98 roll=-0
+gimbal_atti_t: yaw=53.06 pitch=-59.99 roll=0
+gimbal_atti_t: yaw=53 pitch=-24.92 roll=0
+gimbal_atti_t: yaw=52.99 pitch=10.08 roll=0
+gimbal_atti_t: yaw=53 pitch=45.07 roll=0
+gimbal_atti_t: yaw=7.97 pitch=45.01 roll=0
+gimbal_atti_t: yaw=7.99 pitch=9.96 roll=0
+gimbal_atti_t: yaw=7.99 pitch=-25.07 roll=-0
+gimbal_atti_t: yaw=7.99 pitch=-60.07 roll=-0
+gimbal_atti_t: yaw=-36.82 pitch=-60.01 roll=0
+gimbal_atti_t: yaw=-37.01 pitch=-24.92 roll=0
+gimbal_atti_t: yaw=-37.01 pitch=10.08 roll=0
+gimbal_atti_t: yaw=-37.01 pitch=45.08 roll=0
+gimbal_atti_t: yaw=-81.82 pitch=65 roll=0
+gimbal_atti_t: yaw=-82.01 pitch=45.12 roll=0
+gimbal_atti_t: yaw=-82.01 pitch=9.92 roll=0
+gimbal_atti_t: yaw=-82.01 pitch=-25.06 roll=-0
+gimbal_atti_t: yaw=-82.01 pitch=-60.08 roll=-0
+gimbal_atti_t: yaw=-127.02 pitch=-60 roll=-0
+gimbal_atti_t: yaw=-127 pitch=-25.12 roll=0
+gimbal_atti_t: yaw=-127.01 pitch=10.09 roll=0
+gimbal_atti_t: yaw=-127.01 pitch=45.08 roll=0
+gimbal_atti_t: yaw=-171.82 pitch=45.01 roll=0
+gimbal_atti_t: yaw=-172.01 pitch=9.92 roll=0
+gimbal_atti_t: yaw=-172 pitch=-25.08 roll=-0
+gimbal_atti_t: yaw=-172.01 pitch=-60.09 roll=0
+gimbal_atti_t: yaw=142.92 pitch=-60.01 roll=0
+gimbal_atti_t: yaw=142.99 pitch=-24.93 roll=0
+gimbal_atti_t: yaw=142.99 pitch=10.08 roll=0
+gimbal_atti_t: yaw=142.99 pitch=45.08 roll=0
+
+========================================
+>>> pre_process bgn
+>>> projector_scale_layout:   512
+>>> projector_scale_render:   2048
+>>> input images:
+>>> w: 375  h: 281
+>>> w: 375  h: 281
+>>> w: 375  h: 281
+>>> w: 375  h: 281
+>>> w: 375  h: 281
+>>> w: 375  h: 281
+>>> w: 375  h: 281
+>>> w: 375  h: 281
+>>> w: 375  h: 281
+>>> w: 375  h: 281
+>>> w: 375  h: 281
+>>> w: 375  h: 281
+>>> w: 375  h: 281
+>>> w: 375  h: 281
+>>> w: 375  h: 281
+>>> w: 375  h: 281
+>>> w: 375  h: 281
+>>> w: 375  h: 281
+>>> w: 375  h: 281
+>>> w: 375  h: 281
+>>> w: 375  h: 281
+>>> w: 375  h: 281
+>>> w: 375  h: 281
+>>> w: 375  h: 281
+>>> w: 375  h: 281
+>>> w: 375  h: 281
+>>> w: 375  h: 281
+>>> w: 375  h: 281
+>>> w: 375  h: 281
+>>> w: 375  h: 281
+>>> w: 375  h: 281
+>>> w: 375  h: 281
+>>> w: 375  h: 281
+>>> w: 375  h: 281
+>>> w: 375  h: 281
+>>> calib:
+>>> w: 375  h: 281
+  f: 275.675  px: 187.5  py: 140.5
+  fov_hor: 68.443  fov_ver: 54.0532
+>>> pre_process end
+----------------------------------------
+pre process time(s):   0.000508
+========================================
+>>> stage_registration_map bgn
+register:feature match:parallel_load time(s):   2e-06
+register:feature match:parallel_resize time(s):   0
+register:feature match:parallel_mask time(s):   0.003333
+register:feature match:parallel_calORB time(s):   0.054076
+register:feature match:parallel_ORB-match&HOMO-verify time(s):   3e-06
+register:feature match time(s):   1.90975
+>>> match table:
+>>> from 0 to 8 inliers num: 28
+>>> from 11 to 16 inliers num: 76
+>>> from 16 to 20 inliers num: 60
+>>> from 20 to 25 inliers num: 61
+>>> from 28 to 33 inliers num: 122
+>>> from 25 to 28 inliers num: 102
+>>> from 3 to 7 inliers num: 122
+>>> from 12 to 15 inliers num: 73
+>>> from 7 to 12 inliers num: 44
+>>> from 21 to 24 inliers num: 137
+>>> from 15 to 21 inliers num: 96
+>>> from 29 to 32 inliers num: 169
+>>> from 24 to 29 inliers num: 96
+>>> from 4 to 6 inliers num: 227
+>>> from 32 to 3 inliers num: 112
+>>> from 13 to 14 inliers num: 201
+>>> from 6 to 13 inliers num: 231
+>>> from 22 to 23 inliers num: 222
+>>> from 14 to 22 inliers num: 119
+>>> from 23 to 30 inliers num: 160
+>>> from 3 to 4 inliers num: 108
+>>> from 30 to 31 inliers num: 261
+>>> from 31 to 4 inliers num: 103
+>>> from 11 to 12 inliers num: 59
+>>> from 12 to 13 inliers num: 88
+>>> from 7 to 6 inliers num: 115
+>>> from 15 to 14 inliers num: 45
+>>> from 16 to 15 inliers num: 69
+>>> from 21 to 22 inliers num: 102
+>>> from 20 to 21 inliers num: 36
+>>> from 25 to 24 inliers num: 97
+>>> from 24 to 23 inliers num: 73
+>>> from 29 to 30 inliers num: 83
+>>> from 33 to 32 inliers num: 80
+>>> from 28 to 29 inliers num: 127
+>>> from 5 to 4 inliers num: 96
+>>> from 32 to 31 inliers num: 81
+>>> from 5 to 13 inliers num: 185
+>>> from 5 to 22 inliers num: 75
+>>> from 5 to 30 inliers num: 88
+register:bundle adjust time(s):   0.123148
+>>> registration:
+>>>  0:  f: 222.687  y: 59.3733  p: 10.4501  r: -0.373805
+>>>  1:  f: 275.675  y: 56.25  p: 45.08  r: 8.57343e-08
+>>>  2:  f: 275.675  y: 56.24  p: 65  r: -1.96154e-06
+>>>  3:  f: 270.708  y: 55.8827  p: -26.4802  r: -0.0597557
+>>>  4:  f: 270.153  y: 55.6481  p: -61.1064  r: 0.392549
+>>>  5:  f: 270.87  y: -99.0549  p: -89.1832  r: 155.429
+>>>  6:  f: 270.294  y: 10.352  p: -60.6945  r: 1.0117
+>>>  7:  f: 269.898  y: 11.3781  p: -25.9479  r: 0.144157
+>>>  8:  f: 233.229  y: 8.1353  p: 10.0964  r: 0.540384
+>>>  9:  f: 275.675  y: 11.24  p: 45.07  r: -5.37733e-07
+>>>  10:  f: 275.675  y: -33.79  p: 45.01  r: 3.9906e-08
+>>>  11:  f: 267.353  y: -33.4376  p: 8.89351  r: 0.606221
+>>>  12:  f: 268.431  y: -33.7486  p: -26.1201  r: 0.0264032
+>>>  13:  f: 266.319  y: -33.7482  p: -61.1118  r: 0.00898916
+>>>  14:  f: 265.909  y: -79.7461  p: -60.5668  r: 1.19883
+>>>  15:  f: 267.754  y: -78.6445  p: -25.3594  r: 0.516282
+>>>  16:  f: 269.575  y: -78.3253  p: 9.56179  r: 0.482732
+>>>  17:  f: 275.675  y: -78.77  p: 45.08  r: -4.40423e-07
+>>>  18:  f: 275.675  y: -123.58  p: 65  r: 1.79893e-06
+>>>  19:  f: 275.675  y: -123.77  p: 45.12  r: 9.37613e-07
+>>>  20:  f: 269.048  y: -123.791  p: 9.19654  r: -0.0336007
+>>>  21:  f: 267.626  y: -123.994  p: -25.9548  r: 0.283902
+>>>  22:  f: 267.233  y: -124.754  p: -61.1781  r: 1.20067
+>>>  23:  f: 266.202  y: -170.818  p: -60.1711  r: 2.32272
+>>>  24:  f: 268.93  y: -168.906  p: -25.1125  r: 0.45827
+>>>  25:  f: 271.153  y: -168.55  p: 9.66673  r: 0.280905
+>>>  26:  f: 275.675  y: -168.77  p: 45.08  r: 1.1256e-06
+>>>  27:  f: 275.675  y: 146.42  p: 45.01  r: -2.56418e-07
+>>>  28:  f: 268.245  y: 146.234  p: 9.25392  r: 0.181781
+>>>  29:  f: 267.541  y: 145.893  p: -25.9614  r: 0.419761
+>>>  30:  f: 266.484  y: 145.125  p: -61.2371  r: 1.20257
+>>>  31:  f: 267.473  y: 99.2971  p: -60.4595  r: 2.05298
+>>>  32:  f: 268.562  y: 100.877  p: -25.4456  r: 0.618374
+>>>  33:  f: 270.539  y: 101.28  p: 9.37373  r: 0.183363
+>>>  34:  f: 275.675  y: 101.23  p: 45.08  r: -2.07407e-08
+register:normalize to center fov time(s):   0.000821
+>>> stage_registration_map end
+----------------------------------------
+>>> rst:   0
+register time(s):   2.03562
+========================================
+>>> stage_layout_general bgn
+layout:fragment warping:mask-padding time(s):   0.001322
+layout:fragment warping:inpaint-make-sphere-extender time(s):   0.001879
+layout:fragment warping:inpaint-project-mask time(s):   1.06245
+layout:fragment warping:inpaint-decompose time(s):   0.063545
+layout:fragment warping:inpaint-generate-texture time(s):   0.272552
+layout:fragment warping:detect-roi time(s):   0
+layout:fragment warping:warp-mask time(s):   0
+layout:fragment warping:warp-texture time(s):   0
+layout:fragment warping:fragment-decompose time(s):   0
+>>> fragments size:   61
+>>> do EC
+>>> fragments gain:
+>>> 1.13206 0.955125 0.868526 0.869899 0.937444 0.991889 0.979372 0.996841 0.942033 1.13518 0.894338 0.897349 0.837186 1.02056 0.883716 0.892033 0.977838 1.00063 0.989926 1.01713 1.00876 1.01557 1.01703 0.874935 0.881418 1.15538 1.12043 1.14805 1.10723 0.864562 1.11679 1.1118 1.14173 1.1365 0.862025 0.861653 0.992091 0.993463 0.997678 0.999419 0.999066 0.9994 0.962989 0.947508 1.03148 1.10972 0.869955 0.946603 0.82329 0.909456 0.915071 0.977516 0.979692 0.924664 1.02729 1.00128 1.01784 0.998867 0.984989 1.22161 0.942094
+>>> images gain:
+>>> 1.13206 0.955125 0.868526 0.869899 0.937444 0.991889 0.988106 0.942033 1.13518 0.894338 0.867267 0.952136 0.934935 0.995279 1.01462 0.878177 1.13791 1.12764 0.864562 1.1143 1.13911 0.861839 0.992777 0.998891 0.955248 1.0706 0.908279 0.866373 0.946293 0.952178 1.01429 1.00835 0.984989 1.22161 0.942094
+layout:fragment warping:expo-compensate time(s):   0.09488
+layout:fragment warping time(s):   1.56317
+layout:inpaint time(s):   0.00135
+layout:find seams time(s):   1.46848
+>>> stage_layout_general end
+----------------------------------------
+>>> rst:   0
+layout time(s):   3.03448
+========================================
+>>> stage_render_sphere bgn
+>>> blender init:
+>>> num_bands:   8
+>>> grid_width:   11
+>>> grid_height:   4
+>>> dst_roi_final_w:   2688
+>>> dst_roi_final_h:   1024
+>>> dst_roi_final_x:   -1024
+>>> dst_roi_final_y:   0
+render:feed fragment:load time(s):   5.9e-05
+render:feed fragment:anti-aliasing-resize time(s):   1.5e-05
+render:feed fragment:warp time(s):   3.76991
+render:feed fragment:expo-compensate time(s):   0.46369
+render:feed fragment:feed time(s):   2.64139
+render:feed fragment time(s):   7.05422
+render:blend time(s):   0.296487
+render:crop&write time(s):   0.469652
+>>> stage_render_sphere end
+----------------------------------------
+>>> rst:   0
+render time(s):   7.82178
+========================================
+>>> calc done
+total loading time(s):   6.1e-05
+----------------------------------------
+total time(s):   12.9081
+========================================
+
+
+/******************** new excution ********************/
+pano_version: v5.1.4
+time stamp: 2025-8-9 16:20:55
+
+pano mode: wm163_1x7
+
+fov_hor:   68.443
+fov_ver:   54.0532
+
+out_path: /storage/emulated/0/Android/data/dji.go.v5/files/DCIM/OriginalFiles/PanoPhoto/Photo_6553688_DJI_88_pano_10995239_0_202589161642_photo_pano.jpg
+
+imu for pano internal:   
+gimbal_atti_t: yaw=49.81 pitch=-4.18 roll=0
+gimbal_atti_t: yaw=18.38 pitch=-4.19 roll=0
+gimbal_atti_t: yaw=-13.21 pitch=-4.19 roll=0
+gimbal_atti_t: yaw=-44.53 pitch=-4.2 roll=0
+gimbal_atti_t: yaw=81.13 pitch=-4.19 roll=-0
+gimbal_atti_t: yaw=112.88 pitch=-4.2 roll=-0
+gimbal_atti_t: yaw=144.37 pitch=-4.2 roll=-0
+
+========================================
+>>> pre_process bgn
+>>> projector_scale_layout:   1024
+>>> projector_scale_render:   3072
+>>> input images:
+>>> w: 375  h: 281
+>>> w: 375  h: 281
+>>> w: 375  h: 281
+>>> w: 375  h: 281
+>>> w: 375  h: 281
+>>> w: 375  h: 281
+>>> w: 375  h: 281
+>>> calib:
+>>> w: 375  h: 281
+  f: 275.675  px: 187.5  py: 140.5
+  fov_hor: 68.443  fov_ver: 54.0532
+>>> pre_process end
+----------------------------------------
+pre process time(s):   0.000181
+========================================
+>>> stage_registration_map bgn
+register:feature match:parallel_load time(s):   2e-06
+register:feature match:parallel_resize time(s):   2e-06
+register:feature match:parallel_mask time(s):   0.002897
+register:feature match:parallel_calORB time(s):   0.078703
+register:feature match:parallel_ORB-match&HOMO-verify time(s):   0.038918
+register:feature match time(s):   0.236535
+>>> match table:
+>>> from 0 to 1 inliers num: 66
+>>> from 0 to 4 inliers num: 45
+>>> from 1 to 2 inliers num: 135
+>>> from 2 to 3 inliers num: 164
+>>> from 4 to 5 inliers num: 92
+>>> from 5 to 6 inliers num: 187
+register:bundle adjust time(s):   0.012754
+>>> registration:
+>>>  0:  f: 279.64  y: 0  p: -1.06722e-07  r: 0
+>>>  1:  f: 271.637  y: -30.5221  p: -0.506237  r: -1.78955
+>>>  2:  f: 269.337  y: -61.654  p: -2.16967  r: -4.10499
+>>>  3:  f: 266.39  y: -93.0407  p: -4.82115  r: -4.36314
+>>>  4:  f: 266.073  y: 30.7641  p: -0.0338675  r: 1.70767
+>>>  5:  f: 261.504  y: 62.7011  p: -1.81487  r: 3.14437
+>>>  6:  f: 259.281  y: 94.8474  p: -4.21077  r: 3.54602
+register:normalize to center fov time(s):   0.000311
+>>> stage_registration_map end
+----------------------------------------
+>>> rst:   0
+register time(s):   0.250876
+========================================
+>>> stage_layout_general bgn
+layout:fragment warping:mask-padding time(s):   0.001088
+layout:fragment warping:inpaint-make-sphere-extender time(s):   0
+layout:fragment warping:inpaint-project-mask time(s):   0
+layout:fragment warping:inpaint-decompose time(s):   0.063545
+layout:fragment warping:inpaint-generate-texture time(s):   0.272552
+layout:fragment warping:detect-roi time(s):   0.001157
+layout:fragment warping:warp-mask time(s):   0.045115
+layout:fragment warping:warp-texture time(s):   0.065984
+layout:fragment warping:fragment-decompose time(s):   0.004809
+>>> fragments size:   7
+>>> do EC
+>>> fragments gain:
+>>> 0.934182 0.99293 1.0512 0.968298 1.01114 1.04043 0.970957
+>>> images gain:
+>>>
+layout:fragment warping:expo-compensate time(s):   0.026422
+layout:fragment warping time(s):   0.156134
+layout:inpaint time(s):   0.001378
+layout:find seams time(s):   0.170711
+>>> stage_layout_general end
+----------------------------------------
+>>> rst:   0
+layout time(s):   0.329463
+========================================
+>>> stage_render_general bgn
+>>> blender init:
+>>> num_bands:   7
+>>> grid_width:   18
+>>> grid_height:   5
+>>> dst_roi_final_w:   2214
+>>> dst_roi_final_h:   570
+>>> dst_roi_final_x:   -1095
+>>> dst_roi_final_y:   -255
+render:feed fragment:load time(s):   4e-06
+render:feed fragment:anti-aliasing-resize time(s):   4e-06
+render:feed fragment:warp time(s):   0.522944
+render:feed fragment:expo-compensate time(s):   0.098428
+render:feed fragment:feed time(s):   0.30869
+render:feed fragment time(s):   0.973685
+render:blend time(s):   0.140996
+>>> do crop:
+>>> crop roi w:   2056
+>>> crop roi h:   418
+>>> crop roi x:   104
+>>> crop roi y:   77
+render:crop&write:crop time(s):   0.002405
+render:crop&write:write time(s):   0.078252
+render:crop&write time(s):   0.080711
+>>> stage_render_general end
+----------------------------------------
+>>> rst:   0
+render time(s):   1.19653
+========================================
+>>> calc done
+total loading time(s):   6e-06
+----------------------------------------
+total time(s):   1.78121
+========================================

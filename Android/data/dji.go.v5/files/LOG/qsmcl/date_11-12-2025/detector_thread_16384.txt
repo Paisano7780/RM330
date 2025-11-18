@@ -1,0 +1,456 @@
+to run detector thread
+to run detector thread
+try to push frame to detector, b_new_frame_come_in_: 0
+try to push frame to detector done, did_push: 1
+delay:[2013830054]ms frame timestamp[0] [detector_workload: 52]
+try to push frame to detector, b_new_frame_come_in_: 0
+try to push frame to detector done, did_push: 1
+delay:[2013830682]ms frame timestamp[0] [detector_workload: 52]
+try to push frame to detector, b_new_frame_come_in_: 0
+try to push frame to detector done, did_push: 1
+delay:[2013830961]ms frame timestamp[0] [detector_workload: 52]
+try to push frame to detector, b_new_frame_come_in_: 0
+try to push frame to detector done, did_push: 1
+delay:[2013831229]ms frame timestamp[0] [detector_workload: 52]
+try to push frame to detector, b_new_frame_come_in_: 0
+try to push frame to detector done, did_push: 1
+delay:[2013831507]ms frame timestamp[0] [detector_workload: 52]
+try to push frame to detector, b_new_frame_come_in_: 0
+delay:[2013831783]ms frame timestamp[0] [detector_workload: 52]
+try to push frame to detector done, did_push: 1
+try to push frame to detector, b_new_frame_come_in_: 0
+try to push frame to detector done, did_push: 1
+delay:[2013832034]ms frame timestamp[0] [detector_workload: 52]
+try to push frame to detector, b_new_frame_come_in_: 0
+try to push frame to detector done, did_push: 1
+delay:[2013832320]ms frame timestamp[0] [detector_workload: 52]
+try to push frame to detector, b_new_frame_come_in_: 0
+try to push frame to detector done, did_push: 1
+delay:[2013832568]ms frame timestamp[0] [detector_workload: 52]
+try to push frame to detector, b_new_frame_come_in_: 0
+try to push frame to detector done, did_push: 1
+delay:[2013832831]ms frame timestamp[0] [detector_workload: 52]
+try to push frame to detector, b_new_frame_come_in_: 0
+try to push frame to detector done, did_push: 1
+delay:[2013833111]ms frame timestamp[0] [detector_workload: 52]
+try to push frame to detector, b_new_frame_come_in_: 0
+try to push frame to detector done, did_push: 1
+delay:[2013833370]ms frame timestamp[0] [detector_workload: 52]
+try to push frame to detector, b_new_frame_come_in_: 0
+try to push frame to detector done, did_push: 1
+delay:[2013833632]ms frame timestamp[0] [detector_workload: 52]
+try to push frame to detector, b_new_frame_come_in_: 0
+try to push frame to detector done, did_push: 1
+delay:[2013833906]ms frame timestamp[0] [detector_workload: 52]
+try to push frame to detector, b_new_frame_come_in_: 0
+delay:[2013834158]ms frame timestamp[0] [detector_workload: 52]
+try to push frame to detector done, did_push: 1
+try to push frame to detector, b_new_frame_come_in_: 0
+try to push frame to detector done, did_push: 1
+delay:[2013834437]ms frame timestamp[0] [detector_workload: 52]
+try to push frame to detector, b_new_frame_come_in_: 0
+try to push frame to detector done, did_push: 1
+delay:[2013834705]ms frame timestamp[0] [detector_workload: 52]
+try to push frame to detector, b_new_frame_come_in_: 0
+try to push frame to detector done, did_push: 1
+delay:[2013834963]ms frame timestamp[0] [detector_workload: 52]
+try to push frame to detector, b_new_frame_come_in_: 0
+try to push frame to detector done, did_push: 1
+delay:[2013835240]ms frame timestamp[0] [detector_workload: 52]
+try to push frame to detector, b_new_frame_come_in_: 0
+try to push frame to detector done, did_push: 1
+delay:[2013835494]ms frame timestamp[0] [detector_workload: 52]
+try to push frame to detector, b_new_frame_come_in_: 0
+try to push frame to detector done, did_push: 1
+delay:[2013835782]ms frame timestamp[0] [detector_workload: 52]
+try to push frame to detector, b_new_frame_come_in_: 0
+try to push frame to detector done, did_push: 1
+delay:[2013836049]ms frame timestamp[0] [detector_workload: 52]
+try to push frame to detector, b_new_frame_come_in_: 0
+try to push frame to detector done, did_push: 1
+delay:[2013836312]ms frame timestamp[0] [detector_workload: 52]
+try to push frame to detector, b_new_frame_come_in_: 0
+try to push frame to detector done, did_push: 1
+delay:[2013836570]ms frame timestamp[0] [detector_workload: 52]
+try to push frame to detector, b_new_frame_come_in_: 0
+try to push frame to detector done, did_push: 1
+delay:[2013836838]ms frame timestamp[0] [detector_workload: 52]
+try to push frame to detector, b_new_frame_come_in_: 0
+try to push frame to detector done, did_push: 1
+delay:[2013837106]ms frame timestamp[0] [detector_workload: 52]
+try to push frame to detector, b_new_frame_come_in_: 0
+try to push frame to detector done, did_push: 1
+delay:[2013837369]ms frame timestamp[0] [detector_workload: 52]
+try to push frame to detector, b_new_frame_come_in_: 0
+try to push frame to detector done, did_push: 1
+delay:[2013837616]ms frame timestamp[0] [detector_workload: 52]
+try to push frame to detector, b_new_frame_come_in_: 0
+try to push frame to detector done, did_push: 1
+delay:[2013837891]ms frame timestamp[0] [detector_workload: 52]
+try to push frame to detector, b_new_frame_come_in_: 0
+try to push frame to detector done, did_push: 1
+delay:[2013838155]ms frame timestamp[0] [detector_workload: 52]
+try to push frame to detector, b_new_frame_come_in_: 0
+delay:[2013838428]ms frame timestamp[0] [detector_workload: 52]
+try to push frame to detector done, did_push: 1
+try to push frame to detector, b_new_frame_come_in_: 0
+try to push frame to detector done, did_push: 1
+delay:[2013838696]ms frame timestamp[0] [detector_workload: 52]
+try to push frame to detector, b_new_frame_come_in_: 0
+try to push frame to detector done, did_push: 1
+delay:[2013839001]ms frame timestamp[0] [detector_workload: 52]
+try to push frame to detector, b_new_frame_come_in_: 0
+try to push frame to detector done, did_push: 1
+delay:[2013839259]ms frame timestamp[0] [detector_workload: 52]
+try to push frame to detector, b_new_frame_come_in_: 0
+try to push frame to detector done, did_push: 1
+delay:[2013839531]ms frame timestamp[0] [detector_workload: 52]
+try to push frame to detector, b_new_frame_come_in_: 0
+try to push frame to detector done, did_push: 1
+delay:[2013839789]ms frame timestamp[0] [detector_workload: 52]
+try to push frame to detector, b_new_frame_come_in_: 0
+try to push frame to detector done, did_push: 1
+delay:[2013840054]ms frame timestamp[0] [detector_workload: 52]
+try to push frame to detector, b_new_frame_come_in_: 0
+try to push frame to detector done, did_push: 1
+delay:[2013840326]ms frame timestamp[0] [detector_workload: 52]
+try to push frame to detector, b_new_frame_come_in_: 0
+try to push frame to detector done, did_push: 1
+delay:[2013840602]ms frame timestamp[0] [detector_workload: 52]
+try to push frame to detector, b_new_frame_come_in_: 0
+try to push frame to detector done, did_push: 1
+delay:[2013840795]ms frame timestamp[0] [detector_workload: 52]
+try to push frame to detector, b_new_frame_come_in_: 0
+try to push frame to detector done, did_push: 1
+delay:[2013842084]ms frame timestamp[0] [detector_workload: 52]
+try to push frame to detector, b_new_frame_come_in_: 0
+try to push frame to detector done, did_push: 1
+delay:[2013842369]ms frame timestamp[0] [detector_workload: 52]
+try to push frame to detector, b_new_frame_come_in_: 0
+delay:[2013842636]ms frame timestamp[0] [detector_workload: 52]
+try to push frame to detector done, did_push: 1
+try to push frame to detector, b_new_frame_come_in_: 0
+try to push frame to detector done, did_push: 1
+delay:[2013842886]ms frame timestamp[0] [detector_workload: 52]
+try to push frame to detector, b_new_frame_come_in_: 0
+try to push frame to detector done, did_push: 1
+delay:[2013843151]ms frame timestamp[0] [detector_workload: 52]
+try to push frame to detector, b_new_frame_come_in_: 0
+try to push frame to detector done, did_push: 1
+delay:[2013843413]ms frame timestamp[0] [detector_workload: 52]
+try to push frame to detector, b_new_frame_come_in_: 0
+try to push frame to detector done, did_push: 1
+delay:[2013843700]ms frame timestamp[0] [detector_workload: 52]
+try to push frame to detector, b_new_frame_come_in_: 0
+try to push frame to detector done, did_push: 1
+delay:[2013843965]ms frame timestamp[0] [detector_workload: 52]
+try to push frame to detector, b_new_frame_come_in_: 0
+try to push frame to detector done, did_push: 1
+delay:[2013844246]ms frame timestamp[0] [detector_workload: 52]
+try to push frame to detector, b_new_frame_come_in_: 0
+try to push frame to detector done, did_push: 1
+delay:[2013844499]ms frame timestamp[0] [detector_workload: 52]
+try to push frame to detector, b_new_frame_come_in_: 0
+delay:[2013844770]ms frame timestamp[0] [detector_workload: 52]
+try to push frame to detector done, did_push: 1
+try to push frame to detector, b_new_frame_come_in_: 0
+try to push frame to detector done, did_push: 1
+delay:[2013845026]ms frame timestamp[0] [detector_workload: 52]
+try to push frame to detector, b_new_frame_come_in_: 0
+try to push frame to detector done, did_push: 1
+delay:[2013845291]ms frame timestamp[0] [detector_workload: 52]
+try to push frame to detector, b_new_frame_come_in_: 0
+try to push frame to detector done, did_push: 1
+delay:[2013845552]ms frame timestamp[0] [detector_workload: 52]
+try to push frame to detector, b_new_frame_come_in_: 0
+try to push frame to detector done, did_push: 1
+delay:[2013845824]ms frame timestamp[0] [detector_workload: 52]
+try to push frame to detector, b_new_frame_come_in_: 0
+try to push frame to detector done, did_push: 1
+delay:[2013846093]ms frame timestamp[0] [detector_workload: 52]
+try to push frame to detector, b_new_frame_come_in_: 0
+try to push frame to detector done, did_push: 1
+delay:[2013846370]ms frame timestamp[0] [detector_workload: 52]
+try to push frame to detector, b_new_frame_come_in_: 0
+try to push frame to detector done, did_push: 1
+delay:[2013846622]ms frame timestamp[0] [detector_workload: 52]
+try to push frame to detector, b_new_frame_come_in_: 0
+try to push frame to detector done, did_push: 1
+delay:[2013846894]ms frame timestamp[0] [detector_workload: 52]
+try to push frame to detector, b_new_frame_come_in_: 0
+try to push frame to detector done, did_push: 1
+delay:[2013847174]ms frame timestamp[0] [detector_workload: 52]
+try to push frame to detector, b_new_frame_come_in_: 0
+try to push frame to detector done, did_push: 1
+delay:[2013847426]ms frame timestamp[0] [detector_workload: 52]
+try to push frame to detector, b_new_frame_come_in_: 0
+delay:[2013847691]ms frame timestamp[0] [detector_workload: 52]
+try to push frame to detector done, did_push: 1
+try to push frame to detector, b_new_frame_come_in_: 0
+try to push frame to detector done, did_push: 1
+delay:[2013847973]ms frame timestamp[0] [detector_workload: 52]
+try to push frame to detector, b_new_frame_come_in_: 0
+try to push frame to detector done, did_push: 1
+delay:[2013848274]ms frame timestamp[0] [detector_workload: 52]
+try to push frame to detector, b_new_frame_come_in_: 0
+try to push frame to detector done, did_push: 1
+delay:[2013848527]ms frame timestamp[0] [detector_workload: 52]
+try to push frame to detector, b_new_frame_come_in_: 0
+try to push frame to detector done, did_push: 1
+delay:[2013848793]ms frame timestamp[0] [detector_workload: 52]
+try to push frame to detector, b_new_frame_come_in_: 0
+try to push frame to detector done, did_push: 1
+delay:[2013849055]ms frame timestamp[0] [detector_workload: 52]
+try to push frame to detector, b_new_frame_come_in_: 0
+try to push frame to detector done, did_push: 1
+delay:[2013849317]ms frame timestamp[0] [detector_workload: 52]
+try to push frame to detector, b_new_frame_come_in_: 0
+try to push frame to detector done, did_push: 1
+delay:[2013849599]ms frame timestamp[0] [detector_workload: 52]
+try to push frame to detector, b_new_frame_come_in_: 0
+try to push frame to detector done, did_push: 1
+delay:[2013849709]ms frame timestamp[0] [detector_workload: 52]
+try to push frame to detector, b_new_frame_come_in_: 0
+try to push frame to detector done, did_push: 1
+delay:[2013897834]ms frame timestamp[0] [detector_workload: 52]
+try to push frame to detector, b_new_frame_come_in_: 0
+try to push frame to detector done, did_push: 1
+delay:[2013898081]ms frame timestamp[0] [detector_workload: 52]
+try to push frame to detector, b_new_frame_come_in_: 0
+try to push frame to detector done, did_push: 1
+delay:[2013898659]ms frame timestamp[0] [detector_workload: 52]
+try to push frame to detector, b_new_frame_come_in_: 0
+try to push frame to detector done, did_push: 1
+delay:[2013898917]ms frame timestamp[0] [detector_workload: 52]
+try to push frame to detector, b_new_frame_come_in_: 0
+try to push frame to detector done, did_push: 1
+delay:[2013899177]ms frame timestamp[0] [detector_workload: 52]
+try to push frame to detector, b_new_frame_come_in_: 0
+try to push frame to detector done, did_push: 1
+delay:[2013899450]ms frame timestamp[0] [detector_workload: 52]
+try to push frame to detector, b_new_frame_come_in_: 0
+delay:[2013899708]ms frame timestamp[0] [detector_workload: 52]
+try to push frame to detector done, did_push: 1
+try to push frame to detector, b_new_frame_come_in_: 0
+try to push frame to detector done, did_push: 1
+delay:[2013899981]ms frame timestamp[0] [detector_workload: 52]
+try to push frame to detector, b_new_frame_come_in_: 0
+try to push frame to detector done, did_push: 1
+delay:[2013900248]ms frame timestamp[0] [detector_workload: 52]
+try to push frame to detector, b_new_frame_come_in_: 0
+try to push frame to detector done, did_push: 1
+delay:[2013900506]ms frame timestamp[0] [detector_workload: 52]
+try to push frame to detector, b_new_frame_come_in_: 0
+try to push frame to detector done, did_push: 1
+delay:[2013900771]ms frame timestamp[0] [detector_workload: 52]
+try to push frame to detector, b_new_frame_come_in_: 0
+try to push frame to detector done, did_push: 1
+delay:[2013901044]ms frame timestamp[0] [detector_workload: 52]
+try to push frame to detector, b_new_frame_come_in_: 0
+try to push frame to detector done, did_push: 1
+delay:[2013901305]ms frame timestamp[0] [detector_workload: 52]
+try to push frame to detector, b_new_frame_come_in_: 0
+try to push frame to detector done, did_push: 1
+delay:[2013901569]ms frame timestamp[0] [detector_workload: 52]
+try to push frame to detector, b_new_frame_come_in_: 0
+try to push frame to detector done, did_push: 1
+delay:[2013901839]ms frame timestamp[0] [detector_workload: 52]
+try to push frame to detector, b_new_frame_come_in_: 0
+try to push frame to detector done, did_push: 1
+delay:[2013902107]ms frame timestamp[0] [detector_workload: 52]
+try to push frame to detector, b_new_frame_come_in_: 0
+try to push frame to detector done, did_push: 1
+delay:[2013902373]ms frame timestamp[0] [detector_workload: 52]
+try to push frame to detector, b_new_frame_come_in_: 0
+try to push frame to detector done, did_push: 1
+delay:[2013902656]ms frame timestamp[0] [detector_workload: 52]
+try to push frame to detector, b_new_frame_come_in_: 0
+try to push frame to detector done, did_push: 1
+delay:[2013902910]ms frame timestamp[0] [detector_workload: 52]
+try to push frame to detector, b_new_frame_come_in_: 0
+try to push frame to detector done, did_push: 1
+delay:[2013903171]ms frame timestamp[0] [detector_workload: 52]
+try to push frame to detector, b_new_frame_come_in_: 0
+try to push frame to detector done, did_push: 1
+delay:[2013903440]ms frame timestamp[0] [detector_workload: 52]
+try to push frame to detector, b_new_frame_come_in_: 0
+try to push frame to detector done, did_push: 1
+delay:[2013903712]ms frame timestamp[0] [detector_workload: 52]
+try to push frame to detector, b_new_frame_come_in_: 0
+try to push frame to detector done, did_push: 1
+delay:[2013903967]ms frame timestamp[0] [detector_workload: 52]
+try to push frame to detector, b_new_frame_come_in_: 0
+try to push frame to detector done, did_push: 1
+delay:[2013904253]ms frame timestamp[0] [detector_workload: 52]
+try to push frame to detector, b_new_frame_come_in_: 0
+try to push frame to detector done, did_push: 1
+delay:[2013904512]ms frame timestamp[0] [detector_workload: 52]
+try to push frame to detector, b_new_frame_come_in_: 0
+try to push frame to detector done, did_push: 1
+delay:[2013904814]ms frame timestamp[0] [detector_workload: 52]
+try to push frame to detector, b_new_frame_come_in_: 0
+try to push frame to detector done, did_push: 1
+delay:[2013905054]ms frame timestamp[0] [detector_workload: 52]
+try to push frame to detector, b_new_frame_come_in_: 0
+try to push frame to detector done, did_push: 1
+delay:[2013905313]ms frame timestamp[0] [detector_workload: 52]
+try to push frame to detector, b_new_frame_come_in_: 0
+try to push frame to detector done, did_push: 1
+delay:[2013905591]ms frame timestamp[0] [detector_workload: 52]
+try to push frame to detector, b_new_frame_come_in_: 0
+try to push frame to detector done, did_push: 1
+delay:[2013905834]ms frame timestamp[0] [detector_workload: 52]
+try to push frame to detector, b_new_frame_come_in_: 0
+try to push frame to detector done, did_push: 1
+delay:[2013906117]ms frame timestamp[0] [detector_workload: 52]
+try to push frame to detector, b_new_frame_come_in_: 0
+try to push frame to detector done, did_push: 1
+delay:[2013906375]ms frame timestamp[0] [detector_workload: 52]
+try to push frame to detector, b_new_frame_come_in_: 0
+try to push frame to detector done, did_push: 1
+delay:[2013924769]ms frame timestamp[0] [detector_workload: 52]
+try to push frame to detector, b_new_frame_come_in_: 0
+try to push frame to detector done, did_push: 1
+delay:[2013924975]ms frame timestamp[0] [detector_workload: 52]
+try to push frame to detector, b_new_frame_come_in_: 0
+try to push frame to detector done, did_push: 1
+delay:[2013925233]ms frame timestamp[0] [detector_workload: 52]
+try to push frame to detector, b_new_frame_come_in_: 0
+try to push frame to detector done, did_push: 1
+delay:[2013925490]ms frame timestamp[0] [detector_workload: 52]
+try to push frame to detector, b_new_frame_come_in_: 0
+try to push frame to detector done, did_push: 1
+delay:[2013925770]ms frame timestamp[0] [detector_workload: 52]
+try to push frame to detector, b_new_frame_come_in_: 0
+try to push frame to detector done, did_push: 1
+delay:[2013926016]ms frame timestamp[0] [detector_workload: 52]
+try to push frame to detector, b_new_frame_come_in_: 0
+try to push frame to detector done, did_push: 1
+delay:[2013926293]ms frame timestamp[0] [detector_workload: 52]
+try to push frame to detector, b_new_frame_come_in_: 0
+try to push frame to detector done, did_push: 1
+delay:[2013926558]ms frame timestamp[0] [detector_workload: 52]
+try to push frame to detector, b_new_frame_come_in_: 0
+try to push frame to detector done, did_push: 1
+delay:[2013926835]ms frame timestamp[0] [detector_workload: 52]
+try to push frame to detector, b_new_frame_come_in_: 0
+try to push frame to detector done, did_push: 1
+delay:[2013927096]ms frame timestamp[0] [detector_workload: 52]
+try to push frame to detector, b_new_frame_come_in_: 0
+try to push frame to detector done, did_push: 1
+delay:[2013927373]ms frame timestamp[0] [detector_workload: 52]
+try to push frame to detector, b_new_frame_come_in_: 0
+try to push frame to detector done, did_push: 1
+delay:[2013927648]ms frame timestamp[0] [detector_workload: 52]
+try to push frame to detector, b_new_frame_come_in_: 0
+try to push frame to detector done, did_push: 1
+delay:[2013927916]ms frame timestamp[0] [detector_workload: 52]
+try to push frame to detector, b_new_frame_come_in_: 0
+try to push frame to detector done, did_push: 1
+delay:[2013928181]ms frame timestamp[0] [detector_workload: 52]
+try to push frame to detector, b_new_frame_come_in_: 0
+try to push frame to detector done, did_push: 1
+delay:[2013928456]ms frame timestamp[0] [detector_workload: 52]
+try to push frame to detector, b_new_frame_come_in_: 0
+try to push frame to detector done, did_push: 1
+delay:[2013928723]ms frame timestamp[0] [detector_workload: 52]
+try to push frame to detector, b_new_frame_come_in_: 0
+try to push frame to detector done, did_push: 1
+delay:[2013928990]ms frame timestamp[0] [detector_workload: 52]
+try to push frame to detector, b_new_frame_come_in_: 0
+try to push frame to detector done, did_push: 1
+delay:[2013929256]ms frame timestamp[0] [detector_workload: 52]
+try to push frame to detector, b_new_frame_come_in_: 0
+delay:[2013929519]ms frame timestamp[0] [detector_workload: 52]
+try to push frame to detector done, did_push: 1
+try to push frame to detector, b_new_frame_come_in_: 0
+try to push frame to detector done, did_push: 1
+delay:[2013929780]ms frame timestamp[0] [detector_workload: 52]
+try to push frame to detector, b_new_frame_come_in_: 0
+try to push frame to detector done, did_push: 1
+delay:[2013930046]ms frame timestamp[0] [detector_workload: 52]
+try to push frame to detector, b_new_frame_come_in_: 0
+try to push frame to detector done, did_push: 1
+delay:[2013930322]ms frame timestamp[0] [detector_workload: 52]
+try to push frame to detector, b_new_frame_come_in_: 0
+delay:[2013930588]ms frame timestamp[0] [detector_workload: 52]
+try to push frame to detector done, did_push: 1
+try to push frame to detector, b_new_frame_come_in_: 0
+try to push frame to detector done, did_push: 1
+delay:[2013930847]ms frame timestamp[0] [detector_workload: 52]
+try to push frame to detector, b_new_frame_come_in_: 0
+try to push frame to detector done, did_push: 1
+delay:[2013931112]ms frame timestamp[0] [detector_workload: 52]
+try to push frame to detector, b_new_frame_come_in_: 0
+try to push frame to detector done, did_push: 1
+delay:[2013931383]ms frame timestamp[0] [detector_workload: 52]
+try to push frame to detector, b_new_frame_come_in_: 0
+try to push frame to detector done, did_push: 1
+delay:[2013931650]ms frame timestamp[0] [detector_workload: 52]
+try to push frame to detector, b_new_frame_come_in_: 0
+try to push frame to detector done, did_push: 1
+delay:[2013931926]ms frame timestamp[0] [detector_workload: 52]
+try to push frame to detector, b_new_frame_come_in_: 0
+try to push frame to detector done, did_push: 1
+delay:[2013932195]ms frame timestamp[0] [detector_workload: 52]
+try to push frame to detector, b_new_frame_come_in_: 0
+try to push frame to detector done, did_push: 1
+delay:[2013932460]ms frame timestamp[0] [detector_workload: 52]
+try to push frame to detector, b_new_frame_come_in_: 0
+try to push frame to detector done, did_push: 1
+delay:[2013932716]ms frame timestamp[0] [detector_workload: 52]
+try to push frame to detector, b_new_frame_come_in_: 0
+delay:[2013933005]ms frame timestamp[0] [detector_workload: 52]
+try to push frame to detector done, did_push: 1
+try to push frame to detector, b_new_frame_come_in_: 0
+try to push frame to detector done, did_push: 1
+delay:[2013933293]ms frame timestamp[0] [detector_workload: 52]
+try to push frame to detector, b_new_frame_come_in_: 0
+delay:[2013933563]ms frame timestamp[0] [detector_workload: 52]
+try to push frame to detector done, did_push: 1
+try to push frame to detector, b_new_frame_come_in_: 0
+try to push frame to detector done, did_push: 1
+delay:[2013933847]ms frame timestamp[0] [detector_workload: 52]
+try to push frame to detector, b_new_frame_come_in_: 0
+try to push frame to detector done, did_push: 1
+delay:[2013934089]ms frame timestamp[0] [detector_workload: 52]
+try to push frame to detector, b_new_frame_come_in_: 0
+try to push frame to detector done, did_push: 1
+delay:[2013934386]ms frame timestamp[0] [detector_workload: 52]
+try to push frame to detector, b_new_frame_come_in_: 0
+try to push frame to detector done, did_push: 1
+delay:[2013934657]ms frame timestamp[0] [detector_workload: 52]
+try to push frame to detector, b_new_frame_come_in_: 0
+try to push frame to detector done, did_push: 1
+delay:[2013934929]ms frame timestamp[0] [detector_workload: 52]
+try to push frame to detector, b_new_frame_come_in_: 0
+try to push frame to detector done, did_push: 1
+delay:[2013935205]ms frame timestamp[0] [detector_workload: 52]
+try to push frame to detector, b_new_frame_come_in_: 0
+try to push frame to detector done, did_push: 1
+delay:[2013935473]ms frame timestamp[0] [detector_workload: 52]
+try to push frame to detector, b_new_frame_come_in_: 0
+try to push frame to detector done, did_push: 1
+delay:[2013935724]ms frame timestamp[0] [detector_workload: 52]
+try to push frame to detector, b_new_frame_come_in_: 0
+try to push frame to detector done, did_push: 1
+delay:[2013935986]ms frame timestamp[0] [detector_workload: 52]
+try to push frame to detector, b_new_frame_come_in_: 0
+try to push frame to detector done, did_push: 1
+delay:[2013936254]ms frame timestamp[0] [detector_workload: 52]
+try to push frame to detector, b_new_frame_come_in_: 0
+try to push frame to detector done, did_push: 1
+delay:[2013936516]ms frame timestamp[0] [detector_workload: 52]
+try to push frame to detector, b_new_frame_come_in_: 0
+try to push frame to detector done, did_push: 1
+delay:[2013936787]ms frame timestamp[0] [detector_workload: 52]
+try to push frame to detector, b_new_frame_come_in_: 0
+try to push frame to detector done, did_push: 1
+delay:[2013937058]ms frame timestamp[0] [detector_workload: 52]
+try to push frame to detector, b_new_frame_come_in_: 0
+try to push frame to detector done, did_push: 1
+delay:[2013937338]ms frame timestamp[0] [detector_workload: 52]
+to run detector thread
+to run detector thread
+to run detector thread
+to run detector thread

@@ -1,0 +1,39 @@
+decrypt_file cost time(ms): 431.719
+###################################################################
+Loaded model_ /data/user/0/dji.go.v5/files/qs/mobilenetv3_small_1114_no_pool_no_permutet_personap_417_shupai.model success!
+detector init succeeded!
+TFLITE_GPU_DELEGATE: params_.allow_fp16 = 1
+serialization_dir = /data/user/0/dji.go.v5/files/qs/
+GPU acceleration is used.
+Applied GPU delegate.init cost time(ms): 1803.35
+new buffer: hm_data_, hm_pool_data_, wh_data_, offset_data_, maxpool_data_
+delegates size: 1
+interpreter not NULL: 1
+wanted input size, [img_h, img_w, img_c]: 448, 256, 3
+output size: 3
+decrypt_file cost time(ms): 397.23
+###################################################################
+Loaded model_ /data/user/0/dji.go.v5/files/qs/mobilenetv3_small_1114_no_pool_no_permutet_personap_417_shupai.model success!
+detector init succeeded!
+TFLITE_GPU_DELEGATE: params_.allow_fp16 = 1
+serialization_dir = /data/user/0/dji.go.v5/files/qs/
+GPU acceleration is used.
+Applied GPU delegate.init cost time(ms): 1628.86
+new buffer: hm_data_, hm_pool_data_, wh_data_, offset_data_, maxpool_data_
+delegates size: 1
+interpreter not NULL: 1
+wanted input size, [img_h, img_w, img_c]: 448, 256, 3
+output size: 3
+decrypt_file cost time(ms): 551.677
+###################################################################
+Loaded model_ /data/user/0/dji.go.v5/files/qs/mobilenetv3_small_1114_no_pool_no_permutet_personap_417_shupai.model success!
+detector init succeeded!
+TFLITE_GPU_DELEGATE: params_.allow_fp16 = 1
+serialization_dir = /data/user/0/dji.go.v5/files/qs/
+GPU acceleration is used.
+Applied GPU delegate.init cost time(ms): 1852.3
+new buffer: hm_data_, hm_pool_data_, wh_data_, offset_data_, maxpool_data_
+delegates size: 1
+interpreter not NULL: 1
+wanted input size, [img_h, img_w, img_c]: 448, 256, 3
+output size: 3

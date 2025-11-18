@@ -1,0 +1,2899 @@
+decrypt_file cost time(ms): 411.979
+###################################################################
+Loaded model_ /data/user/0/dji.go.v5/files/qs/mobilenetv3_small_1114_no_pool_no_permutet_personap_417_hengpai.model success!
+detector init succeeded!
+TFLITE_GPU_DELEGATE: params_.allow_fp16 = 1
+serialization_dir = /data/user/0/dji.go.v5/files/qs/
+GPU acceleration is used.
+Applied GPU delegate.init cost time(ms): 1820.97
+new buffer: hm_data_, hm_pool_data_, wh_data_, offset_data_, maxpool_data_
+delegates size: 1
+interpreter not NULL: 1
+wanted input size, [img_h, img_w, img_c]: 256, 448, 3
+output size: 3
+###################################################################
+real input size, [img_h, img_w, img_c]: 576, 960, 3
+Using GPU delegate
+wanted_ratio = 1.75, img_ratio = 1.66667, resize_width = 426, resize_height = 256, padding_w = 11, padding_h = 0
+input frame data type is float! 
+interpreter_->Invoke() cost time(ms): 171.219
+maxpool_transpose cost time(ms): 2.928
+os time: 992092
+frame time stamp:660164
+obj num: 0
+cost time: 184.65 ms
+*******************************************************************
+real input size, [img_h, img_w, img_c]: 576, 960, 3
+Using GPU delegate
+wanted_ratio = 1.75, img_ratio = 1.66667, resize_width = 426, resize_height = 256, padding_w = 11, padding_h = 0
+input frame data type is float! 
+interpreter_->Invoke() cost time(ms): 91.657
+maxpool_transpose cost time(ms): 0.448
+os time: 992756
+frame time stamp:660818
+obj num: 0
+cost time: 101.567 ms
+*******************************************************************
+real input size, [img_h, img_w, img_c]: 576, 960, 3
+Using GPU delegate
+wanted_ratio = 1.75, img_ratio = 1.66667, resize_width = 426, resize_height = 256, padding_w = 11, padding_h = 0
+input frame data type is float! 
+interpreter_->Invoke() cost time(ms): 79.316
+maxpool_transpose cost time(ms): 0.508
+os time: 993042
+frame time stamp:661185
+obj num: 0
+cost time: 99.972 ms
+*******************************************************************
+real input size, [img_h, img_w, img_c]: 576, 960, 3
+Using GPU delegate
+wanted_ratio = 1.75, img_ratio = 1.66667, resize_width = 426, resize_height = 256, padding_w = 11, padding_h = 0
+input frame data type is float! 
+interpreter_->Invoke() cost time(ms): 103.812
+maxpool_transpose cost time(ms): 4.507
+os time: 993337
+frame time stamp:661453
+obj num: 0
+cost time: 116.333 ms
+*******************************************************************
+real input size, [img_h, img_w, img_c]: 576, 960, 3
+Using GPU delegate
+wanted_ratio = 1.75, img_ratio = 1.66667, resize_width = 426, resize_height = 256, padding_w = 11, padding_h = 0
+input frame data type is float! 
+interpreter_->Invoke() cost time(ms): 77.624
+maxpool_transpose cost time(ms): 3.907
+os time: 993614
+frame time stamp:661752
+obj num: 0
+cost time: 84.861 ms
+*******************************************************************
+real input size, [img_h, img_w, img_c]: 576, 960, 3
+Using GPU delegate
+wanted_ratio = 1.75, img_ratio = 1.66667, resize_width = 426, resize_height = 256, padding_w = 11, padding_h = 0
+input frame data type is float! 
+interpreter_->Invoke() cost time(ms): 69.333
+maxpool_transpose cost time(ms): 0.376
+os time: 993895
+frame time stamp:662052
+obj num: 0
+cost time: 73.229 ms
+*******************************************************************
+real input size, [img_h, img_w, img_c]: 576, 960, 3
+Using GPU delegate
+wanted_ratio = 1.75, img_ratio = 1.66667, resize_width = 426, resize_height = 256, padding_w = 11, padding_h = 0
+input frame data type is float! 
+interpreter_->Invoke() cost time(ms): 74.527
+maxpool_transpose cost time(ms): 0.419
+os time: 994155
+frame time stamp:662317
+obj num: 0
+cost time: 79.722 ms
+*******************************************************************
+real input size, [img_h, img_w, img_c]: 576, 960, 3
+Using GPU delegate
+wanted_ratio = 1.75, img_ratio = 1.66667, resize_width = 426, resize_height = 256, padding_w = 11, padding_h = 0
+input frame data type is float! 
+interpreter_->Invoke() cost time(ms): 86.826
+maxpool_transpose cost time(ms): 1
+os time: 994447
+frame time stamp:662584
+obj num: 0
+cost time: 99.349 ms
+*******************************************************************
+real input size, [img_h, img_w, img_c]: 576, 960, 3
+Using GPU delegate
+wanted_ratio = 1.75, img_ratio = 1.66667, resize_width = 426, resize_height = 256, padding_w = 11, padding_h = 0
+input frame data type is float! 
+interpreter_->Invoke() cost time(ms): 77.828
+maxpool_transpose cost time(ms): 0.421
+os time: 994740
+frame time stamp:662883
+obj num: 0
+cost time: 86.23 ms
+*******************************************************************
+real input size, [img_h, img_w, img_c]: 576, 960, 3
+Using GPU delegate
+wanted_ratio = 1.75, img_ratio = 1.66667, resize_width = 426, resize_height = 256, padding_w = 11, padding_h = 0
+input frame data type is float! 
+interpreter_->Invoke() cost time(ms): 86.351
+maxpool_transpose cost time(ms): 0.587
+os time: 995008
+frame time stamp:663116
+obj num: 0
+cost time: 98.375 ms
+*******************************************************************
+real input size, [img_h, img_w, img_c]: 576, 960, 3
+Using GPU delegate
+wanted_ratio = 1.75, img_ratio = 1.66667, resize_width = 426, resize_height = 256, padding_w = 11, padding_h = 0
+input frame data type is float! 
+interpreter_->Invoke() cost time(ms): 82.77
+maxpool_transpose cost time(ms): 0.435
+os time: 995236
+frame time stamp:663416
+obj num: 0
+cost time: 87.06 ms
+*******************************************************************
+real input size, [img_h, img_w, img_c]: 576, 960, 3
+Using GPU delegate
+wanted_ratio = 1.75, img_ratio = 1.66667, resize_width = 426, resize_height = 256, padding_w = 11, padding_h = 0
+input frame data type is float! 
+interpreter_->Invoke() cost time(ms): 77.118
+maxpool_transpose cost time(ms): 0.386
+os time: 995500
+frame time stamp:663651
+obj num: 0
+cost time: 81.72 ms
+*******************************************************************
+real input size, [img_h, img_w, img_c]: 576, 960, 3
+Using GPU delegate
+wanted_ratio = 1.75, img_ratio = 1.66667, resize_width = 426, resize_height = 256, padding_w = 11, padding_h = 0
+input frame data type is float! 
+interpreter_->Invoke() cost time(ms): 67.277
+maxpool_transpose cost time(ms): 0.407
+os time: 995753
+frame time stamp:663916
+obj num: 0
+cost time: 70.748 ms
+*******************************************************************
+real input size, [img_h, img_w, img_c]: 576, 960, 3
+Using GPU delegate
+wanted_ratio = 1.75, img_ratio = 1.66667, resize_width = 426, resize_height = 256, padding_w = 11, padding_h = 0
+input frame data type is float! 
+interpreter_->Invoke() cost time(ms): 74.11
+maxpool_transpose cost time(ms): 0.427
+os time: 996029
+frame time stamp:664182
+obj num: 0
+cost time: 86.453 ms
+*******************************************************************
+real input size, [img_h, img_w, img_c]: 576, 960, 3
+Using GPU delegate
+wanted_ratio = 1.75, img_ratio = 1.66667, resize_width = 426, resize_height = 256, padding_w = 11, padding_h = 0
+input frame data type is float! 
+interpreter_->Invoke() cost time(ms): 67.081
+maxpool_transpose cost time(ms): 0.386
+os time: 996315
+frame time stamp:664450
+obj num: 0
+cost time: 72.397 ms
+*******************************************************************
+real input size, [img_h, img_w, img_c]: 576, 960, 3
+Using GPU delegate
+wanted_ratio = 1.75, img_ratio = 1.66667, resize_width = 426, resize_height = 256, padding_w = 11, padding_h = 0
+input frame data type is float! 
+interpreter_->Invoke() cost time(ms): 67.356
+maxpool_transpose cost time(ms): 0.405
+os time: 996595
+frame time stamp:664750
+obj num: 0
+cost time: 72.002 ms
+*******************************************************************
+real input size, [img_h, img_w, img_c]: 576, 960, 3
+Using GPU delegate
+wanted_ratio = 1.75, img_ratio = 1.66667, resize_width = 426, resize_height = 256, padding_w = 11, padding_h = 0
+input frame data type is float! 
+interpreter_->Invoke() cost time(ms): 79.454
+maxpool_transpose cost time(ms): 0.395
+os time: 996866
+frame time stamp:665016
+obj num: 0
+cost time: 84.237 ms
+*******************************************************************
+real input size, [img_h, img_w, img_c]: 576, 960, 3
+Using GPU delegate
+wanted_ratio = 1.75, img_ratio = 1.66667, resize_width = 426, resize_height = 256, padding_w = 11, padding_h = 0
+input frame data type is float! 
+interpreter_->Invoke() cost time(ms): 70.14
+maxpool_transpose cost time(ms): 0.432
+os time: 997131
+frame time stamp:665282
+obj num: 0
+cost time: 75.094 ms
+*******************************************************************
+real input size, [img_h, img_w, img_c]: 576, 960, 3
+Using GPU delegate
+wanted_ratio = 1.75, img_ratio = 1.66667, resize_width = 426, resize_height = 256, padding_w = 11, padding_h = 0
+input frame data type is float! 
+interpreter_->Invoke() cost time(ms): 70.859
+maxpool_transpose cost time(ms): 0.393
+os time: 997394
+frame time stamp:665550
+obj num: 0
+cost time: 75.431 ms
+*******************************************************************
+real input size, [img_h, img_w, img_c]: 576, 960, 3
+Using GPU delegate
+wanted_ratio = 1.75, img_ratio = 1.66667, resize_width = 426, resize_height = 256, padding_w = 11, padding_h = 0
+input frame data type is float! 
+interpreter_->Invoke() cost time(ms): 69.602
+maxpool_transpose cost time(ms): 0.387
+os time: 997655
+frame time stamp:665815
+obj num: 0
+cost time: 73.519 ms
+*******************************************************************
+real input size, [img_h, img_w, img_c]: 576, 960, 3
+Using GPU delegate
+wanted_ratio = 1.75, img_ratio = 1.66667, resize_width = 426, resize_height = 256, padding_w = 11, padding_h = 0
+input frame data type is float! 
+interpreter_->Invoke() cost time(ms): 69.633
+maxpool_transpose cost time(ms): 0.431
+os time: 997924
+frame time stamp:666081
+obj num: 0
+cost time: 77.5 ms
+*******************************************************************
+real input size, [img_h, img_w, img_c]: 576, 960, 3
+Using GPU delegate
+wanted_ratio = 1.75, img_ratio = 1.66667, resize_width = 426, resize_height = 256, padding_w = 11, padding_h = 0
+input frame data type is float! 
+interpreter_->Invoke() cost time(ms): 70.067
+maxpool_transpose cost time(ms): 0.463
+os time: 998212
+frame time stamp:666349
+obj num: 0
+cost time: 73.506 ms
+*******************************************************************
+real input size, [img_h, img_w, img_c]: 576, 960, 3
+Using GPU delegate
+wanted_ratio = 1.75, img_ratio = 1.66667, resize_width = 426, resize_height = 256, padding_w = 11, padding_h = 0
+input frame data type is float! 
+interpreter_->Invoke() cost time(ms): 82.749
+maxpool_transpose cost time(ms): 0.421
+os time: 998493
+frame time stamp:666649
+obj num: 0
+cost time: 87.814 ms
+*******************************************************************
+real input size, [img_h, img_w, img_c]: 576, 960, 3
+Using GPU delegate
+wanted_ratio = 1.75, img_ratio = 1.66667, resize_width = 426, resize_height = 256, padding_w = 11, padding_h = 0
+input frame data type is float! 
+interpreter_->Invoke() cost time(ms): 73.373
+maxpool_transpose cost time(ms): 0.385
+os time: 998764
+frame time stamp:666915
+obj num: 0
+cost time: 79.794 ms
+*******************************************************************
+real input size, [img_h, img_w, img_c]: 576, 960, 3
+Using GPU delegate
+wanted_ratio = 1.75, img_ratio = 1.66667, resize_width = 426, resize_height = 256, padding_w = 11, padding_h = 0
+input frame data type is float! 
+interpreter_->Invoke() cost time(ms): 71.079
+maxpool_transpose cost time(ms): 0.402
+os time: 999028
+frame time stamp:667181
+obj num: 0
+cost time: 75.564 ms
+*******************************************************************
+real input size, [img_h, img_w, img_c]: 576, 960, 3
+Using GPU delegate
+wanted_ratio = 1.75, img_ratio = 1.66667, resize_width = 426, resize_height = 256, padding_w = 11, padding_h = 0
+input frame data type is float! 
+interpreter_->Invoke() cost time(ms): 71.317
+maxpool_transpose cost time(ms): 0.407
+os time: 999292
+frame time stamp:667449
+obj num: 0
+cost time: 75.707 ms
+*******************************************************************
+real input size, [img_h, img_w, img_c]: 576, 960, 3
+Using GPU delegate
+wanted_ratio = 1.75, img_ratio = 1.66667, resize_width = 426, resize_height = 256, padding_w = 11, padding_h = 0
+input frame data type is float! 
+interpreter_->Invoke() cost time(ms): 84.049
+maxpool_transpose cost time(ms): 0.491
+os time: 999473
+frame time stamp:297352166
+obj num: 0
+cost time: 89.404 ms
+*******************************************************************
+real input size, [img_h, img_w, img_c]: 576, 960, 3
+Using GPU delegate
+wanted_ratio = 1.75, img_ratio = 1.66667, resize_width = 426, resize_height = 256, padding_w = 11, padding_h = 0
+input frame data type is float! 
+interpreter_->Invoke() cost time(ms): 71.064
+maxpool_transpose cost time(ms): 0.394
+os time: 1019467
+frame time stamp:687604
+obj num: 0
+cost time: 80.592 ms
+*******************************************************************
+real input size, [img_h, img_w, img_c]: 576, 960, 3
+Using GPU delegate
+wanted_ratio = 1.75, img_ratio = 1.66667, resize_width = 426, resize_height = 256, padding_w = 11, padding_h = 0
+input frame data type is float! 
+interpreter_->Invoke() cost time(ms): 64.923
+maxpool_transpose cost time(ms): 0.391
+os time: 1019735
+frame time stamp:687901
+obj num: 0
+cost time: 68.997 ms
+*******************************************************************
+real input size, [img_h, img_w, img_c]: 576, 960, 3
+Using GPU delegate
+wanted_ratio = 1.75, img_ratio = 1.66667, resize_width = 426, resize_height = 256, padding_w = 11, padding_h = 0
+input frame data type is float! 
+interpreter_->Invoke() cost time(ms): 84.189
+maxpool_transpose cost time(ms): 0.437
+os time: 1020295
+frame time stamp:687932
+obj num: 0
+cost time: 89.437 ms
+*******************************************************************
+real input size, [img_h, img_w, img_c]: 576, 960, 3
+Using GPU delegate
+wanted_ratio = 1.75, img_ratio = 1.66667, resize_width = 426, resize_height = 256, padding_w = 11, padding_h = 0
+input frame data type is float! 
+interpreter_->Invoke() cost time(ms): 75.767
+maxpool_transpose cost time(ms): 0.481
+os time: 1020573
+frame time stamp:688717
+obj num: 0
+cost time: 79.803 ms
+*******************************************************************
+real input size, [img_h, img_w, img_c]: 576, 960, 3
+Using GPU delegate
+wanted_ratio = 1.75, img_ratio = 1.66667, resize_width = 426, resize_height = 256, padding_w = 11, padding_h = 0
+input frame data type is float! 
+interpreter_->Invoke() cost time(ms): 69.627
+maxpool_transpose cost time(ms): 0.399
+os time: 1020825
+frame time stamp:688984
+obj num: 0
+cost time: 75.181 ms
+*******************************************************************
+real input size, [img_h, img_w, img_c]: 576, 960, 3
+Using GPU delegate
+wanted_ratio = 1.75, img_ratio = 1.66667, resize_width = 426, resize_height = 256, padding_w = 11, padding_h = 0
+input frame data type is float! 
+interpreter_->Invoke() cost time(ms): 73.916
+maxpool_transpose cost time(ms): 0.382
+os time: 1021101
+frame time stamp:689250
+obj num: 0
+cost time: 79.754 ms
+*******************************************************************
+real input size, [img_h, img_w, img_c]: 576, 960, 3
+Using GPU delegate
+wanted_ratio = 1.75, img_ratio = 1.66667, resize_width = 426, resize_height = 256, padding_w = 11, padding_h = 0
+input frame data type is float! 
+interpreter_->Invoke() cost time(ms): 68.179
+maxpool_transpose cost time(ms): 0.374
+os time: 1021364
+frame time stamp:689517
+obj num: 0
+cost time: 73.514 ms
+*******************************************************************
+real input size, [img_h, img_w, img_c]: 576, 960, 3
+Using GPU delegate
+wanted_ratio = 1.75, img_ratio = 1.66667, resize_width = 426, resize_height = 256, padding_w = 11, padding_h = 0
+input frame data type is float! 
+interpreter_->Invoke() cost time(ms): 67.926
+maxpool_transpose cost time(ms): 0.405
+os time: 1021619
+frame time stamp:689784
+obj num: 0
+cost time: 73.414 ms
+*******************************************************************
+real input size, [img_h, img_w, img_c]: 576, 960, 3
+Using GPU delegate
+wanted_ratio = 1.75, img_ratio = 1.66667, resize_width = 426, resize_height = 256, padding_w = 11, padding_h = 0
+input frame data type is float! 
+interpreter_->Invoke() cost time(ms): 73.332
+maxpool_transpose cost time(ms): 0.393
+os time: 1021908
+frame time stamp:690050
+obj num: 0
+cost time: 84.902 ms
+*******************************************************************
+real input size, [img_h, img_w, img_c]: 576, 960, 3
+Using GPU delegate
+wanted_ratio = 1.75, img_ratio = 1.66667, resize_width = 426, resize_height = 256, padding_w = 11, padding_h = 0
+input frame data type is float! 
+interpreter_->Invoke() cost time(ms): 72.178
+maxpool_transpose cost time(ms): 0.409
+os time: 1022163
+frame time stamp:690317
+obj num: 0
+cost time: 77.149 ms
+*******************************************************************
+real input size, [img_h, img_w, img_c]: 576, 960, 3
+Using GPU delegate
+wanted_ratio = 1.75, img_ratio = 1.66667, resize_width = 426, resize_height = 256, padding_w = 11, padding_h = 0
+input frame data type is float! 
+interpreter_->Invoke() cost time(ms): 78.205
+maxpool_transpose cost time(ms): 0.429
+os time: 1022444
+frame time stamp:690583
+obj num: 0
+cost time: 83.606 ms
+*******************************************************************
+real input size, [img_h, img_w, img_c]: 576, 960, 3
+Using GPU delegate
+wanted_ratio = 1.75, img_ratio = 1.66667, resize_width = 426, resize_height = 256, padding_w = 11, padding_h = 0
+input frame data type is float! 
+interpreter_->Invoke() cost time(ms): 79.231
+maxpool_transpose cost time(ms): 0.384
+os time: 1022696
+frame time stamp:690850
+obj num: 0
+cost time: 83.207 ms
+*******************************************************************
+real input size, [img_h, img_w, img_c]: 576, 960, 3
+Using GPU delegate
+wanted_ratio = 1.75, img_ratio = 1.66667, resize_width = 426, resize_height = 256, padding_w = 11, padding_h = 0
+input frame data type is float! 
+interpreter_->Invoke() cost time(ms): 67.771
+maxpool_transpose cost time(ms): 0.509
+os time: 1022962
+frame time stamp:691116
+obj num: 0
+cost time: 71.324 ms
+*******************************************************************
+real input size, [img_h, img_w, img_c]: 576, 960, 3
+Using GPU delegate
+wanted_ratio = 1.75, img_ratio = 1.66667, resize_width = 426, resize_height = 256, padding_w = 11, padding_h = 0
+input frame data type is float! 
+interpreter_->Invoke() cost time(ms): 65.779
+maxpool_transpose cost time(ms): 0.426
+os time: 1023222
+frame time stamp:691383
+obj num: 0
+cost time: 69.511 ms
+*******************************************************************
+real input size, [img_h, img_w, img_c]: 576, 960, 3
+Using GPU delegate
+wanted_ratio = 1.75, img_ratio = 1.66667, resize_width = 426, resize_height = 256, padding_w = 11, padding_h = 0
+input frame data type is float! 
+interpreter_->Invoke() cost time(ms): 65.963
+maxpool_transpose cost time(ms): 0.442
+os time: 1023497
+frame time stamp:691650
+obj num: 0
+cost time: 69.456 ms
+*******************************************************************
+real input size, [img_h, img_w, img_c]: 576, 960, 3
+Using GPU delegate
+wanted_ratio = 1.75, img_ratio = 1.66667, resize_width = 426, resize_height = 256, padding_w = 11, padding_h = 0
+input frame data type is float! 
+interpreter_->Invoke() cost time(ms): 82.456
+maxpool_transpose cost time(ms): 0.479
+os time: 1023758
+frame time stamp:691916
+obj num: 0
+cost time: 86.743 ms
+*******************************************************************
+real input size, [img_h, img_w, img_c]: 576, 960, 3
+Using GPU delegate
+wanted_ratio = 1.75, img_ratio = 1.66667, resize_width = 426, resize_height = 256, padding_w = 11, padding_h = 0
+input frame data type is float! 
+interpreter_->Invoke() cost time(ms): 91.342
+maxpool_transpose cost time(ms): 0.58
+os time: 1024043
+frame time stamp:692182
+obj num: 0
+cost time: 96.908 ms
+*******************************************************************
+real input size, [img_h, img_w, img_c]: 576, 960, 3
+Using GPU delegate
+wanted_ratio = 1.75, img_ratio = 1.66667, resize_width = 426, resize_height = 256, padding_w = 11, padding_h = 0
+input frame data type is float! 
+interpreter_->Invoke() cost time(ms): 92.211
+maxpool_transpose cost time(ms): 0.489
+os time: 1024301
+frame time stamp:692449
+obj num: 0
+cost time: 104.504 ms
+*******************************************************************
+real input size, [img_h, img_w, img_c]: 576, 960, 3
+Using GPU delegate
+wanted_ratio = 1.75, img_ratio = 1.66667, resize_width = 426, resize_height = 256, padding_w = 11, padding_h = 0
+input frame data type is float! 
+interpreter_->Invoke() cost time(ms): 77.359
+maxpool_transpose cost time(ms): 0.476
+os time: 1024557
+frame time stamp:692715
+obj num: 0
+cost time: 82.071 ms
+*******************************************************************
+real input size, [img_h, img_w, img_c]: 576, 960, 3
+Using GPU delegate
+wanted_ratio = 1.75, img_ratio = 1.66667, resize_width = 426, resize_height = 256, padding_w = 11, padding_h = 0
+input frame data type is float! 
+interpreter_->Invoke() cost time(ms): 67.1
+maxpool_transpose cost time(ms): 0.381
+os time: 1024818
+frame time stamp:692982
+obj num: 0
+cost time: 71.201 ms
+*******************************************************************
+real input size, [img_h, img_w, img_c]: 576, 960, 3
+Using GPU delegate
+wanted_ratio = 1.75, img_ratio = 1.66667, resize_width = 426, resize_height = 256, padding_w = 11, padding_h = 0
+input frame data type is float! 
+interpreter_->Invoke() cost time(ms): 66.09
+maxpool_transpose cost time(ms): 0.411
+os time: 1025094
+frame time stamp:693248
+obj num: 0
+cost time: 70.36 ms
+*******************************************************************
+real input size, [img_h, img_w, img_c]: 576, 960, 3
+Using GPU delegate
+wanted_ratio = 1.75, img_ratio = 1.66667, resize_width = 426, resize_height = 256, padding_w = 11, padding_h = 0
+input frame data type is float! 
+interpreter_->Invoke() cost time(ms): 67.307
+maxpool_transpose cost time(ms): 0.372
+os time: 1025362
+frame time stamp:693515
+obj num: 0
+cost time: 71.749 ms
+*******************************************************************
+real input size, [img_h, img_w, img_c]: 576, 960, 3
+Using GPU delegate
+wanted_ratio = 1.75, img_ratio = 1.66667, resize_width = 426, resize_height = 256, padding_w = 11, padding_h = 0
+input frame data type is float! 
+interpreter_->Invoke() cost time(ms): 80.259
+maxpool_transpose cost time(ms): 0.387
+os time: 1025627
+frame time stamp:693781
+obj num: 0
+cost time: 89.162 ms
+*******************************************************************
+real input size, [img_h, img_w, img_c]: 576, 960, 3
+Using GPU delegate
+wanted_ratio = 1.75, img_ratio = 1.66667, resize_width = 426, resize_height = 256, padding_w = 11, padding_h = 0
+input frame data type is float! 
+interpreter_->Invoke() cost time(ms): 73.153
+maxpool_transpose cost time(ms): 0.429
+os time: 1025912
+frame time stamp:694047
+obj num: 0
+cost time: 84.35 ms
+*******************************************************************
+real input size, [img_h, img_w, img_c]: 576, 960, 3
+Using GPU delegate
+wanted_ratio = 1.75, img_ratio = 1.66667, resize_width = 426, resize_height = 256, padding_w = 11, padding_h = 0
+input frame data type is float! 
+interpreter_->Invoke() cost time(ms): 83.582
+maxpool_transpose cost time(ms): 0.438
+os time: 1026160
+frame time stamp:694315
+obj num: 0
+cost time: 87.657 ms
+*******************************************************************
+real input size, [img_h, img_w, img_c]: 576, 960, 3
+Using GPU delegate
+wanted_ratio = 1.75, img_ratio = 1.66667, resize_width = 426, resize_height = 256, padding_w = 11, padding_h = 0
+input frame data type is float! 
+interpreter_->Invoke() cost time(ms): 68.39
+maxpool_transpose cost time(ms): 0.459
+os time: 1026418
+frame time stamp:694581
+obj num: 0
+cost time: 72.178 ms
+*******************************************************************
+real input size, [img_h, img_w, img_c]: 576, 960, 3
+Using GPU delegate
+wanted_ratio = 1.75, img_ratio = 1.66667, resize_width = 426, resize_height = 256, padding_w = 11, padding_h = 0
+input frame data type is float! 
+interpreter_->Invoke() cost time(ms): 68.414
+maxpool_transpose cost time(ms): 0.383
+os time: 1026686
+frame time stamp:694847
+obj num: 0
+cost time: 74.561 ms
+*******************************************************************
+real input size, [img_h, img_w, img_c]: 576, 960, 3
+Using GPU delegate
+wanted_ratio = 1.75, img_ratio = 1.66667, resize_width = 426, resize_height = 256, padding_w = 11, padding_h = 0
+input frame data type is float! 
+interpreter_->Invoke() cost time(ms): 74.267
+maxpool_transpose cost time(ms): 0.423
+os time: 1026955
+frame time stamp:695114
+obj num: 0
+cost time: 78.683 ms
+*******************************************************************
+real input size, [img_h, img_w, img_c]: 576, 960, 3
+Using GPU delegate
+wanted_ratio = 1.75, img_ratio = 1.66667, resize_width = 426, resize_height = 256, padding_w = 11, padding_h = 0
+input frame data type is float! 
+interpreter_->Invoke() cost time(ms): 68.279
+maxpool_transpose cost time(ms): 0.44
+os time: 1027224
+frame time stamp:695380
+obj num: 0
+cost time: 74.855 ms
+*******************************************************************
+real input size, [img_h, img_w, img_c]: 576, 960, 3
+Using GPU delegate
+wanted_ratio = 1.75, img_ratio = 1.66667, resize_width = 426, resize_height = 256, padding_w = 11, padding_h = 0
+input frame data type is float! 
+interpreter_->Invoke() cost time(ms): 73.768
+maxpool_transpose cost time(ms): 0.401
+os time: 1027494
+frame time stamp:695647
+obj num: 0
+cost time: 78.689 ms
+*******************************************************************
+real input size, [img_h, img_w, img_c]: 576, 960, 3
+Using GPU delegate
+wanted_ratio = 1.75, img_ratio = 1.66667, resize_width = 426, resize_height = 256, padding_w = 11, padding_h = 0
+input frame data type is float! 
+interpreter_->Invoke() cost time(ms): 72.963
+maxpool_transpose cost time(ms): 0.802
+os time: 1027764
+frame time stamp:695914
+obj num: 0
+cost time: 78.947 ms
+*******************************************************************
+real input size, [img_h, img_w, img_c]: 576, 960, 3
+Using GPU delegate
+wanted_ratio = 1.75, img_ratio = 1.66667, resize_width = 426, resize_height = 256, padding_w = 11, padding_h = 0
+input frame data type is float! 
+interpreter_->Invoke() cost time(ms): 73.301
+maxpool_transpose cost time(ms): 0.381
+os time: 1028035
+frame time stamp:696180
+obj num: 0
+cost time: 78.229 ms
+*******************************************************************
+real input size, [img_h, img_w, img_c]: 576, 960, 3
+Using GPU delegate
+wanted_ratio = 1.75, img_ratio = 1.66667, resize_width = 426, resize_height = 256, padding_w = 11, padding_h = 0
+input frame data type is float! 
+interpreter_->Invoke() cost time(ms): 77.406
+maxpool_transpose cost time(ms): 0.583
+os time: 1028289
+frame time stamp:696447
+obj num: 0
+cost time: 82.784 ms
+*******************************************************************
+real input size, [img_h, img_w, img_c]: 576, 960, 3
+Using GPU delegate
+wanted_ratio = 1.75, img_ratio = 1.66667, resize_width = 426, resize_height = 256, padding_w = 11, padding_h = 0
+input frame data type is float! 
+interpreter_->Invoke() cost time(ms): 67.373
+maxpool_transpose cost time(ms): 0.526
+os time: 1028555
+frame time stamp:696713
+obj num: 0
+cost time: 70.908 ms
+*******************************************************************
+real input size, [img_h, img_w, img_c]: 576, 960, 3
+Using GPU delegate
+wanted_ratio = 1.75, img_ratio = 1.66667, resize_width = 426, resize_height = 256, padding_w = 11, padding_h = 0
+input frame data type is float! 
+interpreter_->Invoke() cost time(ms): 76.672
+maxpool_transpose cost time(ms): 0.459
+os time: 1028827
+frame time stamp:696979
+obj num: 0
+cost time: 82.616 ms
+*******************************************************************
+real input size, [img_h, img_w, img_c]: 576, 960, 3
+Using GPU delegate
+wanted_ratio = 1.75, img_ratio = 1.66667, resize_width = 426, resize_height = 256, padding_w = 11, padding_h = 0
+input frame data type is float! 
+interpreter_->Invoke() cost time(ms): 74.148
+maxpool_transpose cost time(ms): 0.446
+os time: 1029103
+frame time stamp:697246
+obj num: 0
+cost time: 82.02 ms
+*******************************************************************
+real input size, [img_h, img_w, img_c]: 576, 960, 3
+Using GPU delegate
+wanted_ratio = 1.75, img_ratio = 1.66667, resize_width = 426, resize_height = 256, padding_w = 11, padding_h = 0
+input frame data type is float! 
+interpreter_->Invoke() cost time(ms): 73.882
+maxpool_transpose cost time(ms): 0.459
+os time: 1029375
+frame time stamp:697513
+obj num: 0
+cost time: 78.879 ms
+*******************************************************************
+real input size, [img_h, img_w, img_c]: 576, 960, 3
+Using GPU delegate
+wanted_ratio = 1.75, img_ratio = 1.66667, resize_width = 426, resize_height = 256, padding_w = 11, padding_h = 0
+input frame data type is float! 
+interpreter_->Invoke() cost time(ms): 75.115
+maxpool_transpose cost time(ms): 0.376
+os time: 1029628
+frame time stamp:697779
+obj num: 0
+cost time: 79.591 ms
+*******************************************************************
+real input size, [img_h, img_w, img_c]: 576, 960, 3
+Using GPU delegate
+wanted_ratio = 1.75, img_ratio = 1.66667, resize_width = 426, resize_height = 256, padding_w = 11, padding_h = 0
+input frame data type is float! 
+interpreter_->Invoke() cost time(ms): 75.216
+maxpool_transpose cost time(ms): 0.463
+os time: 1029892
+frame time stamp:698046
+obj num: 0
+cost time: 79.234 ms
+*******************************************************************
+real input size, [img_h, img_w, img_c]: 576, 960, 3
+Using GPU delegate
+wanted_ratio = 1.75, img_ratio = 1.66667, resize_width = 426, resize_height = 256, padding_w = 11, padding_h = 0
+input frame data type is float! 
+interpreter_->Invoke() cost time(ms): 68.718
+maxpool_transpose cost time(ms): 0.368
+os time: 1030164
+frame time stamp:698312
+obj num: 0
+cost time: 73.395 ms
+*******************************************************************
+real input size, [img_h, img_w, img_c]: 576, 960, 3
+Using GPU delegate
+wanted_ratio = 1.75, img_ratio = 1.66667, resize_width = 426, resize_height = 256, padding_w = 11, padding_h = 0
+input frame data type is float! 
+interpreter_->Invoke() cost time(ms): 75.591
+maxpool_transpose cost time(ms): 0.422
+os time: 1030421
+frame time stamp:698578
+obj num: 0
+cost time: 80.306 ms
+*******************************************************************
+real input size, [img_h, img_w, img_c]: 576, 960, 3
+Using GPU delegate
+wanted_ratio = 1.75, img_ratio = 1.66667, resize_width = 426, resize_height = 256, padding_w = 11, padding_h = 0
+input frame data type is float! 
+interpreter_->Invoke() cost time(ms): 68.505
+maxpool_transpose cost time(ms): 0.381
+os time: 1030685
+frame time stamp:698845
+obj num: 0
+cost time: 74.063 ms
+*******************************************************************
+real input size, [img_h, img_w, img_c]: 576, 960, 3
+Using GPU delegate
+wanted_ratio = 1.75, img_ratio = 1.66667, resize_width = 426, resize_height = 256, padding_w = 11, padding_h = 0
+input frame data type is float! 
+interpreter_->Invoke() cost time(ms): 69.621
+maxpool_transpose cost time(ms): 0.379
+os time: 1030964
+frame time stamp:699112
+obj num: 0
+cost time: 74.08 ms
+*******************************************************************
+real input size, [img_h, img_w, img_c]: 576, 960, 3
+Using GPU delegate
+wanted_ratio = 1.75, img_ratio = 1.66667, resize_width = 426, resize_height = 256, padding_w = 11, padding_h = 0
+input frame data type is float! 
+interpreter_->Invoke() cost time(ms): 72.668
+maxpool_transpose cost time(ms): 0.411
+os time: 1031239
+frame time stamp:699378
+obj num: 0
+cost time: 82.106 ms
+*******************************************************************
+real input size, [img_h, img_w, img_c]: 576, 960, 3
+Using GPU delegate
+wanted_ratio = 1.75, img_ratio = 1.66667, resize_width = 426, resize_height = 256, padding_w = 11, padding_h = 0
+input frame data type is float! 
+interpreter_->Invoke() cost time(ms): 73.321
+maxpool_transpose cost time(ms): 0.382
+os time: 1031502
+frame time stamp:699645
+obj num: 0
+cost time: 77.473 ms
+*******************************************************************
+real input size, [img_h, img_w, img_c]: 576, 960, 3
+Using GPU delegate
+wanted_ratio = 1.75, img_ratio = 1.66667, resize_width = 426, resize_height = 256, padding_w = 11, padding_h = 0
+input frame data type is float! 
+interpreter_->Invoke() cost time(ms): 67.527
+maxpool_transpose cost time(ms): 0.386
+os time: 1031750
+frame time stamp:699912
+obj num: 0
+cost time: 71.751 ms
+*******************************************************************
+real input size, [img_h, img_w, img_c]: 576, 960, 3
+Using GPU delegate
+wanted_ratio = 1.75, img_ratio = 1.66667, resize_width = 426, resize_height = 256, padding_w = 11, padding_h = 0
+input frame data type is float! 
+interpreter_->Invoke() cost time(ms): 72.679
+maxpool_transpose cost time(ms): 0.434
+os time: 1032029
+frame time stamp:700178
+obj num: 0
+cost time: 80.781 ms
+*******************************************************************
+real input size, [img_h, img_w, img_c]: 576, 960, 3
+Using GPU delegate
+wanted_ratio = 1.75, img_ratio = 1.66667, resize_width = 426, resize_height = 256, padding_w = 11, padding_h = 0
+input frame data type is float! 
+interpreter_->Invoke() cost time(ms): 69.861
+maxpool_transpose cost time(ms): 0.405
+os time: 1032296
+frame time stamp:700444
+obj num: 0
+cost time: 76.381 ms
+*******************************************************************
+real input size, [img_h, img_w, img_c]: 576, 960, 3
+Using GPU delegate
+wanted_ratio = 1.75, img_ratio = 1.66667, resize_width = 426, resize_height = 256, padding_w = 11, padding_h = 0
+input frame data type is float! 
+interpreter_->Invoke() cost time(ms): 79.457
+maxpool_transpose cost time(ms): 1.088
+os time: 1032565
+frame time stamp:700711
+obj num: 0
+cost time: 89.172 ms
+*******************************************************************
+real input size, [img_h, img_w, img_c]: 576, 960, 3
+Using GPU delegate
+wanted_ratio = 1.75, img_ratio = 1.66667, resize_width = 426, resize_height = 256, padding_w = 11, padding_h = 0
+input frame data type is float! 
+interpreter_->Invoke() cost time(ms): 75.61
+maxpool_transpose cost time(ms): 0.376
+os time: 1032830
+frame time stamp:700977
+obj num: 0
+cost time: 81.098 ms
+*******************************************************************
+real input size, [img_h, img_w, img_c]: 576, 960, 3
+Using GPU delegate
+wanted_ratio = 1.75, img_ratio = 1.66667, resize_width = 426, resize_height = 256, padding_w = 11, padding_h = 0
+input frame data type is float! 
+interpreter_->Invoke() cost time(ms): 73.295
+maxpool_transpose cost time(ms): 0.645
+os time: 1033100
+frame time stamp:701244
+obj num: 0
+cost time: 83.068 ms
+*******************************************************************
+real input size, [img_h, img_w, img_c]: 576, 960, 3
+Using GPU delegate
+wanted_ratio = 1.75, img_ratio = 1.66667, resize_width = 426, resize_height = 256, padding_w = 11, padding_h = 0
+input frame data type is float! 
+interpreter_->Invoke() cost time(ms): 81.927
+maxpool_transpose cost time(ms): 0.428
+os time: 1033355
+frame time stamp:701511
+obj num: 0
+cost time: 86.182 ms
+*******************************************************************
+real input size, [img_h, img_w, img_c]: 576, 960, 3
+Using GPU delegate
+wanted_ratio = 1.75, img_ratio = 1.66667, resize_width = 426, resize_height = 256, padding_w = 11, padding_h = 0
+input frame data type is float! 
+interpreter_->Invoke() cost time(ms): 71.911
+maxpool_transpose cost time(ms): 0.514
+os time: 1033617
+frame time stamp:701777
+obj num: 0
+cost time: 75.999 ms
+*******************************************************************
+real input size, [img_h, img_w, img_c]: 576, 960, 3
+Using GPU delegate
+wanted_ratio = 1.75, img_ratio = 1.66667, resize_width = 426, resize_height = 256, padding_w = 11, padding_h = 0
+input frame data type is float! 
+interpreter_->Invoke() cost time(ms): 72.303
+maxpool_transpose cost time(ms): 0.461
+os time: 1033895
+frame time stamp:702043
+obj num: 0
+cost time: 76.662 ms
+*******************************************************************
+real input size, [img_h, img_w, img_c]: 576, 960, 3
+Using GPU delegate
+wanted_ratio = 1.75, img_ratio = 1.66667, resize_width = 426, resize_height = 256, padding_w = 11, padding_h = 0
+input frame data type is float! 
+interpreter_->Invoke() cost time(ms): 73.2
+maxpool_transpose cost time(ms): 0.437
+os time: 1034165
+frame time stamp:702311
+obj num: 0
+cost time: 82.303 ms
+*******************************************************************
+real input size, [img_h, img_w, img_c]: 576, 960, 3
+Using GPU delegate
+wanted_ratio = 1.75, img_ratio = 1.66667, resize_width = 426, resize_height = 256, padding_w = 11, padding_h = 0
+input frame data type is float! 
+interpreter_->Invoke() cost time(ms): 69.485
+maxpool_transpose cost time(ms): 0.382
+os time: 1034418
+frame time stamp:702576
+obj num: 0
+cost time: 73.879 ms
+*******************************************************************
+real input size, [img_h, img_w, img_c]: 576, 960, 3
+Using GPU delegate
+wanted_ratio = 1.75, img_ratio = 1.66667, resize_width = 426, resize_height = 256, padding_w = 11, padding_h = 0
+input frame data type is float! 
+interpreter_->Invoke() cost time(ms): 72.53
+maxpool_transpose cost time(ms): 0.436
+os time: 1034681
+frame time stamp:702810
+obj num: 0
+cost time: 78.571 ms
+*******************************************************************
+real input size, [img_h, img_w, img_c]: 576, 960, 3
+Using GPU delegate
+wanted_ratio = 1.75, img_ratio = 1.66667, resize_width = 426, resize_height = 256, padding_w = 11, padding_h = 0
+input frame data type is float! 
+interpreter_->Invoke() cost time(ms): 80.549
+maxpool_transpose cost time(ms): 1.332
+os time: 1034928
+frame time stamp:703076
+obj num: 0
+cost time: 86.724 ms
+*******************************************************************
+real input size, [img_h, img_w, img_c]: 576, 960, 3
+Using GPU delegate
+wanted_ratio = 1.75, img_ratio = 1.66667, resize_width = 426, resize_height = 256, padding_w = 11, padding_h = 0
+input frame data type is float! 
+interpreter_->Invoke() cost time(ms): 68.264
+maxpool_transpose cost time(ms): 0.424
+os time: 1035184
+frame time stamp:703343
+obj num: 0
+cost time: 77.49 ms
+*******************************************************************
+real input size, [img_h, img_w, img_c]: 576, 960, 3
+Using GPU delegate
+wanted_ratio = 1.75, img_ratio = 1.66667, resize_width = 426, resize_height = 256, padding_w = 11, padding_h = 0
+input frame data type is float! 
+interpreter_->Invoke() cost time(ms): 69.381
+maxpool_transpose cost time(ms): 0.467
+os time: 1035447
+frame time stamp:703609
+obj num: 0
+cost time: 73.081 ms
+*******************************************************************
+real input size, [img_h, img_w, img_c]: 576, 960, 3
+Using GPU delegate
+wanted_ratio = 1.75, img_ratio = 1.66667, resize_width = 426, resize_height = 256, padding_w = 11, padding_h = 0
+input frame data type is float! 
+interpreter_->Invoke() cost time(ms): 65.688
+maxpool_transpose cost time(ms): 0.402
+os time: 1035711
+frame time stamp:703876
+obj num: 0
+cost time: 72.335 ms
+*******************************************************************
+real input size, [img_h, img_w, img_c]: 576, 960, 3
+Using GPU delegate
+wanted_ratio = 1.75, img_ratio = 1.66667, resize_width = 426, resize_height = 256, padding_w = 11, padding_h = 0
+input frame data type is float! 
+interpreter_->Invoke() cost time(ms): 67.379
+maxpool_transpose cost time(ms): 0.46
+os time: 1035981
+frame time stamp:704142
+obj num: 0
+cost time: 71.179 ms
+*******************************************************************
+real input size, [img_h, img_w, img_c]: 576, 960, 3
+Using GPU delegate
+wanted_ratio = 1.75, img_ratio = 1.66667, resize_width = 426, resize_height = 256, padding_w = 11, padding_h = 0
+input frame data type is float! 
+interpreter_->Invoke() cost time(ms): 72.765
+maxpool_transpose cost time(ms): 0.412
+os time: 1036256
+frame time stamp:704409
+obj num: 0
+cost time: 77.104 ms
+*******************************************************************
+real input size, [img_h, img_w, img_c]: 576, 960, 3
+Using GPU delegate
+wanted_ratio = 1.75, img_ratio = 1.66667, resize_width = 426, resize_height = 256, padding_w = 11, padding_h = 0
+input frame data type is float! 
+interpreter_->Invoke() cost time(ms): 72.27
+maxpool_transpose cost time(ms): 0.387
+os time: 1036524
+frame time stamp:704675
+obj num: 0
+cost time: 75.833 ms
+*******************************************************************
+real input size, [img_h, img_w, img_c]: 576, 960, 3
+Using GPU delegate
+wanted_ratio = 1.75, img_ratio = 1.66667, resize_width = 426, resize_height = 256, padding_w = 11, padding_h = 0
+input frame data type is float! 
+interpreter_->Invoke() cost time(ms): 68.03
+maxpool_transpose cost time(ms): 0.38
+os time: 1036791
+frame time stamp:704942
+obj num: 0
+cost time: 72.066 ms
+*******************************************************************
+real input size, [img_h, img_w, img_c]: 576, 960, 3
+Using GPU delegate
+wanted_ratio = 1.75, img_ratio = 1.66667, resize_width = 426, resize_height = 256, padding_w = 11, padding_h = 0
+input frame data type is float! 
+interpreter_->Invoke() cost time(ms): 67.055
+maxpool_transpose cost time(ms): 0.391
+os time: 1037052
+frame time stamp:705210
+obj num: 0
+cost time: 72.487 ms
+*******************************************************************
+real input size, [img_h, img_w, img_c]: 576, 960, 3
+Using GPU delegate
+wanted_ratio = 1.75, img_ratio = 1.66667, resize_width = 426, resize_height = 256, padding_w = 11, padding_h = 0
+input frame data type is float! 
+interpreter_->Invoke() cost time(ms): 75.978
+maxpool_transpose cost time(ms): 0.384
+os time: 1037320
+frame time stamp:705475
+obj num: 0
+cost time: 80.311 ms
+*******************************************************************
+real input size, [img_h, img_w, img_c]: 576, 960, 3
+Using GPU delegate
+wanted_ratio = 1.75, img_ratio = 1.66667, resize_width = 426, resize_height = 256, padding_w = 11, padding_h = 0
+input frame data type is float! 
+interpreter_->Invoke() cost time(ms): 72.127
+maxpool_transpose cost time(ms): 0.535
+os time: 1037597
+frame time stamp:705741
+obj num: 0
+cost time: 78.85 ms
+*******************************************************************
+real input size, [img_h, img_w, img_c]: 576, 960, 3
+Using GPU delegate
+wanted_ratio = 1.75, img_ratio = 1.66667, resize_width = 426, resize_height = 256, padding_w = 11, padding_h = 0
+input frame data type is float! 
+interpreter_->Invoke() cost time(ms): 68.581
+maxpool_transpose cost time(ms): 0.445
+os time: 1037852
+frame time stamp:706009
+obj num: 0
+cost time: 73.764 ms
+*******************************************************************
+real input size, [img_h, img_w, img_c]: 576, 960, 3
+Using GPU delegate
+wanted_ratio = 1.75, img_ratio = 1.66667, resize_width = 426, resize_height = 256, padding_w = 11, padding_h = 0
+input frame data type is float! 
+interpreter_->Invoke() cost time(ms): 89.068
+maxpool_transpose cost time(ms): 0.454
+os time: 1038132
+frame time stamp:706274
+obj num: 0
+cost time: 93.817 ms
+*******************************************************************
+real input size, [img_h, img_w, img_c]: 576, 960, 3
+Using GPU delegate
+wanted_ratio = 1.75, img_ratio = 1.66667, resize_width = 426, resize_height = 256, padding_w = 11, padding_h = 0
+input frame data type is float! 
+interpreter_->Invoke() cost time(ms): 70.606
+maxpool_transpose cost time(ms): 0.407
+os time: 1038383
+frame time stamp:706541
+obj num: 0
+cost time: 76.391 ms
+*******************************************************************
+real input size, [img_h, img_w, img_c]: 576, 960, 3
+Using GPU delegate
+wanted_ratio = 1.75, img_ratio = 1.66667, resize_width = 426, resize_height = 256, padding_w = 11, padding_h = 0
+input frame data type is float! 
+interpreter_->Invoke() cost time(ms): 67.394
+maxpool_transpose cost time(ms): 0.467
+os time: 1038650
+frame time stamp:706809
+obj num: 0
+cost time: 71.417 ms
+*******************************************************************
+real input size, [img_h, img_w, img_c]: 576, 960, 3
+Using GPU delegate
+wanted_ratio = 1.75, img_ratio = 1.66667, resize_width = 426, resize_height = 256, padding_w = 11, padding_h = 0
+input frame data type is float! 
+interpreter_->Invoke() cost time(ms): 69.935
+maxpool_transpose cost time(ms): 0.414
+os time: 1038920
+frame time stamp:707074
+obj num: 0
+cost time: 76.156 ms
+*******************************************************************
+real input size, [img_h, img_w, img_c]: 576, 960, 3
+Using GPU delegate
+wanted_ratio = 1.75, img_ratio = 1.66667, resize_width = 426, resize_height = 256, padding_w = 11, padding_h = 0
+input frame data type is float! 
+interpreter_->Invoke() cost time(ms): 70.053
+maxpool_transpose cost time(ms): 0.508
+os time: 1039184
+frame time stamp:707340
+obj num: 0
+cost time: 74.819 ms
+*******************************************************************
+real input size, [img_h, img_w, img_c]: 576, 960, 3
+Using GPU delegate
+wanted_ratio = 1.75, img_ratio = 1.66667, resize_width = 426, resize_height = 256, padding_w = 11, padding_h = 0
+input frame data type is float! 
+interpreter_->Invoke() cost time(ms): 67.447
+maxpool_transpose cost time(ms): 0.441
+os time: 1039443
+frame time stamp:707608
+obj num: 0
+cost time: 70.985 ms
+*******************************************************************
+real input size, [img_h, img_w, img_c]: 576, 960, 3
+Using GPU delegate
+wanted_ratio = 1.75, img_ratio = 1.66667, resize_width = 426, resize_height = 256, padding_w = 11, padding_h = 0
+input frame data type is float! 
+interpreter_->Invoke() cost time(ms): 75.456
+maxpool_transpose cost time(ms): 0.401
+os time: 1039737
+frame time stamp:707873
+obj num: 0
+cost time: 89.039 ms
+*******************************************************************
+real input size, [img_h, img_w, img_c]: 576, 960, 3
+Using GPU delegate
+wanted_ratio = 1.75, img_ratio = 1.66667, resize_width = 426, resize_height = 256, padding_w = 11, padding_h = 0
+input frame data type is float! 
+interpreter_->Invoke() cost time(ms): 80.92
+maxpool_transpose cost time(ms): 0.401
+os time: 1039999
+frame time stamp:708141
+obj num: 0
+cost time: 87.079 ms
+*******************************************************************
+real input size, [img_h, img_w, img_c]: 576, 960, 3
+Using GPU delegate
+wanted_ratio = 1.75, img_ratio = 1.66667, resize_width = 426, resize_height = 256, padding_w = 11, padding_h = 0
+input frame data type is float! 
+interpreter_->Invoke() cost time(ms): 73.747
+maxpool_transpose cost time(ms): 0.516
+os time: 1040200
+frame time stamp:297392928
+obj num: 0
+cost time: 83.317 ms
+*******************************************************************
+real input size, [img_h, img_w, img_c]: 576, 960, 3
+Using GPU delegate
+wanted_ratio = 1.75, img_ratio = 1.66667, resize_width = 426, resize_height = 256, padding_w = 11, padding_h = 0
+input frame data type is float! 
+interpreter_->Invoke() cost time(ms): 74.433
+maxpool_transpose cost time(ms): 0.43
+os time: 1095329
+frame time stamp:763474
+obj num: 0
+cost time: 78.537 ms
+*******************************************************************
+real input size, [img_h, img_w, img_c]: 576, 960, 3
+Using GPU delegate
+wanted_ratio = 1.75, img_ratio = 1.66667, resize_width = 426, resize_height = 256, padding_w = 11, padding_h = 0
+input frame data type is float! 
+interpreter_->Invoke() cost time(ms): 67.057
+maxpool_transpose cost time(ms): 0.39
+os time: 1095617
+frame time stamp:763772
+obj num: 0
+cost time: 71.198 ms
+*******************************************************************
+real input size, [img_h, img_w, img_c]: 576, 960, 3
+Using GPU delegate
+wanted_ratio = 1.75, img_ratio = 1.66667, resize_width = 426, resize_height = 256, padding_w = 11, padding_h = 0
+input frame data type is float! 
+interpreter_->Invoke() cost time(ms): 67.225
+maxpool_transpose cost time(ms): 0.384
+os time: 1096184
+frame time stamp:763836
+obj num: 0
+cost time: 72.089 ms
+*******************************************************************
+real input size, [img_h, img_w, img_c]: 576, 960, 3
+Using GPU delegate
+wanted_ratio = 1.75, img_ratio = 1.66667, resize_width = 426, resize_height = 256, padding_w = 11, padding_h = 0
+input frame data type is float! 
+interpreter_->Invoke() cost time(ms): 66.67
+maxpool_transpose cost time(ms): 0.608
+os time: 1096463
+frame time stamp:764618
+obj num: 0
+cost time: 70.585 ms
+*******************************************************************
+real input size, [img_h, img_w, img_c]: 576, 960, 3
+Using GPU delegate
+wanted_ratio = 1.75, img_ratio = 1.66667, resize_width = 426, resize_height = 256, padding_w = 11, padding_h = 0
+input frame data type is float! 
+interpreter_->Invoke() cost time(ms): 72.891
+maxpool_transpose cost time(ms): 0.387
+os time: 1096738
+frame time stamp:764886
+obj num: 0
+cost time: 76.441 ms
+*******************************************************************
+real input size, [img_h, img_w, img_c]: 576, 960, 3
+Using GPU delegate
+wanted_ratio = 1.75, img_ratio = 1.66667, resize_width = 426, resize_height = 256, padding_w = 11, padding_h = 0
+input frame data type is float! 
+interpreter_->Invoke() cost time(ms): 76.589
+maxpool_transpose cost time(ms): 0.44
+os time: 1097002
+frame time stamp:765152
+obj num: 0
+cost time: 82.685 ms
+*******************************************************************
+real input size, [img_h, img_w, img_c]: 576, 960, 3
+Using GPU delegate
+wanted_ratio = 1.75, img_ratio = 1.66667, resize_width = 426, resize_height = 256, padding_w = 11, padding_h = 0
+input frame data type is float! 
+interpreter_->Invoke() cost time(ms): 70.872
+maxpool_transpose cost time(ms): 0.43
+os time: 1097271
+frame time stamp:765418
+obj num: 0
+cost time: 75.647 ms
+*******************************************************************
+real input size, [img_h, img_w, img_c]: 576, 960, 3
+Using GPU delegate
+wanted_ratio = 1.75, img_ratio = 1.66667, resize_width = 426, resize_height = 256, padding_w = 11, padding_h = 0
+input frame data type is float! 
+interpreter_->Invoke() cost time(ms): 68.392
+maxpool_transpose cost time(ms): 0.384
+os time: 1097528
+frame time stamp:765685
+obj num: 0
+cost time: 72.251 ms
+*******************************************************************
+real input size, [img_h, img_w, img_c]: 576, 960, 3
+Using GPU delegate
+wanted_ratio = 1.75, img_ratio = 1.66667, resize_width = 426, resize_height = 256, padding_w = 11, padding_h = 0
+input frame data type is float! 
+interpreter_->Invoke() cost time(ms): 69.311
+maxpool_transpose cost time(ms): 0.399
+os time: 1097806
+frame time stamp:765951
+obj num: 0
+cost time: 76.844 ms
+*******************************************************************
+real input size, [img_h, img_w, img_c]: 576, 960, 3
+Using GPU delegate
+wanted_ratio = 1.75, img_ratio = 1.66667, resize_width = 426, resize_height = 256, padding_w = 11, padding_h = 0
+input frame data type is float! 
+interpreter_->Invoke() cost time(ms): 69.464
+maxpool_transpose cost time(ms): 0.425
+os time: 1098062
+frame time stamp:766217
+obj num: 0
+cost time: 73.971 ms
+*******************************************************************
+real input size, [img_h, img_w, img_c]: 576, 960, 3
+Using GPU delegate
+wanted_ratio = 1.75, img_ratio = 1.66667, resize_width = 426, resize_height = 256, padding_w = 11, padding_h = 0
+input frame data type is float! 
+interpreter_->Invoke() cost time(ms): 73.293
+maxpool_transpose cost time(ms): 0.417
+os time: 1098321
+frame time stamp:766485
+obj num: 0
+cost time: 79.737 ms
+*******************************************************************
+real input size, [img_h, img_w, img_c]: 576, 960, 3
+Using GPU delegate
+wanted_ratio = 1.75, img_ratio = 1.66667, resize_width = 426, resize_height = 256, padding_w = 11, padding_h = 0
+input frame data type is float! 
+interpreter_->Invoke() cost time(ms): 74.29
+maxpool_transpose cost time(ms): 0.499
+os time: 1098574
+frame time stamp:766717
+obj num: 0
+cost time: 79.53 ms
+*******************************************************************
+real input size, [img_h, img_w, img_c]: 576, 960, 3
+Using GPU delegate
+wanted_ratio = 1.75, img_ratio = 1.66667, resize_width = 426, resize_height = 256, padding_w = 11, padding_h = 0
+input frame data type is float! 
+interpreter_->Invoke() cost time(ms): 71.335
+maxpool_transpose cost time(ms): 0.415
+os time: 1098835
+frame time stamp:766984
+obj num: 0
+cost time: 76.344 ms
+*******************************************************************
+real input size, [img_h, img_w, img_c]: 576, 960, 3
+Using GPU delegate
+wanted_ratio = 1.75, img_ratio = 1.66667, resize_width = 426, resize_height = 256, padding_w = 11, padding_h = 0
+input frame data type is float! 
+interpreter_->Invoke() cost time(ms): 68.686
+maxpool_transpose cost time(ms): 0.392
+os time: 1099095
+frame time stamp:767251
+obj num: 0
+cost time: 73.112 ms
+*******************************************************************
+real input size, [img_h, img_w, img_c]: 576, 960, 3
+Using GPU delegate
+wanted_ratio = 1.75, img_ratio = 1.66667, resize_width = 426, resize_height = 256, padding_w = 11, padding_h = 0
+input frame data type is float! 
+interpreter_->Invoke() cost time(ms): 67.227
+maxpool_transpose cost time(ms): 0.65
+os time: 1099359
+frame time stamp:767516
+obj num: 0
+cost time: 71.318 ms
+*******************************************************************
+real input size, [img_h, img_w, img_c]: 576, 960, 3
+Using GPU delegate
+wanted_ratio = 1.75, img_ratio = 1.66667, resize_width = 426, resize_height = 256, padding_w = 11, padding_h = 0
+input frame data type is float! 
+interpreter_->Invoke() cost time(ms): 72.545
+maxpool_transpose cost time(ms): 0.403
+os time: 1099625
+frame time stamp:767784
+obj num: 0
+cost time: 78.272 ms
+*******************************************************************
+real input size, [img_h, img_w, img_c]: 576, 960, 3
+Using GPU delegate
+wanted_ratio = 1.75, img_ratio = 1.66667, resize_width = 426, resize_height = 256, padding_w = 11, padding_h = 0
+input frame data type is float! 
+interpreter_->Invoke() cost time(ms): 67.904
+maxpool_transpose cost time(ms): 0.479
+os time: 1099889
+frame time stamp:768050
+obj num: 0
+cost time: 72.028 ms
+*******************************************************************
+real input size, [img_h, img_w, img_c]: 576, 960, 3
+Using GPU delegate
+wanted_ratio = 1.75, img_ratio = 1.66667, resize_width = 426, resize_height = 256, padding_w = 11, padding_h = 0
+input frame data type is float! 
+interpreter_->Invoke() cost time(ms): 69.082
+maxpool_transpose cost time(ms): 0.38
+os time: 1100156
+frame time stamp:768316
+obj num: 0
+cost time: 72.394 ms
+*******************************************************************
+real input size, [img_h, img_w, img_c]: 576, 960, 3
+Using GPU delegate
+wanted_ratio = 1.75, img_ratio = 1.66667, resize_width = 426, resize_height = 256, padding_w = 11, padding_h = 0
+input frame data type is float! 
+interpreter_->Invoke() cost time(ms): 74.419
+maxpool_transpose cost time(ms): 0.388
+os time: 1100432
+frame time stamp:768584
+obj num: 0
+cost time: 78.504 ms
+*******************************************************************
+real input size, [img_h, img_w, img_c]: 576, 960, 3
+Using GPU delegate
+wanted_ratio = 1.75, img_ratio = 1.66667, resize_width = 426, resize_height = 256, padding_w = 11, padding_h = 0
+input frame data type is float! 
+interpreter_->Invoke() cost time(ms): 68.373
+maxpool_transpose cost time(ms): 0.406
+os time: 1100696
+frame time stamp:768850
+obj num: 0
+cost time: 72.21 ms
+*******************************************************************
+real input size, [img_h, img_w, img_c]: 576, 960, 3
+Using GPU delegate
+wanted_ratio = 1.75, img_ratio = 1.66667, resize_width = 426, resize_height = 256, padding_w = 11, padding_h = 0
+input frame data type is float! 
+interpreter_->Invoke() cost time(ms): 73.113
+maxpool_transpose cost time(ms): 0.395
+os time: 1100966
+frame time stamp:769116
+obj num: 0
+cost time: 78.549 ms
+*******************************************************************
+real input size, [img_h, img_w, img_c]: 576, 960, 3
+Using GPU delegate
+wanted_ratio = 1.75, img_ratio = 1.66667, resize_width = 426, resize_height = 256, padding_w = 11, padding_h = 0
+input frame data type is float! 
+interpreter_->Invoke() cost time(ms): 68.333
+maxpool_transpose cost time(ms): 0.409
+os time: 1101220
+frame time stamp:769383
+obj num: 0
+cost time: 72.243 ms
+*******************************************************************
+real input size, [img_h, img_w, img_c]: 576, 960, 3
+Using GPU delegate
+wanted_ratio = 1.75, img_ratio = 1.66667, resize_width = 426, resize_height = 256, padding_w = 11, padding_h = 0
+input frame data type is float! 
+interpreter_->Invoke() cost time(ms): 71.37
+maxpool_transpose cost time(ms): 0.388
+os time: 1101501
+frame time stamp:769649
+obj num: 0
+cost time: 76.388 ms
+*******************************************************************
+real input size, [img_h, img_w, img_c]: 576, 960, 3
+Using GPU delegate
+wanted_ratio = 1.75, img_ratio = 1.66667, resize_width = 426, resize_height = 256, padding_w = 11, padding_h = 0
+input frame data type is float! 
+interpreter_->Invoke() cost time(ms): 72.651
+maxpool_transpose cost time(ms): 0.405
+os time: 1101763
+frame time stamp:769915
+obj num: 0
+cost time: 76.097 ms
+*******************************************************************
+real input size, [img_h, img_w, img_c]: 576, 960, 3
+Using GPU delegate
+wanted_ratio = 1.75, img_ratio = 1.66667, resize_width = 426, resize_height = 256, padding_w = 11, padding_h = 0
+input frame data type is float! 
+interpreter_->Invoke() cost time(ms): 74.6
+maxpool_transpose cost time(ms): 0.418
+os time: 1102037
+frame time stamp:770183
+obj num: 0
+cost time: 80.108 ms
+*******************************************************************
+real input size, [img_h, img_w, img_c]: 576, 960, 3
+Using GPU delegate
+wanted_ratio = 1.75, img_ratio = 1.66667, resize_width = 426, resize_height = 256, padding_w = 11, padding_h = 0
+input frame data type is float! 
+interpreter_->Invoke() cost time(ms): 85.105
+maxpool_transpose cost time(ms): 0.396
+os time: 1102287
+frame time stamp:770449
+obj num: 0
+cost time: 90.503 ms
+*******************************************************************
+real input size, [img_h, img_w, img_c]: 576, 960, 3
+Using GPU delegate
+wanted_ratio = 1.75, img_ratio = 1.66667, resize_width = 426, resize_height = 256, padding_w = 11, padding_h = 0
+input frame data type is float! 
+interpreter_->Invoke() cost time(ms): 66.943
+maxpool_transpose cost time(ms): 0.378
+os time: 1102562
+frame time stamp:770715
+obj num: 0
+cost time: 71.179 ms
+*******************************************************************
+real input size, [img_h, img_w, img_c]: 576, 960, 3
+Using GPU delegate
+wanted_ratio = 1.75, img_ratio = 1.66667, resize_width = 426, resize_height = 256, padding_w = 11, padding_h = 0
+input frame data type is float! 
+interpreter_->Invoke() cost time(ms): 73.328
+maxpool_transpose cost time(ms): 0.381
+os time: 1102840
+frame time stamp:770982
+obj num: 0
+cost time: 77.761 ms
+*******************************************************************
+real input size, [img_h, img_w, img_c]: 576, 960, 3
+Using GPU delegate
+wanted_ratio = 1.75, img_ratio = 1.66667, resize_width = 426, resize_height = 256, padding_w = 11, padding_h = 0
+input frame data type is float! 
+interpreter_->Invoke() cost time(ms): 65.936
+maxpool_transpose cost time(ms): 0.4
+os time: 1103096
+frame time stamp:771248
+obj num: 1
+idx: 1, score: 0.428951, center_x: 0.812243, center_y: 0.962814, w: 0.0345877, h: 0.0640869
+cost time: 69.63 ms
+*******************************************************************
+real input size, [img_h, img_w, img_c]: 576, 960, 3
+Using GPU delegate
+wanted_ratio = 1.75, img_ratio = 1.66667, resize_width = 426, resize_height = 256, padding_w = 11, padding_h = 0
+input frame data type is float! 
+interpreter_->Invoke() cost time(ms): 68.769
+maxpool_transpose cost time(ms): 0.435
+os time: 1103368
+frame time stamp:771514
+obj num: 0
+cost time: 73.058 ms
+*******************************************************************
+real input size, [img_h, img_w, img_c]: 576, 960, 3
+Using GPU delegate
+wanted_ratio = 1.75, img_ratio = 1.66667, resize_width = 426, resize_height = 256, padding_w = 11, padding_h = 0
+input frame data type is float! 
+interpreter_->Invoke() cost time(ms): 77.146
+maxpool_transpose cost time(ms): 0.402
+os time: 1103624
+frame time stamp:771782
+obj num: 0
+cost time: 84.841 ms
+*******************************************************************
+real input size, [img_h, img_w, img_c]: 576, 960, 3
+Using GPU delegate
+wanted_ratio = 1.75, img_ratio = 1.66667, resize_width = 426, resize_height = 256, padding_w = 11, padding_h = 0
+input frame data type is float! 
+interpreter_->Invoke() cost time(ms): 69.921
+maxpool_transpose cost time(ms): 0.385
+os time: 1103903
+frame time stamp:772047
+obj num: 0
+cost time: 74.052 ms
+*******************************************************************
+real input size, [img_h, img_w, img_c]: 576, 960, 3
+Using GPU delegate
+wanted_ratio = 1.75, img_ratio = 1.66667, resize_width = 426, resize_height = 256, padding_w = 11, padding_h = 0
+input frame data type is float! 
+interpreter_->Invoke() cost time(ms): 75.235
+maxpool_transpose cost time(ms): 0.478
+os time: 1104154
+frame time stamp:772314
+obj num: 0
+cost time: 81.236 ms
+*******************************************************************
+real input size, [img_h, img_w, img_c]: 576, 960, 3
+Using GPU delegate
+wanted_ratio = 1.75, img_ratio = 1.66667, resize_width = 426, resize_height = 256, padding_w = 11, padding_h = 0
+input frame data type is float! 
+interpreter_->Invoke() cost time(ms): 68.801
+maxpool_transpose cost time(ms): 0.394
+os time: 1104424
+frame time stamp:772581
+obj num: 0
+cost time: 72.316 ms
+*******************************************************************
+real input size, [img_h, img_w, img_c]: 576, 960, 3
+Using GPU delegate
+wanted_ratio = 1.75, img_ratio = 1.66667, resize_width = 426, resize_height = 256, padding_w = 11, padding_h = 0
+input frame data type is float! 
+interpreter_->Invoke() cost time(ms): 85.131
+maxpool_transpose cost time(ms): 0.418
+os time: 1104687
+frame time stamp:772847
+obj num: 0
+cost time: 88.799 ms
+*******************************************************************
+real input size, [img_h, img_w, img_c]: 576, 960, 3
+Using GPU delegate
+wanted_ratio = 1.75, img_ratio = 1.66667, resize_width = 426, resize_height = 256, padding_w = 11, padding_h = 0
+input frame data type is float! 
+interpreter_->Invoke() cost time(ms): 89.971
+maxpool_transpose cost time(ms): 0.473
+os time: 1104940
+frame time stamp:773081
+obj num: 0
+cost time: 94.495 ms
+*******************************************************************
+real input size, [img_h, img_w, img_c]: 576, 960, 3
+Using GPU delegate
+wanted_ratio = 1.75, img_ratio = 1.66667, resize_width = 426, resize_height = 256, padding_w = 11, padding_h = 0
+input frame data type is float! 
+interpreter_->Invoke() cost time(ms): 67.334
+maxpool_transpose cost time(ms): 0.438
+os time: 1105197
+frame time stamp:773347
+obj num: 0
+cost time: 71.334 ms
+*******************************************************************
+real input size, [img_h, img_w, img_c]: 576, 960, 3
+Using GPU delegate
+wanted_ratio = 1.75, img_ratio = 1.66667, resize_width = 426, resize_height = 256, padding_w = 11, padding_h = 0
+input frame data type is float! 
+interpreter_->Invoke() cost time(ms): 70.1
+maxpool_transpose cost time(ms): 0.505
+os time: 1105453
+frame time stamp:773613
+obj num: 0
+cost time: 73.704 ms
+*******************************************************************
+real input size, [img_h, img_w, img_c]: 576, 960, 3
+Using GPU delegate
+wanted_ratio = 1.75, img_ratio = 1.66667, resize_width = 426, resize_height = 256, padding_w = 11, padding_h = 0
+input frame data type is float! 
+interpreter_->Invoke() cost time(ms): 70.338
+maxpool_transpose cost time(ms): 0.436
+os time: 1105727
+frame time stamp:773880
+obj num: 0
+cost time: 76.961 ms
+*******************************************************************
+real input size, [img_h, img_w, img_c]: 576, 960, 3
+Using GPU delegate
+wanted_ratio = 1.75, img_ratio = 1.66667, resize_width = 426, resize_height = 256, padding_w = 11, padding_h = 0
+input frame data type is float! 
+interpreter_->Invoke() cost time(ms): 76.192
+maxpool_transpose cost time(ms): 0.531
+os time: 1105987
+frame time stamp:774146
+obj num: 0
+cost time: 80.87 ms
+*******************************************************************
+real input size, [img_h, img_w, img_c]: 576, 960, 3
+Using GPU delegate
+wanted_ratio = 1.75, img_ratio = 1.66667, resize_width = 426, resize_height = 256, padding_w = 11, padding_h = 0
+input frame data type is float! 
+interpreter_->Invoke() cost time(ms): 69.245
+maxpool_transpose cost time(ms): 0.396
+os time: 1106263
+frame time stamp:774413
+obj num: 0
+cost time: 73.807 ms
+*******************************************************************
+real input size, [img_h, img_w, img_c]: 576, 960, 3
+Using GPU delegate
+wanted_ratio = 1.75, img_ratio = 1.66667, resize_width = 426, resize_height = 256, padding_w = 11, padding_h = 0
+input frame data type is float! 
+interpreter_->Invoke() cost time(ms): 70.533
+maxpool_transpose cost time(ms): 0.391
+os time: 1106530
+frame time stamp:774680
+obj num: 0
+cost time: 75.756 ms
+*******************************************************************
+real input size, [img_h, img_w, img_c]: 576, 960, 3
+Using GPU delegate
+wanted_ratio = 1.75, img_ratio = 1.66667, resize_width = 426, resize_height = 256, padding_w = 11, padding_h = 0
+input frame data type is float! 
+interpreter_->Invoke() cost time(ms): 76.42
+maxpool_transpose cost time(ms): 0.52
+os time: 1106783
+frame time stamp:774946
+obj num: 0
+cost time: 86.683 ms
+*******************************************************************
+real input size, [img_h, img_w, img_c]: 576, 960, 3
+Using GPU delegate
+wanted_ratio = 1.75, img_ratio = 1.66667, resize_width = 426, resize_height = 256, padding_w = 11, padding_h = 0
+input frame data type is float! 
+interpreter_->Invoke() cost time(ms): 68.63
+maxpool_transpose cost time(ms): 0.405
+os time: 1107056
+frame time stamp:775212
+obj num: 0
+cost time: 72.908 ms
+*******************************************************************
+real input size, [img_h, img_w, img_c]: 576, 960, 3
+Using GPU delegate
+wanted_ratio = 1.75, img_ratio = 1.66667, resize_width = 426, resize_height = 256, padding_w = 11, padding_h = 0
+input frame data type is float! 
+interpreter_->Invoke() cost time(ms): 69.971
+maxpool_transpose cost time(ms): 0.394
+os time: 1107324
+frame time stamp:775480
+obj num: 0
+cost time: 73.975 ms
+*******************************************************************
+real input size, [img_h, img_w, img_c]: 576, 960, 3
+Using GPU delegate
+wanted_ratio = 1.75, img_ratio = 1.66667, resize_width = 426, resize_height = 256, padding_w = 11, padding_h = 0
+input frame data type is float! 
+interpreter_->Invoke() cost time(ms): 70.473
+maxpool_transpose cost time(ms): 0.45
+os time: 1107601
+frame time stamp:775746
+obj num: 0
+cost time: 75.265 ms
+*******************************************************************
+real input size, [img_h, img_w, img_c]: 576, 960, 3
+Using GPU delegate
+wanted_ratio = 1.75, img_ratio = 1.66667, resize_width = 426, resize_height = 256, padding_w = 11, padding_h = 0
+input frame data type is float! 
+interpreter_->Invoke() cost time(ms): 66.031
+maxpool_transpose cost time(ms): 0.385
+os time: 1107853
+frame time stamp:776012
+obj num: 0
+cost time: 70.421 ms
+*******************************************************************
+real input size, [img_h, img_w, img_c]: 576, 960, 3
+Using GPU delegate
+wanted_ratio = 1.75, img_ratio = 1.66667, resize_width = 426, resize_height = 256, padding_w = 11, padding_h = 0
+input frame data type is float! 
+interpreter_->Invoke() cost time(ms): 70.142
+maxpool_transpose cost time(ms): 0.605
+os time: 1108136
+frame time stamp:776279
+obj num: 0
+cost time: 74.964 ms
+*******************************************************************
+real input size, [img_h, img_w, img_c]: 576, 960, 3
+Using GPU delegate
+wanted_ratio = 1.75, img_ratio = 1.66667, resize_width = 426, resize_height = 256, padding_w = 11, padding_h = 0
+input frame data type is float! 
+interpreter_->Invoke() cost time(ms): 67.182
+maxpool_transpose cost time(ms): 0.373
+os time: 1108394
+frame time stamp:776545
+obj num: 0
+cost time: 71.052 ms
+*******************************************************************
+real input size, [img_h, img_w, img_c]: 576, 960, 3
+Using GPU delegate
+wanted_ratio = 1.75, img_ratio = 1.66667, resize_width = 426, resize_height = 256, padding_w = 11, padding_h = 0
+input frame data type is float! 
+interpreter_->Invoke() cost time(ms): 66.278
+maxpool_transpose cost time(ms): 0.398
+os time: 1108648
+frame time stamp:776811
+obj num: 0
+cost time: 71.086 ms
+*******************************************************************
+real input size, [img_h, img_w, img_c]: 576, 960, 3
+Using GPU delegate
+wanted_ratio = 1.75, img_ratio = 1.66667, resize_width = 426, resize_height = 256, padding_w = 11, padding_h = 0
+input frame data type is float! 
+interpreter_->Invoke() cost time(ms): 73.822
+maxpool_transpose cost time(ms): 0.376
+os time: 1108930
+frame time stamp:777079
+obj num: 0
+cost time: 79.762 ms
+*******************************************************************
+real input size, [img_h, img_w, img_c]: 576, 960, 3
+Using GPU delegate
+wanted_ratio = 1.75, img_ratio = 1.66667, resize_width = 426, resize_height = 256, padding_w = 11, padding_h = 0
+input frame data type is float! 
+interpreter_->Invoke() cost time(ms): 82.835
+maxpool_transpose cost time(ms): 0.417
+os time: 1109193
+frame time stamp:777345
+obj num: 0
+cost time: 86.876 ms
+*******************************************************************
+real input size, [img_h, img_w, img_c]: 576, 960, 3
+Using GPU delegate
+wanted_ratio = 1.75, img_ratio = 1.66667, resize_width = 426, resize_height = 256, padding_w = 11, padding_h = 0
+input frame data type is float! 
+interpreter_->Invoke() cost time(ms): 79.859
+maxpool_transpose cost time(ms): 0.427
+os time: 1109452
+frame time stamp:777611
+obj num: 0
+cost time: 84.494 ms
+*******************************************************************
+real input size, [img_h, img_w, img_c]: 576, 960, 3
+Using GPU delegate
+wanted_ratio = 1.75, img_ratio = 1.66667, resize_width = 426, resize_height = 256, padding_w = 11, padding_h = 0
+input frame data type is float! 
+interpreter_->Invoke() cost time(ms): 65.469
+maxpool_transpose cost time(ms): 0.462
+os time: 1109721
+frame time stamp:777878
+obj num: 0
+cost time: 69.229 ms
+*******************************************************************
+real input size, [img_h, img_w, img_c]: 576, 960, 3
+Using GPU delegate
+wanted_ratio = 1.75, img_ratio = 1.66667, resize_width = 426, resize_height = 256, padding_w = 11, padding_h = 0
+input frame data type is float! 
+interpreter_->Invoke() cost time(ms): 77.278
+maxpool_transpose cost time(ms): 0.425
+os time: 1109987
+frame time stamp:778144
+obj num: 0
+cost time: 81.447 ms
+*******************************************************************
+real input size, [img_h, img_w, img_c]: 576, 960, 3
+Using GPU delegate
+wanted_ratio = 1.75, img_ratio = 1.66667, resize_width = 426, resize_height = 256, padding_w = 11, padding_h = 0
+input frame data type is float! 
+interpreter_->Invoke() cost time(ms): 66.481
+maxpool_transpose cost time(ms): 0.381
+os time: 1110251
+frame time stamp:778411
+obj num: 0
+cost time: 69.969 ms
+*******************************************************************
+real input size, [img_h, img_w, img_c]: 576, 960, 3
+Using GPU delegate
+wanted_ratio = 1.75, img_ratio = 1.66667, resize_width = 426, resize_height = 256, padding_w = 11, padding_h = 0
+input frame data type is float! 
+interpreter_->Invoke() cost time(ms): 67.773
+maxpool_transpose cost time(ms): 0.374
+os time: 1110523
+frame time stamp:778678
+obj num: 0
+cost time: 73.521 ms
+*******************************************************************
+real input size, [img_h, img_w, img_c]: 576, 960, 3
+Using GPU delegate
+wanted_ratio = 1.75, img_ratio = 1.66667, resize_width = 426, resize_height = 256, padding_w = 11, padding_h = 0
+input frame data type is float! 
+interpreter_->Invoke() cost time(ms): 70.787
+maxpool_transpose cost time(ms): 0.567
+os time: 1110787
+frame time stamp:778944
+obj num: 0
+cost time: 76.364 ms
+*******************************************************************
+real input size, [img_h, img_w, img_c]: 576, 960, 3
+Using GPU delegate
+wanted_ratio = 1.75, img_ratio = 1.66667, resize_width = 426, resize_height = 256, padding_w = 11, padding_h = 0
+input frame data type is float! 
+interpreter_->Invoke() cost time(ms): 83.531
+maxpool_transpose cost time(ms): 0.507
+os time: 1111059
+frame time stamp:779210
+obj num: 0
+cost time: 88.285 ms
+*******************************************************************
+real input size, [img_h, img_w, img_c]: 576, 960, 3
+Using GPU delegate
+wanted_ratio = 1.75, img_ratio = 1.66667, resize_width = 426, resize_height = 256, padding_w = 11, padding_h = 0
+input frame data type is float! 
+interpreter_->Invoke() cost time(ms): 75.041
+maxpool_transpose cost time(ms): 0.437
+os time: 1111332
+frame time stamp:779477
+obj num: 0
+cost time: 79.665 ms
+*******************************************************************
+real input size, [img_h, img_w, img_c]: 576, 960, 3
+Using GPU delegate
+wanted_ratio = 1.75, img_ratio = 1.66667, resize_width = 426, resize_height = 256, padding_w = 11, padding_h = 0
+input frame data type is float! 
+interpreter_->Invoke() cost time(ms): 67.467
+maxpool_transpose cost time(ms): 0.451
+os time: 1111582
+frame time stamp:779743
+obj num: 0
+cost time: 70.802 ms
+*******************************************************************
+real input size, [img_h, img_w, img_c]: 576, 960, 3
+Using GPU delegate
+wanted_ratio = 1.75, img_ratio = 1.66667, resize_width = 426, resize_height = 256, padding_w = 11, padding_h = 0
+input frame data type is float! 
+interpreter_->Invoke() cost time(ms): 68.091
+maxpool_transpose cost time(ms): 0.385
+os time: 1111860
+frame time stamp:780010
+obj num: 0
+cost time: 71.614 ms
+*******************************************************************
+real input size, [img_h, img_w, img_c]: 576, 960, 3
+Using GPU delegate
+wanted_ratio = 1.75, img_ratio = 1.66667, resize_width = 426, resize_height = 256, padding_w = 11, padding_h = 0
+input frame data type is float! 
+interpreter_->Invoke() cost time(ms): 72.568
+maxpool_transpose cost time(ms): 0.643
+os time: 1112117
+frame time stamp:780277
+obj num: 0
+cost time: 78.857 ms
+*******************************************************************
+real input size, [img_h, img_w, img_c]: 576, 960, 3
+Using GPU delegate
+wanted_ratio = 1.75, img_ratio = 1.66667, resize_width = 426, resize_height = 256, padding_w = 11, padding_h = 0
+input frame data type is float! 
+interpreter_->Invoke() cost time(ms): 71.626
+maxpool_transpose cost time(ms): 0.414
+os time: 1112384
+frame time stamp:780543
+obj num: 0
+cost time: 77.016 ms
+*******************************************************************
+real input size, [img_h, img_w, img_c]: 576, 960, 3
+Using GPU delegate
+wanted_ratio = 1.75, img_ratio = 1.66667, resize_width = 426, resize_height = 256, padding_w = 11, padding_h = 0
+input frame data type is float! 
+interpreter_->Invoke() cost time(ms): 84.708
+maxpool_transpose cost time(ms): 0.648
+os time: 1112659
+frame time stamp:780809
+obj num: 0
+cost time: 92.314 ms
+*******************************************************************
+real input size, [img_h, img_w, img_c]: 576, 960, 3
+Using GPU delegate
+wanted_ratio = 1.75, img_ratio = 1.66667, resize_width = 426, resize_height = 256, padding_w = 11, padding_h = 0
+input frame data type is float! 
+interpreter_->Invoke() cost time(ms): 68.745
+maxpool_transpose cost time(ms): 0.481
+os time: 1112924
+frame time stamp:781077
+obj num: 0
+cost time: 72.096 ms
+*******************************************************************
+real input size, [img_h, img_w, img_c]: 576, 960, 3
+Using GPU delegate
+wanted_ratio = 1.75, img_ratio = 1.66667, resize_width = 426, resize_height = 256, padding_w = 11, padding_h = 0
+input frame data type is float! 
+interpreter_->Invoke() cost time(ms): 74.948
+maxpool_transpose cost time(ms): 1.146
+os time: 1113186
+frame time stamp:781342
+obj num: 0
+cost time: 86.442 ms
+*******************************************************************
+real input size, [img_h, img_w, img_c]: 576, 960, 3
+Using GPU delegate
+wanted_ratio = 1.75, img_ratio = 1.66667, resize_width = 426, resize_height = 256, padding_w = 11, padding_h = 0
+input frame data type is float! 
+interpreter_->Invoke() cost time(ms): 74.044
+maxpool_transpose cost time(ms): 0.438
+os time: 1113457
+frame time stamp:781609
+obj num: 0
+cost time: 77.847 ms
+*******************************************************************
+real input size, [img_h, img_w, img_c]: 576, 960, 3
+Using GPU delegate
+wanted_ratio = 1.75, img_ratio = 1.66667, resize_width = 426, resize_height = 256, padding_w = 11, padding_h = 0
+input frame data type is float! 
+interpreter_->Invoke() cost time(ms): 68.098
+maxpool_transpose cost time(ms): 0.376
+os time: 1113713
+frame time stamp:781876
+obj num: 0
+cost time: 71.759 ms
+*******************************************************************
+real input size, [img_h, img_w, img_c]: 576, 960, 3
+Using GPU delegate
+wanted_ratio = 1.75, img_ratio = 1.66667, resize_width = 426, resize_height = 256, padding_w = 11, padding_h = 0
+input frame data type is float! 
+interpreter_->Invoke() cost time(ms): 66.482
+maxpool_transpose cost time(ms): 0.379
+os time: 1113980
+frame time stamp:782142
+obj num: 0
+cost time: 70.525 ms
+*******************************************************************
+real input size, [img_h, img_w, img_c]: 576, 960, 3
+Using GPU delegate
+wanted_ratio = 1.75, img_ratio = 1.66667, resize_width = 426, resize_height = 256, padding_w = 11, padding_h = 0
+input frame data type is float! 
+interpreter_->Invoke() cost time(ms): 68.405
+maxpool_transpose cost time(ms): 0.406
+os time: 1114249
+frame time stamp:782408
+obj num: 0
+cost time: 72.555 ms
+*******************************************************************
+real input size, [img_h, img_w, img_c]: 576, 960, 3
+Using GPU delegate
+wanted_ratio = 1.75, img_ratio = 1.66667, resize_width = 426, resize_height = 256, padding_w = 11, padding_h = 0
+input frame data type is float! 
+interpreter_->Invoke() cost time(ms): 73.726
+maxpool_transpose cost time(ms): 0.41
+os time: 1114529
+frame time stamp:782676
+obj num: 0
+cost time: 78.962 ms
+*******************************************************************
+real input size, [img_h, img_w, img_c]: 576, 960, 3
+Using GPU delegate
+wanted_ratio = 1.75, img_ratio = 1.66667, resize_width = 426, resize_height = 256, padding_w = 11, padding_h = 0
+input frame data type is float! 
+interpreter_->Invoke() cost time(ms): 82.04
+maxpool_transpose cost time(ms): 0.711
+os time: 1114802
+frame time stamp:782941
+obj num: 0
+cost time: 89.045 ms
+*******************************************************************
+real input size, [img_h, img_w, img_c]: 576, 960, 3
+Using GPU delegate
+wanted_ratio = 1.75, img_ratio = 1.66667, resize_width = 426, resize_height = 256, padding_w = 11, padding_h = 0
+input frame data type is float! 
+interpreter_->Invoke() cost time(ms): 89.257
+maxpool_transpose cost time(ms): 2.313
+os time: 1115062
+frame time stamp:783208
+obj num: 0
+cost time: 97.053 ms
+*******************************************************************
+real input size, [img_h, img_w, img_c]: 576, 960, 3
+Using GPU delegate
+wanted_ratio = 1.75, img_ratio = 1.66667, resize_width = 426, resize_height = 256, padding_w = 11, padding_h = 0
+input frame data type is float! 
+interpreter_->Invoke() cost time(ms): 66.913
+maxpool_transpose cost time(ms): 0.48
+os time: 1115317
+frame time stamp:783476
+obj num: 0
+cost time: 72.619 ms
+*******************************************************************
+real input size, [img_h, img_w, img_c]: 576, 960, 3
+Using GPU delegate
+wanted_ratio = 1.75, img_ratio = 1.66667, resize_width = 426, resize_height = 256, padding_w = 11, padding_h = 0
+input frame data type is float! 
+interpreter_->Invoke() cost time(ms): 66.603
+maxpool_transpose cost time(ms): 0.379
+os time: 1115583
+frame time stamp:783741
+obj num: 0
+cost time: 70.978 ms
+*******************************************************************
+real input size, [img_h, img_w, img_c]: 576, 960, 3
+Using GPU delegate
+wanted_ratio = 1.75, img_ratio = 1.66667, resize_width = 426, resize_height = 256, padding_w = 11, padding_h = 0
+input frame data type is float! 
+interpreter_->Invoke() cost time(ms): 69.262
+maxpool_transpose cost time(ms): 0.442
+os time: 1115853
+frame time stamp:784008
+obj num: 0
+cost time: 75.762 ms
+*******************************************************************
+real input size, [img_h, img_w, img_c]: 576, 960, 3
+Using GPU delegate
+wanted_ratio = 1.75, img_ratio = 1.66667, resize_width = 426, resize_height = 256, padding_w = 11, padding_h = 0
+input frame data type is float! 
+interpreter_->Invoke() cost time(ms): 71.188
+maxpool_transpose cost time(ms): 0.407
+os time: 1116120
+frame time stamp:784275
+obj num: 0
+cost time: 74.783 ms
+*******************************************************************
+real input size, [img_h, img_w, img_c]: 576, 960, 3
+Using GPU delegate
+wanted_ratio = 1.75, img_ratio = 1.66667, resize_width = 426, resize_height = 256, padding_w = 11, padding_h = 0
+input frame data type is float! 
+interpreter_->Invoke() cost time(ms): 70.552
+maxpool_transpose cost time(ms): 0.413
+os time: 1116387
+frame time stamp:784540
+obj num: 0
+cost time: 74.299 ms
+*******************************************************************
+real input size, [img_h, img_w, img_c]: 576, 960, 3
+Using GPU delegate
+wanted_ratio = 1.75, img_ratio = 1.66667, resize_width = 426, resize_height = 256, padding_w = 11, padding_h = 0
+input frame data type is float! 
+interpreter_->Invoke() cost time(ms): 76.186
+maxpool_transpose cost time(ms): 0.421
+os time: 1116656
+frame time stamp:784807
+obj num: 0
+cost time: 80.318 ms
+*******************************************************************
+real input size, [img_h, img_w, img_c]: 576, 960, 3
+Using GPU delegate
+wanted_ratio = 1.75, img_ratio = 1.66667, resize_width = 426, resize_height = 256, padding_w = 11, padding_h = 0
+input frame data type is float! 
+interpreter_->Invoke() cost time(ms): 68.656
+maxpool_transpose cost time(ms): 0.418
+os time: 1116921
+frame time stamp:785075
+obj num: 0
+cost time: 72.502 ms
+*******************************************************************
+real input size, [img_h, img_w, img_c]: 576, 960, 3
+Using GPU delegate
+wanted_ratio = 1.75, img_ratio = 1.66667, resize_width = 426, resize_height = 256, padding_w = 11, padding_h = 0
+input frame data type is float! 
+interpreter_->Invoke() cost time(ms): 69.266
+maxpool_transpose cost time(ms): 0.369
+os time: 1117186
+frame time stamp:785340
+obj num: 0
+cost time: 74.515 ms
+*******************************************************************
+real input size, [img_h, img_w, img_c]: 576, 960, 3
+Using GPU delegate
+wanted_ratio = 1.75, img_ratio = 1.66667, resize_width = 426, resize_height = 256, padding_w = 11, padding_h = 0
+input frame data type is float! 
+interpreter_->Invoke() cost time(ms): 71.588
+maxpool_transpose cost time(ms): 0.388
+os time: 1117445
+frame time stamp:785607
+obj num: 0
+cost time: 74.846 ms
+*******************************************************************
+real input size, [img_h, img_w, img_c]: 576, 960, 3
+Using GPU delegate
+wanted_ratio = 1.75, img_ratio = 1.66667, resize_width = 426, resize_height = 256, padding_w = 11, padding_h = 0
+input frame data type is float! 
+interpreter_->Invoke() cost time(ms): 78.8
+maxpool_transpose cost time(ms): 0.392
+os time: 1117721
+frame time stamp:785874
+obj num: 0
+cost time: 82.693 ms
+*******************************************************************
+real input size, [img_h, img_w, img_c]: 576, 960, 3
+Using GPU delegate
+wanted_ratio = 1.75, img_ratio = 1.66667, resize_width = 426, resize_height = 256, padding_w = 11, padding_h = 0
+input frame data type is float! 
+interpreter_->Invoke() cost time(ms): 84.691
+maxpool_transpose cost time(ms): 0.444
+os time: 1118001
+frame time stamp:786140
+obj num: 0
+cost time: 90.154 ms
+*******************************************************************
+real input size, [img_h, img_w, img_c]: 576, 960, 3
+Using GPU delegate
+wanted_ratio = 1.75, img_ratio = 1.66667, resize_width = 426, resize_height = 256, padding_w = 11, padding_h = 0
+input frame data type is float! 
+interpreter_->Invoke() cost time(ms): 69.979
+maxpool_transpose cost time(ms): 0.428
+os time: 1118256
+frame time stamp:786406
+obj num: 0
+cost time: 73.439 ms
+*******************************************************************
+real input size, [img_h, img_w, img_c]: 576, 960, 3
+Using GPU delegate
+wanted_ratio = 1.75, img_ratio = 1.66667, resize_width = 426, resize_height = 256, padding_w = 11, padding_h = 0
+input frame data type is float! 
+interpreter_->Invoke() cost time(ms): 75.267
+maxpool_transpose cost time(ms): 0.561
+os time: 1118522
+frame time stamp:786674
+obj num: 0
+cost time: 81.246 ms
+*******************************************************************
+real input size, [img_h, img_w, img_c]: 576, 960, 3
+Using GPU delegate
+wanted_ratio = 1.75, img_ratio = 1.66667, resize_width = 426, resize_height = 256, padding_w = 11, padding_h = 0
+input frame data type is float! 
+interpreter_->Invoke() cost time(ms): 71.774
+maxpool_transpose cost time(ms): 0.392
+os time: 1118793
+frame time stamp:786939
+obj num: 0
+cost time: 77.192 ms
+*******************************************************************
+real input size, [img_h, img_w, img_c]: 576, 960, 3
+Using GPU delegate
+wanted_ratio = 1.75, img_ratio = 1.66667, resize_width = 426, resize_height = 256, padding_w = 11, padding_h = 0
+input frame data type is float! 
+interpreter_->Invoke() cost time(ms): 74.617
+maxpool_transpose cost time(ms): 0.434
+os time: 1119059
+frame time stamp:787206
+obj num: 0
+cost time: 79.031 ms
+*******************************************************************
+real input size, [img_h, img_w, img_c]: 576, 960, 3
+Using GPU delegate
+wanted_ratio = 1.75, img_ratio = 1.66667, resize_width = 426, resize_height = 256, padding_w = 11, padding_h = 0
+input frame data type is float! 
+interpreter_->Invoke() cost time(ms): 69.873
+maxpool_transpose cost time(ms): 0.467
+os time: 1119319
+frame time stamp:787474
+obj num: 0
+cost time: 73.381 ms
+*******************************************************************
+real input size, [img_h, img_w, img_c]: 576, 960, 3
+Using GPU delegate
+wanted_ratio = 1.75, img_ratio = 1.66667, resize_width = 426, resize_height = 256, padding_w = 11, padding_h = 0
+input frame data type is float! 
+interpreter_->Invoke() cost time(ms): 67.176
+maxpool_transpose cost time(ms): 0.381
+os time: 1119585
+frame time stamp:787739
+obj num: 0
+cost time: 71.193 ms
+*******************************************************************
+real input size, [img_h, img_w, img_c]: 576, 960, 3
+Using GPU delegate
+wanted_ratio = 1.75, img_ratio = 1.66667, resize_width = 426, resize_height = 256, padding_w = 11, padding_h = 0
+input frame data type is float! 
+interpreter_->Invoke() cost time(ms): 74.936
+maxpool_transpose cost time(ms): 0.376
+os time: 1119864
+frame time stamp:788005
+obj num: 0
+cost time: 83.609 ms
+*******************************************************************
+real input size, [img_h, img_w, img_c]: 576, 960, 3
+Using GPU delegate
+wanted_ratio = 1.75, img_ratio = 1.66667, resize_width = 426, resize_height = 256, padding_w = 11, padding_h = 0
+input frame data type is float! 
+interpreter_->Invoke() cost time(ms): 67.201
+maxpool_transpose cost time(ms): 0.436
+os time: 1120111
+frame time stamp:788273
+obj num: 0
+cost time: 71.809 ms
+*******************************************************************
+real input size, [img_h, img_w, img_c]: 576, 960, 3
+Using GPU delegate
+wanted_ratio = 1.75, img_ratio = 1.66667, resize_width = 426, resize_height = 256, padding_w = 11, padding_h = 0
+input frame data type is float! 
+interpreter_->Invoke() cost time(ms): 70.95
+maxpool_transpose cost time(ms): 0.39
+os time: 1120376
+frame time stamp:788539
+obj num: 0
+cost time: 75.948 ms
+*******************************************************************
+real input size, [img_h, img_w, img_c]: 576, 960, 3
+Using GPU delegate
+wanted_ratio = 1.75, img_ratio = 1.66667, resize_width = 426, resize_height = 256, padding_w = 11, padding_h = 0
+input frame data type is float! 
+interpreter_->Invoke() cost time(ms): 66.559
+maxpool_transpose cost time(ms): 0.377
+os time: 1120647
+frame time stamp:788805
+obj num: 0
+cost time: 70.896 ms
+*******************************************************************
+real input size, [img_h, img_w, img_c]: 576, 960, 3
+Using GPU delegate
+wanted_ratio = 1.75, img_ratio = 1.66667, resize_width = 426, resize_height = 256, padding_w = 11, padding_h = 0
+input frame data type is float! 
+interpreter_->Invoke() cost time(ms): 67.295
+maxpool_transpose cost time(ms): 0.398
+os time: 1120926
+frame time stamp:789073
+obj num: 0
+cost time: 71.778 ms
+*******************************************************************
+real input size, [img_h, img_w, img_c]: 576, 960, 3
+Using GPU delegate
+wanted_ratio = 1.75, img_ratio = 1.66667, resize_width = 426, resize_height = 256, padding_w = 11, padding_h = 0
+input frame data type is float! 
+interpreter_->Invoke() cost time(ms): 89.267
+maxpool_transpose cost time(ms): 0.379
+os time: 1121186
+frame time stamp:789338
+obj num: 0
+cost time: 95.989 ms
+*******************************************************************
+real input size, [img_h, img_w, img_c]: 576, 960, 3
+Using GPU delegate
+wanted_ratio = 1.75, img_ratio = 1.66667, resize_width = 426, resize_height = 256, padding_w = 11, padding_h = 0
+input frame data type is float! 
+interpreter_->Invoke() cost time(ms): 75.205
+maxpool_transpose cost time(ms): 0.496
+os time: 1121451
+frame time stamp:789604
+obj num: 0
+cost time: 81.343 ms
+*******************************************************************
+real input size, [img_h, img_w, img_c]: 576, 960, 3
+Using GPU delegate
+wanted_ratio = 1.75, img_ratio = 1.66667, resize_width = 426, resize_height = 256, padding_w = 11, padding_h = 0
+input frame data type is float! 
+interpreter_->Invoke() cost time(ms): 72.476
+maxpool_transpose cost time(ms): 0.441
+os time: 1121728
+frame time stamp:789872
+obj num: 0
+cost time: 82.672 ms
+*******************************************************************
+real input size, [img_h, img_w, img_c]: 576, 960, 3
+Using GPU delegate
+wanted_ratio = 1.75, img_ratio = 1.66667, resize_width = 426, resize_height = 256, padding_w = 11, padding_h = 0
+input frame data type is float! 
+interpreter_->Invoke() cost time(ms): 69.059
+maxpool_transpose cost time(ms): 0.376
+os time: 1121984
+frame time stamp:790137
+obj num: 0
+cost time: 72.991 ms
+*******************************************************************
+real input size, [img_h, img_w, img_c]: 576, 960, 3
+Using GPU delegate
+wanted_ratio = 1.75, img_ratio = 1.66667, resize_width = 426, resize_height = 256, padding_w = 11, padding_h = 0
+input frame data type is float! 
+interpreter_->Invoke() cost time(ms): 68.536
+maxpool_transpose cost time(ms): 0.431
+os time: 1122252
+frame time stamp:790404
+obj num: 0
+cost time: 73.97 ms
+*******************************************************************
+real input size, [img_h, img_w, img_c]: 576, 960, 3
+Using GPU delegate
+wanted_ratio = 1.75, img_ratio = 1.66667, resize_width = 426, resize_height = 256, padding_w = 11, padding_h = 0
+input frame data type is float! 
+interpreter_->Invoke() cost time(ms): 66.338
+maxpool_transpose cost time(ms): 0.444
+os time: 1122507
+frame time stamp:790672
+obj num: 0
+cost time: 70.432 ms
+*******************************************************************
+real input size, [img_h, img_w, img_c]: 576, 960, 3
+Using GPU delegate
+wanted_ratio = 1.75, img_ratio = 1.66667, resize_width = 426, resize_height = 256, padding_w = 11, padding_h = 0
+input frame data type is float! 
+interpreter_->Invoke() cost time(ms): 68.012
+maxpool_transpose cost time(ms): 0.405
+os time: 1122778
+frame time stamp:790937
+obj num: 0
+cost time: 72.286 ms
+*******************************************************************
+real input size, [img_h, img_w, img_c]: 576, 960, 3
+Using GPU delegate
+wanted_ratio = 1.75, img_ratio = 1.66667, resize_width = 426, resize_height = 256, padding_w = 11, padding_h = 0
+input frame data type is float! 
+interpreter_->Invoke() cost time(ms): 72.652
+maxpool_transpose cost time(ms): 0.436
+os time: 1123075
+frame time stamp:791204
+obj num: 0
+cost time: 78.246 ms
+*******************************************************************
+real input size, [img_h, img_w, img_c]: 576, 960, 3
+Using GPU delegate
+wanted_ratio = 1.75, img_ratio = 1.66667, resize_width = 426, resize_height = 256, padding_w = 11, padding_h = 0
+input frame data type is float! 
+interpreter_->Invoke() cost time(ms): 77.183
+maxpool_transpose cost time(ms): 0.466
+os time: 1123323
+frame time stamp:791471
+obj num: 0
+cost time: 81.271 ms
+*******************************************************************
+real input size, [img_h, img_w, img_c]: 576, 960, 3
+Using GPU delegate
+wanted_ratio = 1.75, img_ratio = 1.66667, resize_width = 426, resize_height = 256, padding_w = 11, padding_h = 0
+input frame data type is float! 
+interpreter_->Invoke() cost time(ms): 72.802
+maxpool_transpose cost time(ms): 0.472
+os time: 1123586
+frame time stamp:791737
+obj num: 0
+cost time: 76.82 ms
+*******************************************************************
+real input size, [img_h, img_w, img_c]: 576, 960, 3
+Using GPU delegate
+wanted_ratio = 1.75, img_ratio = 1.66667, resize_width = 426, resize_height = 256, padding_w = 11, padding_h = 0
+input frame data type is float! 
+interpreter_->Invoke() cost time(ms): 80.735
+maxpool_transpose cost time(ms): 0.627
+os time: 1123870
+frame time stamp:792003
+obj num: 0
+cost time: 93.375 ms
+*******************************************************************
+real input size, [img_h, img_w, img_c]: 576, 960, 3
+Using GPU delegate
+wanted_ratio = 1.75, img_ratio = 1.66667, resize_width = 426, resize_height = 256, padding_w = 11, padding_h = 0
+input frame data type is float! 
+interpreter_->Invoke() cost time(ms): 73.689
+maxpool_transpose cost time(ms): 0.458
+os time: 1124125
+frame time stamp:792271
+obj num: 0
+cost time: 79.621 ms
+*******************************************************************
+real input size, [img_h, img_w, img_c]: 576, 960, 3
+Using GPU delegate
+wanted_ratio = 1.75, img_ratio = 1.66667, resize_width = 426, resize_height = 256, padding_w = 11, padding_h = 0
+input frame data type is float! 
+interpreter_->Invoke() cost time(ms): 66.456
+maxpool_transpose cost time(ms): 0.39
+os time: 1124388
+frame time stamp:792536
+obj num: 0
+cost time: 70.463 ms
+*******************************************************************
+real input size, [img_h, img_w, img_c]: 576, 960, 3
+Using GPU delegate
+wanted_ratio = 1.75, img_ratio = 1.66667, resize_width = 426, resize_height = 256, padding_w = 11, padding_h = 0
+input frame data type is float! 
+interpreter_->Invoke() cost time(ms): 74.944
+maxpool_transpose cost time(ms): 0.395
+os time: 1124657
+frame time stamp:792803
+obj num: 0
+cost time: 81.742 ms
+*******************************************************************
+real input size, [img_h, img_w, img_c]: 576, 960, 3
+Using GPU delegate
+wanted_ratio = 1.75, img_ratio = 1.66667, resize_width = 426, resize_height = 256, padding_w = 11, padding_h = 0
+input frame data type is float! 
+interpreter_->Invoke() cost time(ms): 72.263
+maxpool_transpose cost time(ms): 0.538
+os time: 1124923
+frame time stamp:793071
+obj num: 0
+cost time: 76.005 ms
+*******************************************************************
+real input size, [img_h, img_w, img_c]: 576, 960, 3
+Using GPU delegate
+wanted_ratio = 1.75, img_ratio = 1.66667, resize_width = 426, resize_height = 256, padding_w = 11, padding_h = 0
+input frame data type is float! 
+interpreter_->Invoke() cost time(ms): 87.73
+maxpool_transpose cost time(ms): 0.915
+os time: 1125184
+frame time stamp:793336
+obj num: 0
+cost time: 93.324 ms
+*******************************************************************
+real input size, [img_h, img_w, img_c]: 576, 960, 3
+Using GPU delegate
+wanted_ratio = 1.75, img_ratio = 1.66667, resize_width = 426, resize_height = 256, padding_w = 11, padding_h = 0
+input frame data type is float! 
+interpreter_->Invoke() cost time(ms): 72.05
+maxpool_transpose cost time(ms): 0.404
+os time: 1125444
+frame time stamp:793602
+obj num: 0
+cost time: 76.16 ms
+*******************************************************************
+real input size, [img_h, img_w, img_c]: 576, 960, 3
+Using GPU delegate
+wanted_ratio = 1.75, img_ratio = 1.66667, resize_width = 426, resize_height = 256, padding_w = 11, padding_h = 0
+input frame data type is float! 
+interpreter_->Invoke() cost time(ms): 97.68
+maxpool_transpose cost time(ms): 0.44
+os time: 1125745
+frame time stamp:793870
+obj num: 0
+cost time: 106.585 ms
+*******************************************************************
+real input size, [img_h, img_w, img_c]: 576, 960, 3
+Using GPU delegate
+wanted_ratio = 1.75, img_ratio = 1.66667, resize_width = 426, resize_height = 256, padding_w = 11, padding_h = 0
+input frame data type is float! 
+interpreter_->Invoke() cost time(ms): 74.321
+maxpool_transpose cost time(ms): 0.378
+os time: 1126015
+frame time stamp:794170
+obj num: 0
+cost time: 80.943 ms
+*******************************************************************
+real input size, [img_h, img_w, img_c]: 576, 960, 3
+Using GPU delegate
+wanted_ratio = 1.75, img_ratio = 1.66667, resize_width = 426, resize_height = 256, padding_w = 11, padding_h = 0
+input frame data type is float! 
+interpreter_->Invoke() cost time(ms): 75.692
+maxpool_transpose cost time(ms): 0.39
+os time: 1126278
+frame time stamp:794435
+obj num: 0
+cost time: 81.128 ms
+*******************************************************************
+real input size, [img_h, img_w, img_c]: 576, 960, 3
+Using GPU delegate
+wanted_ratio = 1.75, img_ratio = 1.66667, resize_width = 426, resize_height = 256, padding_w = 11, padding_h = 0
+input frame data type is float! 
+interpreter_->Invoke() cost time(ms): 80.181
+maxpool_transpose cost time(ms): 0.423
+os time: 1126564
+frame time stamp:794701
+obj num: 0
+cost time: 87.689 ms
+*******************************************************************
+real input size, [img_h, img_w, img_c]: 576, 960, 3
+Using GPU delegate
+wanted_ratio = 1.75, img_ratio = 1.66667, resize_width = 426, resize_height = 256, padding_w = 11, padding_h = 0
+input frame data type is float! 
+interpreter_->Invoke() cost time(ms): 71.692
+maxpool_transpose cost time(ms): 0.627
+os time: 1126814
+frame time stamp:794970
+obj num: 0
+cost time: 76.933 ms
+*******************************************************************
+real input size, [img_h, img_w, img_c]: 576, 960, 3
+Using GPU delegate
+wanted_ratio = 1.75, img_ratio = 1.66667, resize_width = 426, resize_height = 256, padding_w = 11, padding_h = 0
+input frame data type is float! 
+interpreter_->Invoke() cost time(ms): 74.378
+maxpool_transpose cost time(ms): 0.442
+os time: 1127076
+frame time stamp:795201
+obj num: 0
+cost time: 85.282 ms
+*******************************************************************
+real input size, [img_h, img_w, img_c]: 576, 960, 3
+Using GPU delegate
+wanted_ratio = 1.75, img_ratio = 1.66667, resize_width = 426, resize_height = 256, padding_w = 11, padding_h = 0
+input frame data type is float! 
+interpreter_->Invoke() cost time(ms): 80.213
+maxpool_transpose cost time(ms): 0.461
+os time: 1127371
+frame time stamp:795501
+obj num: 0
+cost time: 87.294 ms
+*******************************************************************
+real input size, [img_h, img_w, img_c]: 576, 960, 3
+Using GPU delegate
+wanted_ratio = 1.75, img_ratio = 1.66667, resize_width = 426, resize_height = 256, padding_w = 11, padding_h = 0
+input frame data type is float! 
+interpreter_->Invoke() cost time(ms): 69.038
+maxpool_transpose cost time(ms): 0.472
+os time: 1127617
+frame time stamp:795769
+obj num: 0
+cost time: 72.355 ms
+*******************************************************************
+real input size, [img_h, img_w, img_c]: 576, 960, 3
+Using GPU delegate
+wanted_ratio = 1.75, img_ratio = 1.66667, resize_width = 426, resize_height = 256, padding_w = 11, padding_h = 0
+input frame data type is float! 
+interpreter_->Invoke() cost time(ms): 70.111
+maxpool_transpose cost time(ms): 0.395
+os time: 1127873
+frame time stamp:796034
+obj num: 0
+cost time: 74.269 ms
+*******************************************************************
+real input size, [img_h, img_w, img_c]: 576, 960, 3
+Using GPU delegate
+wanted_ratio = 1.75, img_ratio = 1.66667, resize_width = 426, resize_height = 256, padding_w = 11, padding_h = 0
+input frame data type is float! 
+interpreter_->Invoke() cost time(ms): 67.83
+maxpool_transpose cost time(ms): 1.233
+os time: 1128151
+frame time stamp:796301
+obj num: 0
+cost time: 72.868 ms
+*******************************************************************
+real input size, [img_h, img_w, img_c]: 576, 960, 3
+Using GPU delegate
+wanted_ratio = 1.75, img_ratio = 1.66667, resize_width = 426, resize_height = 256, padding_w = 11, padding_h = 0
+input frame data type is float! 
+interpreter_->Invoke() cost time(ms): 76.079
+maxpool_transpose cost time(ms): 0.402
+os time: 1128417
+frame time stamp:796569
+obj num: 0
+cost time: 81.846 ms
+*******************************************************************
+real input size, [img_h, img_w, img_c]: 576, 960, 3
+Using GPU delegate
+wanted_ratio = 1.75, img_ratio = 1.66667, resize_width = 426, resize_height = 256, padding_w = 11, padding_h = 0
+input frame data type is float! 
+interpreter_->Invoke() cost time(ms): 86.347
+maxpool_transpose cost time(ms): 0.397
+os time: 1128682
+frame time stamp:796834
+obj num: 0
+cost time: 100.68 ms
+*******************************************************************
+real input size, [img_h, img_w, img_c]: 576, 960, 3
+Using GPU delegate
+wanted_ratio = 1.75, img_ratio = 1.66667, resize_width = 426, resize_height = 256, padding_w = 11, padding_h = 0
+input frame data type is float! 
+interpreter_->Invoke() cost time(ms): 85.499
+maxpool_transpose cost time(ms): 0.377
+os time: 1128930
+frame time stamp:797068
+obj num: 0
+cost time: 91.429 ms
+*******************************************************************
+real input size, [img_h, img_w, img_c]: 576, 960, 3
+Using GPU delegate
+wanted_ratio = 1.75, img_ratio = 1.66667, resize_width = 426, resize_height = 256, padding_w = 11, padding_h = 0
+input frame data type is float! 
+interpreter_->Invoke() cost time(ms): 67.504
+maxpool_transpose cost time(ms): 0.39
+os time: 1129211
+frame time stamp:797368
+obj num: 0
+cost time: 71.402 ms
+*******************************************************************
+real input size, [img_h, img_w, img_c]: 576, 960, 3
+Using GPU delegate
+wanted_ratio = 1.75, img_ratio = 1.66667, resize_width = 426, resize_height = 256, padding_w = 11, padding_h = 0
+input frame data type is float! 
+interpreter_->Invoke() cost time(ms): 79.244
+maxpool_transpose cost time(ms): 1.353
+os time: 1129477
+frame time stamp:797633
+obj num: 0
+cost time: 85.34 ms
+*******************************************************************
+real input size, [img_h, img_w, img_c]: 576, 960, 3
+Using GPU delegate
+wanted_ratio = 1.75, img_ratio = 1.66667, resize_width = 426, resize_height = 256, padding_w = 11, padding_h = 0
+input frame data type is float! 
+interpreter_->Invoke() cost time(ms): 68.21
+maxpool_transpose cost time(ms): 0.473
+os time: 1129742
+frame time stamp:797900
+obj num: 0
+cost time: 73.712 ms
+*******************************************************************
+real input size, [img_h, img_w, img_c]: 576, 960, 3
+Using GPU delegate
+wanted_ratio = 1.75, img_ratio = 1.66667, resize_width = 426, resize_height = 256, padding_w = 11, padding_h = 0
+input frame data type is float! 
+interpreter_->Invoke() cost time(ms): 73.825
+maxpool_transpose cost time(ms): 0.429
+os time: 1130008
+frame time stamp:798168
+obj num: 0
+cost time: 77.978 ms
+*******************************************************************
+real input size, [img_h, img_w, img_c]: 576, 960, 3
+Using GPU delegate
+wanted_ratio = 1.75, img_ratio = 1.66667, resize_width = 426, resize_height = 256, padding_w = 11, padding_h = 0
+input frame data type is float! 
+interpreter_->Invoke() cost time(ms): 70.199
+maxpool_transpose cost time(ms): 0.436
+os time: 1130282
+frame time stamp:798432
+obj num: 0
+cost time: 75.287 ms
+*******************************************************************
+real input size, [img_h, img_w, img_c]: 576, 960, 3
+Using GPU delegate
+wanted_ratio = 1.75, img_ratio = 1.66667, resize_width = 426, resize_height = 256, padding_w = 11, padding_h = 0
+input frame data type is float! 
+interpreter_->Invoke() cost time(ms): 72.372
+maxpool_transpose cost time(ms): 0.461
+os time: 1130557
+frame time stamp:798700
+obj num: 0
+cost time: 77.015 ms
+*******************************************************************
+real input size, [img_h, img_w, img_c]: 576, 960, 3
+Using GPU delegate
+wanted_ratio = 1.75, img_ratio = 1.66667, resize_width = 426, resize_height = 256, padding_w = 11, padding_h = 0
+input frame data type is float! 
+interpreter_->Invoke() cost time(ms): 80.067
+maxpool_transpose cost time(ms): 4.689
+os time: 1130811
+frame time stamp:798968
+obj num: 0
+cost time: 88.891 ms
+*******************************************************************
+real input size, [img_h, img_w, img_c]: 576, 960, 3
+Using GPU delegate
+wanted_ratio = 1.75, img_ratio = 1.66667, resize_width = 426, resize_height = 256, padding_w = 11, padding_h = 0
+input frame data type is float! 
+interpreter_->Invoke() cost time(ms): 72.788
+maxpool_transpose cost time(ms): 0.42
+os time: 1130920
+frame time stamp:297483647
+obj num: 0
+cost time: 79.347 ms
+*******************************************************************
+real input size, [img_h, img_w, img_c]: 576, 960, 3
+Using GPU delegate
+wanted_ratio = 1.75, img_ratio = 1.66667, resize_width = 426, resize_height = 256, padding_w = 11, padding_h = 0
+input frame data type is float! 
+interpreter_->Invoke() cost time(ms): 70.576
+maxpool_transpose cost time(ms): 0.393
+os time: 1188128
+frame time stamp:856350
+obj num: 0
+cost time: 78.022 ms
+*******************************************************************
+real input size, [img_h, img_w, img_c]: 576, 960, 3
+Using GPU delegate
+wanted_ratio = 1.75, img_ratio = 1.66667, resize_width = 426, resize_height = 256, padding_w = 11, padding_h = 0
+input frame data type is float! 
+interpreter_->Invoke() cost time(ms): 69.694
+maxpool_transpose cost time(ms): 0.382
+os time: 1188405
+frame time stamp:856617
+obj num: 0
+cost time: 74.466 ms
+*******************************************************************
+real input size, [img_h, img_w, img_c]: 576, 960, 3
+Using GPU delegate
+wanted_ratio = 1.75, img_ratio = 1.66667, resize_width = 426, resize_height = 256, padding_w = 11, padding_h = 0
+input frame data type is float! 
+interpreter_->Invoke() cost time(ms): 66.897
+maxpool_transpose cost time(ms): 0.379
+os time: 1188667
+frame time stamp:856850
+obj num: 0
+cost time: 71.244 ms
+*******************************************************************
+real input size, [img_h, img_w, img_c]: 576, 960, 3
+Using GPU delegate
+wanted_ratio = 1.75, img_ratio = 1.66667, resize_width = 426, resize_height = 256, padding_w = 11, padding_h = 0
+input frame data type is float! 
+interpreter_->Invoke() cost time(ms): 67.123
+maxpool_transpose cost time(ms): 0.389
+os time: 1188928
+frame time stamp:857116
+obj num: 0
+cost time: 70.666 ms
+*******************************************************************
+real input size, [img_h, img_w, img_c]: 576, 960, 3
+Using GPU delegate
+wanted_ratio = 1.75, img_ratio = 1.66667, resize_width = 426, resize_height = 256, padding_w = 11, padding_h = 0
+input frame data type is float! 
+interpreter_->Invoke() cost time(ms): 68.684
+maxpool_transpose cost time(ms): 0.412
+os time: 1189196
+frame time stamp:857383
+obj num: 0
+cost time: 73.173 ms
+*******************************************************************
+real input size, [img_h, img_w, img_c]: 576, 960, 3
+Using GPU delegate
+wanted_ratio = 1.75, img_ratio = 1.66667, resize_width = 426, resize_height = 256, padding_w = 11, padding_h = 0
+input frame data type is float! 
+interpreter_->Invoke() cost time(ms): 78.533
+maxpool_transpose cost time(ms): 0.412
+os time: 1189467
+frame time stamp:857650
+obj num: 0
+cost time: 85.069 ms
+*******************************************************************
+real input size, [img_h, img_w, img_c]: 576, 960, 3
+Using GPU delegate
+wanted_ratio = 1.75, img_ratio = 1.66667, resize_width = 426, resize_height = 256, padding_w = 11, padding_h = 0
+input frame data type is float! 
+interpreter_->Invoke() cost time(ms): 69.613
+maxpool_transpose cost time(ms): 0.446
+os time: 1189727
+frame time stamp:857916
+obj num: 0
+cost time: 74.027 ms
+*******************************************************************
+real input size, [img_h, img_w, img_c]: 576, 960, 3
+Using GPU delegate
+wanted_ratio = 1.75, img_ratio = 1.66667, resize_width = 426, resize_height = 256, padding_w = 11, padding_h = 0
+input frame data type is float! 
+interpreter_->Invoke() cost time(ms): 77.226
+maxpool_transpose cost time(ms): 0.431
+os time: 1189999
+frame time stamp:858149
+obj num: 0
+cost time: 82.418 ms
+*******************************************************************
+real input size, [img_h, img_w, img_c]: 576, 960, 3
+Using GPU delegate
+wanted_ratio = 1.75, img_ratio = 1.66667, resize_width = 426, resize_height = 256, padding_w = 11, padding_h = 0
+input frame data type is float! 
+interpreter_->Invoke() cost time(ms): 73.542
+maxpool_transpose cost time(ms): 0.458
+os time: 1190266
+frame time stamp:858416
+obj num: 0
+cost time: 77.554 ms
+*******************************************************************
+real input size, [img_h, img_w, img_c]: 576, 960, 3
+Using GPU delegate
+wanted_ratio = 1.75, img_ratio = 1.66667, resize_width = 426, resize_height = 256, padding_w = 11, padding_h = 0
+input frame data type is float! 
+interpreter_->Invoke() cost time(ms): 69.318
+maxpool_transpose cost time(ms): 0.419
+os time: 1190531
+frame time stamp:858682
+obj num: 0
+cost time: 73.53 ms
+*******************************************************************
+real input size, [img_h, img_w, img_c]: 576, 960, 3
+Using GPU delegate
+wanted_ratio = 1.75, img_ratio = 1.66667, resize_width = 426, resize_height = 256, padding_w = 11, padding_h = 0
+input frame data type is float! 
+interpreter_->Invoke() cost time(ms): 67.643
+maxpool_transpose cost time(ms): 0.474
+os time: 1190790
+frame time stamp:858949
+obj num: 0
+cost time: 73.478 ms
+*******************************************************************
+real input size, [img_h, img_w, img_c]: 576, 960, 3
+Using GPU delegate
+wanted_ratio = 1.75, img_ratio = 1.66667, resize_width = 426, resize_height = 256, padding_w = 11, padding_h = 0
+input frame data type is float! 
+interpreter_->Invoke() cost time(ms): 74.231
+maxpool_transpose cost time(ms): 0.422
+os time: 1191066
+frame time stamp:859215
+obj num: 0
+cost time: 80.638 ms
+*******************************************************************
+real input size, [img_h, img_w, img_c]: 576, 960, 3
+Using GPU delegate
+wanted_ratio = 1.75, img_ratio = 1.66667, resize_width = 426, resize_height = 256, padding_w = 11, padding_h = 0
+input frame data type is float! 
+interpreter_->Invoke() cost time(ms): 80.561
+maxpool_transpose cost time(ms): 0.421
+os time: 1191326
+frame time stamp:859482
+obj num: 0
+cost time: 89.804 ms
+*******************************************************************
+real input size, [img_h, img_w, img_c]: 576, 960, 3
+Using GPU delegate
+wanted_ratio = 1.75, img_ratio = 1.66667, resize_width = 426, resize_height = 256, padding_w = 11, padding_h = 0
+input frame data type is float! 
+interpreter_->Invoke() cost time(ms): 74.794
+maxpool_transpose cost time(ms): 0.399
+os time: 1191600
+frame time stamp:859748
+obj num: 0
+cost time: 79.929 ms
+*******************************************************************
+real input size, [img_h, img_w, img_c]: 576, 960, 3
+Using GPU delegate
+wanted_ratio = 1.75, img_ratio = 1.66667, resize_width = 426, resize_height = 256, padding_w = 11, padding_h = 0
+input frame data type is float! 
+interpreter_->Invoke() cost time(ms): 81.644
+maxpool_transpose cost time(ms): 0.443
+os time: 1191854
+frame time stamp:860015
+obj num: 0
+cost time: 88.403 ms
+*******************************************************************
+real input size, [img_h, img_w, img_c]: 576, 960, 3
+Using GPU delegate
+wanted_ratio = 1.75, img_ratio = 1.66667, resize_width = 426, resize_height = 256, padding_w = 11, padding_h = 0
+input frame data type is float! 
+interpreter_->Invoke() cost time(ms): 67.861
+maxpool_transpose cost time(ms): 0.404
+os time: 1192139
+frame time stamp:860281
+obj num: 0
+cost time: 72.261 ms
+*******************************************************************
+real input size, [img_h, img_w, img_c]: 576, 960, 3
+Using GPU delegate
+wanted_ratio = 1.75, img_ratio = 1.66667, resize_width = 426, resize_height = 256, padding_w = 11, padding_h = 0
+input frame data type is float! 
+interpreter_->Invoke() cost time(ms): 67.29
+maxpool_transpose cost time(ms): 0.402
+os time: 1192393
+frame time stamp:860547
+obj num: 0
+cost time: 72.388 ms
+*******************************************************************
+real input size, [img_h, img_w, img_c]: 576, 960, 3
+Using GPU delegate
+wanted_ratio = 1.75, img_ratio = 1.66667, resize_width = 426, resize_height = 256, padding_w = 11, padding_h = 0
+input frame data type is float! 
+interpreter_->Invoke() cost time(ms): 73.992
+maxpool_transpose cost time(ms): 0.482
+os time: 1192655
+frame time stamp:860815
+obj num: 0
+cost time: 78.003 ms
+*******************************************************************
+real input size, [img_h, img_w, img_c]: 576, 960, 3
+Using GPU delegate
+wanted_ratio = 1.75, img_ratio = 1.66667, resize_width = 426, resize_height = 256, padding_w = 11, padding_h = 0
+input frame data type is float! 
+interpreter_->Invoke() cost time(ms): 84.166
+maxpool_transpose cost time(ms): 0.446
+os time: 1192912
+frame time stamp:861047
+obj num: 0
+cost time: 91.554 ms
+*******************************************************************
+real input size, [img_h, img_w, img_c]: 576, 960, 3
+Using GPU delegate
+wanted_ratio = 1.75, img_ratio = 1.66667, resize_width = 426, resize_height = 256, padding_w = 11, padding_h = 0
+input frame data type is float! 
+interpreter_->Invoke() cost time(ms): 87.883
+maxpool_transpose cost time(ms): 0.721
+os time: 1193167
+frame time stamp:861314
+obj num: 0
+cost time: 94.335 ms
+*******************************************************************
+real input size, [img_h, img_w, img_c]: 576, 960, 3
+Using GPU delegate
+wanted_ratio = 1.75, img_ratio = 1.66667, resize_width = 426, resize_height = 256, padding_w = 11, padding_h = 0
+input frame data type is float! 
+interpreter_->Invoke() cost time(ms): 69.83
+maxpool_transpose cost time(ms): 0.393
+os time: 1193425
+frame time stamp:861581
+obj num: 0
+decrypt_file cost time(ms): 475.412
+###################################################################
+Loaded model_ /data/user/0/dji.go.v5/files/qs/mobilenetv3_small_1114_no_pool_no_permutet_personap_417_hengpai.model success!
+detector init succeeded!
+TFLITE_GPU_DELEGATE: params_.allow_fp16 = 1
+serialization_dir = /data/user/0/dji.go.v5/files/qs/
+GPU acceleration is used.
+Applied GPU delegate.init cost time(ms): 2420.81
+new buffer: hm_data_, hm_pool_data_, wh_data_, offset_data_, maxpool_data_
+delegates size: 1
+interpreter not NULL: 1
+wanted input size, [img_h, img_w, img_c]: 256, 448, 3
+output size: 3
+decrypt_file cost time(ms): 467.821
+###################################################################
+Loaded model_ /data/user/0/dji.go.v5/files/qs/mobilenetv3_small_1114_no_pool_no_permutet_personap_417_hengpai.model success!
+detector init succeeded!
+TFLITE_GPU_DELEGATE: params_.allow_fp16 = 1
+serialization_dir = /data/user/0/dji.go.v5/files/qs/
+GPU acceleration is used.
+Applied GPU delegate.init cost time(ms): 1841.76
+new buffer: hm_data_, hm_pool_data_, wh_data_, offset_data_, maxpool_data_
+delegates size: 1
+interpreter not NULL: 1
+wanted input size, [img_h, img_w, img_c]: 256, 448, 3
+output size: 3
