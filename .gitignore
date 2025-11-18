@@ -1,0 +1,36 @@
+# Personal flight data - contains GPS coordinates and personal information
+Android/data/dji.go.v5/files/FlightRecord/
+Android/data/dji.go.v5/files/GNSS_LOG/
+Android/data/dji.go.v5/files/HmsRecord/
+
+# Logs - may contain sensitive debugging information
+Android/data/dji.go.v5/files/LOG/
+Android/data/dji.go.v5/cache/log/
+DJI/dji.go.v5/Cache/
+
+# Large media files
+DJI/dji.go.v5/DJI FLY/Video/
+DJI/dji.go.v5/DJI FLY/Photo/
+DJI/dji.go.v5/DJI FLY/Intelligent/
+DCIM/
+
+# Cache and temporary files
+Android/data/dji.go.v5/cache/
+*.cache
+*.tmp
+
+# System files
+desktop.ini
+.DS_Store
+Thumbs.db
+.nomedia
+
+# Personal keys
+*.pub
+Adb_keys
+adbkey.pub
+
+# Potentially sensitive
+*.db
+*.sqlite
+*.db-journal
