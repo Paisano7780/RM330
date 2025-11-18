@@ -1,5 +1,7 @@
 # DJI RM330 Remote Controller - Research Repository
 
+[![Frida Test Environment](https://github.com/Paisano7780/RM330/actions/workflows/frida-test.yml/badge.svg)](https://github.com/Paisano7780/RM330/actions/workflows/frida-test.yml)
+
 This repository contains data from a DJI RM330 remote controller used with a DJI Mini 3 (Non-Pro) drone, along with comprehensive security analysis and research documentation.
 
 ## ⚠️ IMPORTANT DISCLAIMER
@@ -238,6 +240,27 @@ Feel free to open an issue or submit a pull request.
 
 ---
 
+## Frida Scripts
+
+This repository now includes ready-to-use Frida scripts for runtime analysis:
+
+📁 **[frida-scripts/](frida-scripts/)** - Dynamic instrumentation tools
+- `frida_hook.py` - Python-based feature unlock hooks
+- `advanced_hook.js` - Class discovery and enumeration
+- `feature_enum.js` - Feature detection logging
+
+See [frida-scripts/README.md](frida-scripts/README.md) for usage instructions.
+
+### Quick Start with Frida
+
+1. Install dependencies: `pip install -r requirements.txt`
+2. Set up Frida server on rooted RM330
+3. Run: `python frida-scripts/frida_hook.py`
+
+⚠️ Requires rooted device. See [PRACTICAL_GUIDE.md](PRACTICAL_GUIDE.md) Phase 5 for details.
+
+---
+
 ## Roadmap
 
 Future research directions:
@@ -245,7 +268,7 @@ Future research directions:
 - [ ] APK extraction and decompilation
 - [ ] Feature flag enumeration
 - [ ] Network protocol analysis
-- [ ] Frida hook development
+- [x] Frida hook development ✅
 - [ ] Model detection bypass research
 - [ ] Database schema documentation
 - [ ] Community tool development

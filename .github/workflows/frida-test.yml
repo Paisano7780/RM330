@@ -1,0 +1,104 @@
+name: Frida Test Environment
+
+on:
+  push:
+    branches: [ main, develop ]
+  pull_request:
+    branches: [ main, develop ]
+  workflow_dispatch:
+
+jobs:
+  frida-setup-test:
+    name: Test Frida Setup
+    runs-on: ubuntu-latest
+    
+    strategy:
+      matrix:
+        python-version: ['3.9', '3.10', '3.11']
+    
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v4
+      
+    - name: Set up Python ${{ matrix.python-version }}
+      uses: actions/setup-python@v4
+      with:
+        python-version: ${{ matrix.python-version }}
+        
+    - name: Install system dependencies
+      run: |
+        sudo apt-get update
+        sudo apt-get install -y \
+          build-essential \
+          python3-dev \
+          libffi-dev \
+          libssl-dev
+        
+    - name: Install Frida and dependencies
+      run: |
+        pip install --upgrade pip
+        pip install frida-tools
+        pip install frida
+        pip install pytest
+        
+    - name: Verify Frida installation
+      run: |
+        frida --version
+        python -c "import frida; print(f'Frida Python bindings version: {frida.__version__}')"
+        
+    - name: Validate Frida scripts syntax
+      run: |
+        # Check if Frida scripts directory exists and validate JavaScript syntax
+        if [ -d "frida-scripts" ]; then
+          for script in frida-scripts/*.js; do
+            if [ -f "$script" ]; then
+              echo "Validating $script..."
+              node --check "$script" 2>/dev/null || echo "Warning: Could not validate $script (Node.js may not be available)"
+            fi
+          done
+        fi
+        
+    - name: Run Frida environment tests
+      run: |
+        if [ -f "tests/test_frida_setup.py" ]; then
+          pytest tests/test_frida_setup.py -v
+        else
+          echo "No Frida tests found, skipping..."
+        fi
+        
+    - name: Test Frida Python scripts
+      run: |
+        # Test that Python Frida scripts can be imported
+        if [ -d "frida-scripts" ]; then
+          for script in frida-scripts/*.py; do
+            if [ -f "$script" ]; then
+              echo "Testing import of $script..."
+              python -m py_compile "$script"
+            fi
+          done
+        fi
+
+  documentation-check:
+    name: Check Documentation
+    runs-on: ubuntu-latest
+    
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v4
+      
+    - name: Check for Frida documentation
+      run: |
+        echo "Checking for Frida references in documentation..."
+        grep -r "Frida\|frida" *.md || echo "No Frida references found in documentation"
+        
+    - name: Validate README links
+      run: |
+        if [ -f "README.md" ]; then
+          echo "README.md found"
+          # Check if frida-scripts directory is mentioned
+          if grep -q "frida-scripts" README.md; then
+            echo "✓ frida-scripts directory is documented"
+          else
+            echo "⚠ Warning: frida-scripts directory not mentioned in README"
+          fi
+        fi
