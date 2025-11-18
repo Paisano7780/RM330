@@ -54,6 +54,13 @@ Comprehensive analysis and research guides:
    - Upgrade sequence explanation
    - Attribute reference guide
 
+4. **[FRIDA_WORKFLOW_REVIEW.md](FRIDA_WORKFLOW_REVIEW.md)** - ⭐ Feature unlock solution
+   - Workflow test results review
+   - Auto-limited features analysis
+   - Multi-tiered unlock strategies
+   - Practical implementation guide
+   - Safety and legal considerations
+
 ---
 
 ## Quick Start
@@ -65,6 +72,16 @@ Comprehensive analysis and research guides:
 1. Read [SECURITY_ANALYSIS.md](SECURITY_ANALYSIS.md) for an overview
 2. Review [FIRMWARE_REFERENCE.md](FIRMWARE_REFERENCE.md) for technical details
 3. Follow [PRACTICAL_GUIDE.md](PRACTICAL_GUIDE.md) for hands-on research
+
+### For Feature Unlock
+
+**⭐ Want to unlock auto-limited features?**
+
+1. Read [FRIDA_WORKFLOW_REVIEW.md](FRIDA_WORKFLOW_REVIEW.md) for the complete solution
+2. Review workflow test results and validated approaches
+3. Choose your implementation tier (Runtime Hooks / APK Mod / Xposed)
+4. Follow the step-by-step implementation guide
+5. **Always prioritize safety and legal compliance**
 
 ### For Developers
 
