@@ -1,0 +1,46 @@
+name: Import Files from Google Drive
+
+on:
+  workflow_dispatch:
+    inputs:
+      folder_id:
+        description: 'Google Drive Folder ID to import (copy from folder URL)'
+        required: true
+        type: string
+      target_path:
+        description: 'Target path in repository (e.g., data/ or ./ for root)'
+        required: false
+        default: './'
+        type: string
+
+jobs:
+  import-from-gdrive:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        
+      - name: Interact with Google Drive
+        uses: satackey/action-google-drive@v1.2.1
+        with:
+          skicka-tokencache-json: ${{ secrets.GOOGLE_DRIVE_TOKEN }}
+          google-client-id: ${{ secrets.GOOGLE_CLIENT_ID }}
+          google-client-secret: ${{ secrets.GOOGLE_CLIENT_SECRET }}
+          
+      - name: Download files from Google Drive folder
+        run: |
+          # Download folder using skicka (provided by action-google-drive)
+          skicka download /${{ inputs.folder_id }} ${{ inputs.target_path }}
+          
+      - name: Commit and push changes
+        run: |
+          git config --global user.name "GitHub Actions Bot"
+          git config --global user.email "actions@github.com"
+          git add .
+          if git diff --staged --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "Import files from Google Drive folder ${{ inputs.folder_id }}"
+            git push
+          fi
