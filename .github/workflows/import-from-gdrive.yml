@@ -3,8 +3,8 @@ name: Import Files from Google Drive
 on:
   workflow_dispatch:
     inputs:
-      folder_id:
-        description: 'Google Drive Folder ID to import (copy from folder URL)'
+      folder_path:
+        description: 'Google Drive folder path (e.g., /MyFolder or folder ID)'
         required: true
         type: string
       target_path:
@@ -18,31 +18,50 @@ jobs:
     runs-on: ubuntu-latest
     permissions:
       contents: write
-    
+
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
-        
+
       - name: Interact with Google Drive
         uses: satackey/action-google-drive@v1.2.1
         with:
           skicka-tokencache-json: ${{ secrets.GOOGLE_DRIVE_TOKEN }}
           google-client-id: ${{ secrets.GOOGLE_CLIENT_ID }}
           google-client-secret: ${{ secrets.GOOGLE_CLIENT_SECRET }}
-          
+
       - name: Download files from Google Drive folder
         run: |
+          # Ensure folder path starts with /
+          FOLDER_PATH="${{ inputs.folder_path }}"
+          if [[ ! "$FOLDER_PATH" =~ ^/ ]]; then
+            FOLDER_PATH="/$FOLDER_PATH"
+          fi
+
+          echo "Downloading from Google Drive path: $FOLDER_PATH"
+          echo "Saving to repository path: ${{ inputs.target_path }}"
+
+          # Create target directory if it doesn't exist
+          mkdir -p "${{ inputs.target_path }}"
+
           # Download folder using skicka (provided by action-google-drive)
-          skicka download /${{ inputs.folder_id }} ${{ inputs.target_path }}
-          
+          skicka download "$FOLDER_PATH" "${{ inputs.target_path }}"
+
       - name: Commit and push changes
         run: |
           git config --global user.name "GitHub Actions Bot"
           git config --global user.email "actions@github.com"
+
+          # Show what files were downloaded
+          echo "Files in target directory:"
+          ls -la "${{ inputs.target_path }}"
+
           git add .
           if git diff --staged --quiet; then
-            echo "No changes to commit"
+            echo "No changes to commit - no files were downloaded"
+            echo "Please check that the folder path is correct"
           else
-            git commit -m "Import files from Google Drive folder ${{ inputs.folder_id }}"
+            git commit -m "Import files from Google Drive"
             git push
+            echo "Successfully imported and committed files"
           fi
