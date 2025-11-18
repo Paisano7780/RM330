@@ -23,29 +23,15 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: Interact with Google Drive
+      - name: Download files from Google Drive
         uses: satackey/action-google-drive@v1.2.1
         with:
           skicka-tokencache-json: ${{ secrets.GOOGLE_DRIVE_TOKEN }}
           google-client-id: ${{ secrets.GOOGLE_CLIENT_ID }}
           google-client-secret: ${{ secrets.GOOGLE_CLIENT_SECRET }}
-
-      - name: Download files from Google Drive folder
-        run: |
-          # Ensure folder path starts with /
-          FOLDER_PATH="${{ inputs.folder_path }}"
-          if [[ ! "$FOLDER_PATH" =~ ^/ ]]; then
-            FOLDER_PATH="/$FOLDER_PATH"
-          fi
-
-          echo "Downloading from Google Drive path: $FOLDER_PATH"
-          echo "Saving to repository path: ${{ inputs.target_path }}"
-
-          # Create target directory if it doesn't exist
-          mkdir -p "${{ inputs.target_path }}"
-
-          # Download folder using skicka (provided by action-google-drive)
-          skicka download "$FOLDER_PATH" "${{ inputs.target_path }}"
+          download-from: ${{ inputs.folder_path }}
+          download-to: ${{ inputs.target_path }}
+          remove-outdated: true
 
       - name: Commit and push changes
         run: |

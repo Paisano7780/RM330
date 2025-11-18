@@ -2,91 +2,75 @@
 
 ## Google Drive Integration
 
-This repository includes a GitHub Actions workflow to import files from Google Drive.
+This repository includes a GitHub Actions workflow to import files from Google Drive automatically.
 
-### Prerequisites
+### Quick Start Guide
 
-- A Google Account with access to Google Drive
-- Administrative access to this GitHub repository
-- Basic familiarity with command line tools (for token generation)
+Follow these steps to set up Google Drive integration:
 
 ---
 
-## Complete Setup Guide - Step by Step
+## Step 1: Create Google Cloud Project and Enable API
 
-### Step 1: Create a Google Cloud Project and Enable Google Drive API
-
-1. Open your web browser and go to the [Google Cloud Console](https://console.cloud.google.com/)
+1. Go to [Google Cloud Console](https://console.cloud.google.com/)
 2. Sign in with your Google Account
-3. Click on the project dropdown at the top of the page
-4. Click **"New Project"**
-5. Enter a project name (e.g., "GitHub Actions Drive Import")
-6. Click **"Create"** and wait for the project to be created
-7. Make sure your new project is selected in the project dropdown
-8. In the left sidebar, click **"APIs & Services"** > **"Library"**
-9. Search for "Google Drive API"
-10. Click on "Google Drive API" in the results
-11. Click the **"Enable"** button
-12. Wait for the API to be enabled (this may take a few seconds)
+3. Click the project dropdown at the top → **"New Project"**
+4. Enter project name (e.g., "GitHub-GDrive-Import") → **"Create"**
+5. Select your new project from the dropdown
+6. Navigate to **"APIs & Services"** → **"Library"**
+7. Search for **"Google Drive API"** and click on it
+8. Click **"Enable"**
 
-### Step 2: Create OAuth 2.0 Credentials
+## Step 2: Create OAuth 2.0 Credentials
 
-1. In the Google Cloud Console, go to **"APIs & Services"** > **"Credentials"**
-2. Click **"Create Credentials"** at the top of the page
-3. Select **"OAuth client ID"** from the dropdown
-4. If prompted to configure the OAuth consent screen:
+1. Go to **"APIs & Services"** → **"Credentials"**
+2. Click **"Create Credentials"** → **"OAuth client ID"**
+3. If prompted, configure the consent screen:
    - Click **"Configure Consent Screen"**
-   - Select **"External"** user type
-   - Click **"Create"**
-   - Fill in the required fields:
-     - App name: "GitHub Actions Drive Import"
-     - User support email: (your email)
-     - Developer contact information: (your email)
-   - Click **"Save and Continue"**
-   - Skip the "Scopes" step by clicking **"Save and Continue"**
-   - Skip the "Test users" step by clicking **"Save and Continue"**
-   - Click **"Back to Dashboard"**
-5. Go back to **"Credentials"** and click **"Create Credentials"** > **"OAuth client ID"** again
-6. For "Application type", select **"Desktop app"**
-7. Enter a name (e.g., "Skicka Desktop Client")
-8. Click **"Create"**
-9. A dialog will appear with your credentials - **IMPORTANT: Copy these values now:**
-   - **Client ID** (looks like: `xxxxx.apps.googleusercontent.com`)
-   - **Client Secret** (a random string)
-10. Click **"OK"** (you can also download the JSON file for backup)
+   - Select **"External"** → **"Create"**
+   - Fill in required fields:
+     - App name: "GitHub GDrive Import"
+     - User support email: your email
+     - Developer contact: your email
+   - Click **"Save and Continue"** through all steps
+   - Return to **"Credentials"**
+4. Click **"Create Credentials"** → **"OAuth client ID"** again
+5. Application type: **"Desktop app"**
+6. Name: "Skicka Client"
+7. Click **"Create"**
+8. **IMPORTANT:** Copy and save:
+   - **Client ID** (format: `xxxxx.apps.googleusercontent.com`)
+   - **Client Secret** (random string)
 
-### Step 3: Generate Token Cache Using Skicka
+## Step 3: Generate Token with Skicka
 
-This is the most technical step. You need to run `skicka` on your local computer to authenticate and generate a token.
+You need to install Skicka on your computer and authenticate with Google.
 
-#### 3.1. Install Skicka
+### Install Skicka
 
-**On macOS (using Homebrew):**
+**macOS (Homebrew):**
 ```bash
 brew install skicka
 ```
 
-**On Linux:**
+**Linux:**
 ```bash
-# Download the latest release from GitHub
 wget https://github.com/google/skicka/releases/download/v0.8.0/skicka-v0.8.0-linux-amd64
 chmod +x skicka-v0.8.0-linux-amd64
 sudo mv skicka-v0.8.0-linux-amd64 /usr/local/bin/skicka
 ```
 
-**On Windows:**
-- Download the Windows executable from [Skicka Releases](https://github.com/google/skicka/releases)
-- Add it to your PATH or run from the download directory
+**Windows:**
+Download from [Skicka Releases](https://github.com/google/skicka/releases) and add to PATH.
 
-#### 3.2. Configure Skicka
+### Configure and Authenticate
 
-1. Open a terminal/command prompt
-2. Create a skicka configuration file:
+1. Initialize skicka:
 ```bash
 skicka init
 ```
-3. This creates `~/.skicka.config` (or `%USERPROFILE%\.skicka.config` on Windows)
-4. Edit the configuration file and add your credentials:
+
+2. Edit the config file (`~/.skicka.config` on macOS/Linux, `%USERPROFILE%\.skicka.config` on Windows):
 ```json
 {
   "clientid": "YOUR_CLIENT_ID_FROM_STEP_2",
@@ -94,196 +78,233 @@ skicka init
 }
 ```
 
-#### 3.3. Authenticate and Generate Token
-
-1. Run the following command to authenticate:
+3. Authenticate (this will open your browser):
 ```bash
 skicka ls /
 ```
-2. Skicka will open a browser window asking you to authorize the application
-3. Sign in with your Google Account
-4. Click **"Allow"** to grant permissions
-5. The browser will show a success message
-6. Go back to your terminal - skicka should now list your Google Drive root folder
-7. Skicka has created a token file at `~/.skicka.tokencache.json`
 
-#### 3.4. Get the Token Content
+4. Sign in, grant permissions, and return to terminal
 
-You need the entire content of the token file as a JSON string:
+5. Copy the token file content:
 
-**On macOS/Linux:**
+**macOS/Linux:**
 ```bash
 cat ~/.skicka.tokencache.json
 ```
 
-**On Windows:**
+**Windows:**
 ```cmd
 type %USERPROFILE%\.skicka.tokencache.json
 ```
 
-Copy the entire JSON content (it will look like `{"access_token":"...","token_type":"Bearer",...}`)
+Copy the entire JSON output (starts with `{"access_token":...`)
 
-### Step 4: Configure GitHub Secrets
+## Step 4: Configure GitHub Secrets
 
-1. Open your GitHub repository in a web browser
-2. Click on **"Settings"** (you need admin access)
-3. In the left sidebar, click **"Secrets and variables"** > **"Actions"**
-4. Click **"New repository secret"**
-5. Add the first secret:
-   - Name: `GOOGLE_CLIENT_ID`
-   - Secret: Paste your Client ID from Step 2
-   - Click **"Add secret"**
-6. Click **"New repository secret"** again
-7. Add the second secret:
-   - Name: `GOOGLE_CLIENT_SECRET`
-   - Secret: Paste your Client Secret from Step 2
-   - Click **"Add secret"**
-8. Click **"New repository secret"** one more time
-9. Add the third secret:
-   - Name: `GOOGLE_DRIVE_TOKEN`
-   - Secret: Paste the entire JSON content from Step 3.4
-   - Click **"Add secret"**
+1. Go to your GitHub repository → **"Settings"** → **"Secrets and variables"** → **"Actions"**
+2. Click **"New repository secret"** and add these three secrets:
 
-You should now see all three secrets listed on the Actions secrets page.
+| Secret Name | Value |
+|------------|-------|
+| `GOOGLE_CLIENT_ID` | Your Client ID from Step 2 |
+| `GOOGLE_CLIENT_SECRET` | Your Client Secret from Step 2 |
+| `GOOGLE_DRIVE_TOKEN` | Complete JSON from Step 3 |
 
 ---
 
-## How to Use the Workflow
+## How to Use
 
-Once you've completed the setup steps above, you can import files from Google Drive:
+### Running the Workflow
 
-1. Go to the **Actions** tab in your GitHub repository
-2. In the left sidebar, click on **"Import Files from Google Drive"**
-3. Click the **"Run workflow"** button (on the right side)
-4. Fill in the required inputs:
-   - **Folder path**: The path to your folder in Google Drive (see below for details)
-   - **Target path**: Where to save the files in the repository (default: `./`)
-5. Click **"Run workflow"** to start the import
+1. Go to **Actions** tab in GitHub
+2. Select **"Import Files from Google Drive"** workflow
+3. Click **"Run workflow"**
+4. Fill in the inputs:
+   - **Folder path**: Google Drive folder path (see below)
+   - **Target path**: Where to save in repo (default: `./`)
+5. Click **"Run workflow"**
 
-#### Understanding Google Drive Folder Paths
+### Understanding Folder Paths
 
-**Important:** Skicka (the tool used by this workflow) works with **folder paths**, not folder IDs from URLs.
-
-**To find your folder path:**
-1. Open Google Drive in your browser
-2. Navigate to the folder you want to import
-3. Note the folder structure from your Drive root
+The workflow uses **folder paths**, not URLs or folder IDs.
 
 **Examples:**
-- If your folder is in the root of "My Drive" and named "ProjectData": `/ProjectData`
-- If your folder is nested: `/Work/Projects/Data`
-- If you're sharing a folder that's not in your root: Create or move it to a known path
+- Root folder named "ProjectData": `/ProjectData`
+- Nested folder: `/Work/Projects/Data2024`
+- Subfolder: `/MyDocs/Reports/Q4`
 
-**You can also use folder IDs (from URLs), but this is less reliable:**
-1. Look at the URL when viewing a folder: `https://drive.google.com/drive/folders/1AbCdEfGhIjKlMnOpQrStUvWxYz`
-2. The folder ID is: `1AbCdEfGhIjKlMnOpQrStUvWxYz`
-3. Enter it in the workflow (the workflow will automatically add a `/` prefix)
+**Important Notes:**
+- Paths must start with `/`
+- Use the folder structure as it appears in "My Drive"
+- Paths are case-sensitive
 
-**Recommendation:** Use folder paths for more predictable results.
+**Finding Your Folder Path:**
 
-#### What the Workflow Does
+You can verify the path locally:
+```bash
+skicka ls /                    # List root folders
+skicka ls /MyFolder            # List contents of a folder
+skicka ls /MyFolder/SubFolder  # Navigate deeper
+```
 
-The workflow will:
-1. Check out your repository
-2. Connect to Google Drive using your credentials
-3. Download all files from the specified folder
-4. Save them to the specified path in the repository
-5. Automatically commit and push the changes
+### What the Workflow Does
+
+1. ✓ Checks out your repository
+2. ✓ Connects to Google Drive with your credentials
+3. ✓ Downloads all files from the specified folder
+4. ✓ Saves them to the target path in your repository
+5. ✓ Automatically commits and pushes the changes
+
+The `remove-outdated: true` setting ensures that if files are deleted from Google Drive, they'll also be removed from your repository on the next sync.
 
 ---
 
 ## Troubleshooting
 
+### "Neither input download-from nor upload-to has been specified"
+
+This error means the workflow configuration is incorrect. Make sure you're using the updated workflow file from this repository.
+
 ### "Permission denied" or "Authentication failed"
 
-- Verify that all three secrets are correctly set in GitHub
-- Make sure the token hasn't expired (Google tokens can expire after a period of inactivity)
-- To regenerate the token:
-  1. Run `skicka ls /` on your local machine
-  2. Re-authenticate if prompted
-  3. Copy the new token from `~/.skicka.tokencache.json`
-  4. Update the `GOOGLE_DRIVE_TOKEN` secret in GitHub
+**Cause:** Invalid or expired credentials.
 
-### "Folder not found" or "No such file or directory"
+**Solution:**
+1. Verify all three secrets are set correctly in GitHub
+2. Check the token hasn't expired
+3. Regenerate token:
+   ```bash
+   skicka ls /
+   ```
+4. Update `GOOGLE_DRIVE_TOKEN` secret with new token
 
-**This is the most common issue.** Skicka uses path-based navigation:
-- **Correct format:** `/MyFolder/SubFolder` (path from your Drive root)
-- **Incorrect format:** `1AbCdEfGhIjKlMnOpQrStUvWxYz` (folder ID without context)
+### "Folder not found"
 
-**To fix:**
-1. Run `skicka ls /` locally to see your Drive root folders
-2. Navigate to find your folder: `skicka ls /MyFolder`
-3. Use the full path in the workflow, e.g., `/MyFolder/DataToImport`
+**Cause:** Incorrect folder path.
 
-### "No changes to commit - no files were downloaded"
+**Solution:**
+1. Verify the path locally:
+   ```bash
+   skicka ls /
+   skicka ls /YourFolder
+   ```
+2. Use the exact path (case-sensitive)
+3. Ensure path starts with `/`
+4. Check you have access to the folder in Google Drive
 
-This means the download didn't retrieve any files:
-- The folder path is incorrect (see above)
-- The folder is empty in Google Drive
-- Your Google account doesn't have access to the folder
-- Check the workflow logs in GitHub Actions for specific error messages
+### "No changes to commit"
 
-### Workflow Fails to Run
+**Cause:** The folder exists but no files were downloaded.
 
-- Check the Actions tab for detailed error messages
-- Ensure you have write permissions for the repository
-- Verify that GitHub Actions are enabled for the repository (Settings > Actions > General)
+**Possible reasons:**
+- Folder is empty in Google Drive
+- Path is incorrect
+- No access to the folder
+- Files already exist and haven't changed
 
-### Files are Downloaded but Not Committed
+**Solution:**
+- Check workflow logs in Actions tab for specific errors
+- Verify folder contains files in Google Drive
+- Confirm your Google account has access
 
-- Check if the files exceed GitHub's size limits (100 MB recommended, 2 GB maximum per file)
-- Large repositories may hit GitHub's repository size limit
-- Check the workflow logs for git errors
+### Token Expiration
 
----
+Google OAuth tokens can expire after prolonged inactivity.
 
-## Important Notes
+**Symptoms:** Workflow worked before but now fails with authentication errors.
 
-- **Folder Paths vs IDs**: Skicka works best with paths (like `/MyFolder/SubFolder`) rather than folder IDs from URLs
-- **Token Security**: Your token gives access to Google Drive. Always store it in GitHub Secrets, never commit it to the repository
-- **Token Expiration**: Google OAuth tokens can expire. If the workflow stops working after a while, regenerate the token (see Step 3)
-- **File Size Limits**: GitHub has limits on file sizes. Very large files may fail to upload
-- **Bandwidth**: Downloading many large files may take time. Check the Actions logs for progress
-
----
-
-## Tips for Success
-
-1. **Test with a Small Folder First**: Before importing large amounts of data, test with a small folder to ensure everything works
-2. **Organize Your Drive**: Keep files you want to import in clearly-named folders at predictable paths
-3. **Check Logs**: Always review the workflow logs in the Actions tab to see what happened
-4. **Use Specific Paths**: Instead of importing your entire Drive, target specific folders
-5. **Clean Up**: After importing, you may want to disable or delete old workflow runs to save Actions minutes
+**Solution:** Regenerate the token (Step 3) and update the `GOOGLE_DRIVE_TOKEN` secret.
 
 ---
 
-## Alternative: Using Folder Paths
+## Best Practices
 
-Since skicka works with paths, here's the recommended workflow:
+### 1. Test with Small Folders First
+Before importing large amounts of data, test with a small folder to ensure everything works.
 
-1. **Organize your Google Drive:**
-   - Create a dedicated folder for files to import (e.g., `/GitHub-Imports/RM330-Data`)
+### 2. Organize Your Drive
+Keep files in clearly named folders with predictable paths:
+- ✓ Good: `/GitHub-Imports/RM330-Data`
+- ✗ Avoid: `/My Documents/Various/Stuff/Random/Data`
 
-2. **Find the path:**
-   - Run `skicka ls /` locally to list root folders
-   - Navigate to confirm: `skicka ls /GitHub-Imports`
+### 3. Be Mindful of File Sizes
+- GitHub has file size limits (100 MB recommended maximum)
+- Large files may fail to commit
+- Repository size limit is typically 1-5 GB
 
-3. **Use in workflow:**
-   - Enter the full path: `/GitHub-Imports/RM330-Data`
-   - Or just the folder name if it's in root: `/RM330-Data`
+### 4. Use Specific Paths
+Import specific folders rather than your entire Drive:
+- ✓ Good: `/Projects/RM330/DataFiles`
+- ✗ Avoid: `/` (entire Drive)
+
+### 5. Monitor Workflow Runs
+Check the Actions tab after each run to ensure success and review what was imported.
+
+---
+
+## Security Notes
+
+⚠️ **IMPORTANT:**
+- Never commit the token file or credentials to the repository
+- Always store credentials in GitHub Secrets
+- Treat your token like a password - it grants access to your Google Drive
+- Consider creating a dedicated Google account for automation
+- Regularly review and rotate credentials
+
+---
+
+## Advanced Usage
+
+### Scheduling Automatic Imports
+
+You can modify the workflow to run on a schedule. Add this to the `on:` section:
+
+```yaml
+on:
+  workflow_dispatch:    # Keep manual trigger
+    # ... existing inputs ...
+  schedule:
+    - cron: '0 2 * * *'  # Runs daily at 2 AM UTC
+```
+
+### Importing to Different Branches
+
+By default, files are imported to the current branch. You can modify the checkout step to target a specific branch:
+
+```yaml
+- name: Checkout repository
+  uses: actions/checkout@v4
+  with:
+    ref: data-imports  # Specify target branch
+```
 
 ---
 
 ## References
 
 - [Skicka Documentation](https://github.com/google/skicka)
-- [action-google-drive GitHub Action](https://github.com/satackey/action-google-drive)
-- [Google Drive API Documentation](https://developers.google.com/drive)
+- [action-google-drive](https://github.com/satackey/action-google-drive)
+- [Google Drive API](https://developers.google.com/drive)
+- [GitHub Actions Secrets](https://docs.github.com/en/actions/security-guides/encrypted-secrets)
 
 ---
 
-## Original Notes
+## Summary Setup Checklist
 
-instalar desde marketplace herramienta https://github.com/prasmussen/gdrive
+Use this checklist to ensure you've completed all setup steps:
 
+- [ ] Created Google Cloud project
+- [ ] Enabled Google Drive API
+- [ ] Created OAuth 2.0 credentials
+- [ ] Installed Skicka on local machine
+- [ ] Configured Skicka with credentials
+- [ ] Authenticated with Google and generated token
+- [ ] Added `GOOGLE_CLIENT_ID` secret in GitHub
+- [ ] Added `GOOGLE_CLIENT_SECRET` secret in GitHub
+- [ ] Added `GOOGLE_DRIVE_TOKEN` secret in GitHub
+- [ ] Verified folder path with `skicka ls`
+- [ ] Tested workflow with a small folder first
 
+Once all items are checked, you're ready to import files from Google Drive!
+
+---
